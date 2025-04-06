@@ -1,0 +1,22 @@
+/* Estilo oscuro para dropdown */
+.Select-control,
+.Select-menu-outer,
+.Select-menu {
+    background-color: #343a40 !important;
+    color: #ffffff !important;
+    border: 1px solid #495057 !important;
+}
+
+.Select-option {
+    background-color: #343a40 !important;
+    color: #ffffff !important;
+}
+
+.Select-option:hover {
+    background-color: #495057 !important;
+    color: #ffffff !important;
+}
+
+.Select-value-label {
+    color: #ffffff !important;
+}
