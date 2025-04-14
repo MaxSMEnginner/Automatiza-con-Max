@@ -9,6 +9,8 @@ from models import Movimiento, Base
 from logic import agregar_movimiento, obtener_movimientos
 from components.charts import render_grafico
 import os
+from components.kpis import render_kpis
+
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.DARKLY], suppress_callback_exceptions=True)
 app.title = "Dashboard de Ingresos y Egresos"
@@ -69,9 +71,9 @@ def render_tabla(page_size=10):
 # Layout con tabla y gráfica ya precargadas
 app.layout = create_layout(
     tabla_inicial=lambda: render_tabla(),
-    grafico_inicial=lambda: render_grafico()
+    grafico_inicial=lambda: render_grafico(),
+    kpis_inicial=lambda: render_kpis()
 )
-
 @app.callback(
     Output("result", "children"),
     Output("tabla-movimientos", "children"),
@@ -113,6 +115,15 @@ def guardar_datos(n_clicks, tipo, categoria, monto, descripcion, plazo, metodo):
 )
 def actualizar_page_size(value):
     return value
+
+@app.callback(
+    Output("kpi-container", "children"),
+    Input("guardar", "n_clicks"),
+    prevent_initial_call=True
+)
+def actualizar_kpis(n_clicks):
+    return render_kpis()
+
 
 if __name__ == "__main__":
     app.run(debug=True)
