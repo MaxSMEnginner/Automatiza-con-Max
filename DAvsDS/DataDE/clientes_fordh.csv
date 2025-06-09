@@ -1,0 +1,301 @@
+ClienteID,Nombre,TipoCliente,Ciudad,AntigüedadCliente,VolumenComprasEstimado
+1,"Brooks, Khan and Mcdaniel",Mayorista,Bentonchester,14,436458
+2,Woods LLC,Taller,Lake Philipview,8,318597
+3,Nielsen-Jackson,Mayorista,South Scott,1,447031
+4,"Mccarty, Simmons and Suarez",Distribuidor,Aprilview,11,63603
+5,"Adams, Miller and Malone",Particular,Lake Markbury,2,332257
+6,Phillips-Cunningham,Mayorista,Jessicaview,4,112480
+7,Riley Ltd,Mayorista,Hoffmantown,15,393072
+8,Hartman Inc,Taller,Juliaville,9,297776
+9,"Palmer, Adams and Andrews",Particular,Lindaberg,6,384086
+10,Stewart Ltd,Particular,Garciafort,2,232422
+11,Rios PLC,Mayorista,Arellanoton,2,338634
+12,Schultz-Franklin,Taller,East Luis,8,324893
+13,Hernandez-Foster,Taller,Lawrencechester,10,369035
+14,"Hernandez, Jones and Evans",Taller,Jamesmouth,12,263607
+15,"Carlson, Summers and Joseph",Mayorista,Reyestown,4,316216
+16,Mitchell-Myers,Taller,Benderview,2,494596
+17,Graham-Clayton,Mayorista,Stephenburgh,2,487661
+18,"Knox, Bond and Cowan",Mayorista,East Danielle,12,489757
+19,Allen and Sons,Particular,Lake Chaseville,2,279224
+20,Molina and Sons,Distribuidor,Elizabethstad,13,141325
+21,"Coleman, Lopez and Miller",Distribuidor,Colemanport,7,102684
+22,Washington Inc,Mayorista,West Timothyport,11,435097
+23,"Mason, Bush and Nielsen",Mayorista,Lake Eugenefurt,13,388176
+24,Boone Ltd,Distribuidor,North Julie,11,362522
+25,"Johnson, Alvarez and Williams",Distribuidor,Lake Lorishire,7,392191
+26,Lynn Group,Particular,Melissaberg,9,284810
+27,Rose-Meadows,Taller,Lake Daniellestad,10,238292
+28,Cook-Howard,Taller,Huntershire,8,243772
+29,Baker and Sons,Particular,South Emilyborough,9,177752
+30,Cook Group,Taller,South Johnshire,5,407624
+31,Hall Ltd,Mayorista,Jonesmouth,5,271355
+32,Collins and Sons,Taller,Lake Edward,6,437148
+33,Stephenson-Nicholson,Taller,South Amy,6,305899
+34,Torres-Cantu,Taller,Wellsshire,8,122013
+35,"Ramos, Harrison and Miller",Particular,Port Tammy,7,156445
+36,Mills PLC,Mayorista,Flemingport,13,64054
+37,Bean Group,Distribuidor,Thomasstad,10,280334
+38,Washington PLC,Distribuidor,East Heidiland,7,434219
+39,Ferguson-Pearson,Particular,Gregoryborough,2,382751
+40,Peterson and Sons,Distribuidor,South Bradleyshire,2,205664
+41,Rodriguez and Sons,Distribuidor,Matthewmouth,8,499040
+42,"Proctor, Bennett and Paul",Particular,Reesefurt,5,222056
+43,Greene Inc,Mayorista,East Annachester,8,415666
+44,"Miller, Morris and Powell",Particular,East Rhondaside,3,198845
+45,Mclaughlin-Mitchell,Taller,Priceville,7,340694
+46,"Shelton, Maldonado and Pierce",Particular,Lake Sherryport,4,346727
+47,Jackson-Coffey,Taller,Port Phillipland,13,490290
+48,"Strickland, Armstrong and Payne",Mayorista,Port Kimberlymouth,11,67697
+49,Moss LLC,Particular,Davidton,13,442891
+50,"Jones, Atkins and Acevedo",Taller,West Christinaland,8,68139
+51,Adkins-Cobb,Taller,South Karenbury,9,305488
+52,Lucas and Sons,Taller,North Josephberg,4,256361
+53,Anderson-Wright,Particular,Sullivanstad,9,146486
+54,Barker and Sons,Distribuidor,Jamesbury,6,378924
+55,Garcia PLC,Distribuidor,East Scott,10,184099
+56,Martin LLC,Particular,East Karen,4,291307
+57,"Evans, Walters and Thomas",Taller,North Timothy,15,292918
+58,Downs Ltd,Distribuidor,South Michael,13,212362
+59,Stewart PLC,Particular,North Karenberg,5,311188
+60,Perez-Hill,Taller,Christinaland,7,112603
+61,"Smith, Simmons and Flores",Mayorista,North Ricardotown,15,285768
+62,"Smith, Gonzalez and Mack",Mayorista,East Andrewton,2,194213
+63,Johnson-Carpenter,Distribuidor,Carrollview,12,345344
+64,"Reynolds, Flores and Brown",Taller,Port Catherine,15,297907
+65,"Jones, Adams and Bartlett",Mayorista,Alisonland,3,254687
+66,Klein PLC,Distribuidor,North Nathanielchester,10,352124
+67,Valentine LLC,Distribuidor,New Debraside,13,250966
+68,Miller-Roy,Mayorista,Kimberlychester,5,354702
+69,Santana-Adams,Taller,Port Joan,11,133283
+70,Summers-Williams,Particular,Costamouth,10,338458
+71,Strickland and Sons,Distribuidor,Port David,6,134856
+72,Medina-Garcia,Distribuidor,Hodgesmouth,12,278500
+73,"Peterson, Johnson and Anderson",Taller,Laurenberg,3,185708
+74,"Moore, Campbell and Barnes",Mayorista,New Douglasstad,15,486958
+75,Hall-Hicks,Distribuidor,East Barbarachester,1,361589
+76,Evans-Williams,Taller,New Helen,8,414471
+77,"Gray, Thomas and Weaver",Particular,Mccallfurt,3,81908
+78,"Turner, Allison and Turner",Taller,Jenniferfort,2,215542
+79,"Johnson, Andrews and Gomez",Taller,North Misty,9,453666
+80,Zavala-Sharp,Particular,North Joanne,6,358432
+81,Buck-Stewart,Particular,West Kayleeside,8,355446
+82,Wilson-Maldonado,Distribuidor,Port Angela,11,82735
+83,Chung PLC,Distribuidor,New Michael,3,187268
+84,Simpson PLC,Distribuidor,New Veronicaland,7,220595
+85,Patterson-Burgess,Particular,West Eric,7,111814
+86,Hall PLC,Taller,East Jamie,7,335782
+87,Williams-Mack,Particular,East Angela,14,115930
+88,"Jones, Marsh and Scott",Particular,Lake Kimberlystad,12,299681
+89,Mendoza Ltd,Taller,Vasquezview,4,499098
+90,"Caldwell, Raymond and Beltran",Particular,Gonzalezhaven,13,489484
+91,"Glass, Rodriguez and Calhoun",Mayorista,Karenton,6,415536
+92,Reed-Ford,Mayorista,Williamschester,14,498576
+93,Kim-Scott,Distribuidor,Annaview,2,466850
+94,"Barber, Silva and Brewer",Taller,Lake Morganberg,1,159227
+95,Patterson-Berg,Taller,Katiechester,7,176825
+96,Thompson Inc,Mayorista,Wagnermouth,6,284558
+97,Hays-Summers,Taller,Mcphersontown,4,403452
+98,Walton Group,Taller,Johnport,2,144972
+99,"Clark, Castro and Taylor",Distribuidor,Stacychester,2,334791
+100,Duncan-Anderson,Distribuidor,North Kendramouth,6,199102
+101,Coleman Ltd,Mayorista,Lake Gregoryshire,9,78132
+102,Watson-Ward,Taller,New Kimberly,2,352176
+103,"Brown, Ramos and Johnson",Mayorista,New Lorraineberg,5,140872
+104,Hayden Group,Particular,New Amberfort,12,382010
+105,"Bean, Moore and Charles",Particular,Port Joseph,5,201322
+106,Brown LLC,Taller,Lorimouth,14,417817
+107,Marshall Group,Taller,Teresabury,14,227309
+108,Robinson-Cox,Mayorista,Christinetown,8,345416
+109,Walker Group,Mayorista,East Charlesberg,5,367974
+110,Thompson-Jackson,Mayorista,Christopherfort,1,382643
+111,Castro Group,Particular,South Tom,1,329800
+112,Watts Inc,Distribuidor,Catherineport,13,497682
+113,Villa Ltd,Mayorista,Bonillaland,1,92783
+114,Taylor Inc,Particular,Cherylbury,2,261768
+115,Johnson Group,Mayorista,Sydneyfurt,13,235796
+116,Jones-Smith,Taller,South Brianmouth,5,389154
+117,"May, Schneider and Hopkins",Particular,Martinborough,3,231364
+118,Wilkerson LLC,Distribuidor,New Michael,14,233500
+119,"Park, Parker and Gonzalez",Mayorista,Patriciastad,9,244948
+120,Cobb Inc,Mayorista,Monicachester,14,186906
+121,"Anderson, Warren and Nelson",Taller,Ericville,15,423812
+122,Thomas Group,Particular,Joshuaport,3,448527
+123,Davis Group,Particular,Alvarezmouth,7,167382
+124,"Baker, Gates and Davis",Taller,Johntown,4,474678
+125,"Klein, Jenkins and Simmons",Particular,South Patriciaton,7,170469
+126,"Williams, Rice and Jackson",Particular,Riveraport,15,392436
+127,Williams Inc,Mayorista,Lisamouth,15,271834
+128,Pearson Inc,Mayorista,Wiseton,12,315964
+129,Taylor-Rodriguez,Mayorista,South Johnburgh,15,156554
+130,"Lee, Lucas and Williams",Taller,Carriefort,9,397507
+131,Yoder LLC,Taller,Kimberlyton,6,187066
+132,Stevens-Vasquez,Mayorista,Donaldberg,12,141545
+133,Stewart-Hawkins,Distribuidor,New Elizabethton,3,281982
+134,Browning-Parks,Particular,Jacobton,14,371373
+135,"Reed, Morrow and Reed",Taller,New Marcus,14,198911
+136,Myers PLC,Particular,Elizabethville,10,141783
+137,"Davis, Brown and Owens",Distribuidor,West Jacqueline,8,198955
+138,"Roman, Smith and Bryant",Mayorista,Ryanberg,8,119434
+139,Love and Sons,Particular,Anthonybury,2,192016
+140,Fisher Group,Mayorista,Lake Isaiahburgh,11,276413
+141,Johnson Ltd,Mayorista,Port Andrewside,9,487008
+142,"Foster, Stanley and Schmidt",Mayorista,East Sheenafort,5,455630
+143,Bass-Williams,Distribuidor,West Daniel,15,321423
+144,Edwards-Martin,Distribuidor,East Margaret,6,346428
+145,"Castillo, Wise and Powell",Particular,Annland,3,448617
+146,Miller LLC,Particular,Sarahberg,10,492537
+147,Rhodes PLC,Particular,New Ericville,13,90876
+148,Pacheco and Sons,Mayorista,Haileyburgh,12,97383
+149,Jensen LLC,Particular,Sotoport,5,162420
+150,"Peterson, Elliott and Neal",Particular,Kimview,7,356879
+151,Clark PLC,Taller,Seanmouth,8,458892
+152,Blankenship Group,Particular,Wayneton,7,151117
+153,"Burns, Knight and Johnson",Mayorista,Port Juanchester,13,333379
+154,Nicholson Inc,Distribuidor,Lake Mariahstad,10,175390
+155,Blake PLC,Particular,Shawnberg,4,252063
+156,Romero-Sanchez,Taller,East Lori,6,371608
+157,Gay-Hughes,Distribuidor,Port Cathy,14,379514
+158,Fields-Castillo,Mayorista,West Meganmouth,8,387830
+159,"Colon, Cook and Byrd",Distribuidor,New Elijah,3,453915
+160,Morgan-Anderson,Particular,Olivermouth,12,102476
+161,Jones-Burke,Distribuidor,South Christopherport,7,309768
+162,Moore PLC,Taller,Fryeland,8,390705
+163,"Kane, Clark and Dominguez",Particular,New James,1,154909
+164,Joseph and Sons,Taller,Kellyfurt,6,319311
+165,Snyder-Martin,Particular,Rodriguezstad,13,301607
+166,Ramirez-Lewis,Taller,Deniseberg,3,279761
+167,Francis PLC,Particular,Perezburgh,7,187076
+168,Terry and Sons,Distribuidor,South Brian,12,295838
+169,Nguyen Inc,Taller,West Matthewberg,14,292892
+170,"Jones, King and Shaw",Distribuidor,Jacobfort,1,237887
+171,Harris PLC,Particular,Erinstad,5,130033
+172,Jones LLC,Mayorista,Donaldsonport,9,444284
+173,Jarvis Group,Distribuidor,Jenniferville,2,341649
+174,Burns PLC,Distribuidor,Patrickport,1,212953
+175,"Walter, Ward and Wade",Particular,Jenniferville,12,57131
+176,West-Avila,Particular,South Jason,14,184249
+177,Martinez Group,Taller,Beasleyburgh,3,444260
+178,Ford Group,Taller,West Christopherfort,2,417947
+179,Shepherd and Sons,Mayorista,Lake Josephfurt,5,246967
+180,"Pennington, Webster and Walton",Distribuidor,West Rachelmouth,12,250245
+181,Williams LLC,Distribuidor,Lewisbury,10,59753
+182,"Green, Lewis and Murillo",Particular,North Samuel,8,483939
+183,Sanchez-Brewer,Taller,Sheilatown,3,293229
+184,Knight-Castro,Particular,Lake Juliestad,9,365666
+185,Marks PLC,Mayorista,Port Karenmouth,10,312195
+186,"Romero, Chase and Sullivan",Particular,Lake Brittney,7,405552
+187,"Davis, Galvan and Mcdonald",Particular,Riverafurt,5,453948
+188,"Michael, Ibarra and Peterson",Particular,Juliefurt,9,495335
+189,Randolph-Hernandez,Mayorista,West James,8,207045
+190,Small LLC,Particular,Greenemouth,9,367968
+191,"Abbott, Miller and Lopez",Distribuidor,Kimberlymouth,10,300492
+192,Roberts Group,Taller,Andradeport,1,56903
+193,"Brown, Morrow and Lang",Distribuidor,Hollowayview,9,187707
+194,"Murillo, Conley and Willis",Distribuidor,Veronicaburgh,9,472515
+195,Rivas and Sons,Mayorista,North Marie,1,93009
+196,Grant LLC,Distribuidor,Garciachester,15,443849
+197,"Bowman, Brady and Poole",Taller,East Kimberly,4,231202
+198,"Hansen, Allen and Frazier",Distribuidor,South Lindsayshire,2,50568
+199,"Ward, Garner and Thomas",Taller,Lewismouth,4,101022
+200,Mcpherson-Sherman,Taller,South Wendy,9,285083
+201,Hays-White,Particular,New Lisa,6,483078
+202,Harris PLC,Mayorista,New Madison,6,96034
+203,"Brooks, Garrett and Ellis",Particular,Mcintoshmouth,15,138588
+204,"Trevino, Johnson and Mata",Distribuidor,West Scottport,1,368457
+205,Wright Ltd,Distribuidor,Port Jeffreyshire,4,121621
+206,Rodriguez LLC,Mayorista,North Marcus,4,265717
+207,"Chavez, Morales and Love",Particular,Fischerside,6,469684
+208,Miller Group,Particular,North Rick,7,429300
+209,Gordon Group,Particular,Port Annettetown,6,463064
+210,"Walker, Owen and Price",Distribuidor,East Annbury,14,133641
+211,Miller Ltd,Distribuidor,Reidburgh,12,350672
+212,"Campos, Burns and Keller",Taller,Josephshire,7,58940
+213,Scott-Rodriguez,Distribuidor,Port Travis,9,103704
+214,Howard-Elliott,Mayorista,Hayleyfort,14,106980
+215,Castro Inc,Taller,North Arthurside,15,188207
+216,"Huerta, Hernandez and Good",Mayorista,Kingstad,5,404974
+217,Craig-Garcia,Distribuidor,Port Laurenchester,10,396650
+218,Powell-Goodwin,Particular,Lake Ryan,14,264102
+219,Proctor Group,Distribuidor,Kimberlyfurt,8,75248
+220,Webb-Smith,Particular,Lake Peter,11,172140
+221,Williams Ltd,Mayorista,North Samanthashire,7,233615
+222,Ramsey Inc,Distribuidor,Stephanieside,11,249384
+223,Henry-Smith,Distribuidor,Port Robinbury,14,246259
+224,Mata-Cannon,Mayorista,Tracyhaven,4,478270
+225,Mcdonald PLC,Particular,North Jessica,15,321379
+226,Jackson Group,Particular,Amytown,10,207665
+227,"Moore, Miller and Boyd",Taller,New Melvin,3,186421
+228,Zimmerman-Acosta,Taller,Yushire,1,285030
+229,Hernandez-Galvan,Particular,Stevensburgh,7,219349
+230,"Vasquez, Carr and Kim",Particular,North Sherylshire,12,404304
+231,Walker-Alexander,Mayorista,Port Christine,9,101431
+232,Davis-Jones,Distribuidor,Robertsonberg,12,227939
+233,Knight and Sons,Mayorista,Douglasborough,8,189062
+234,Howell and Sons,Mayorista,North Lesliefurt,3,349786
+235,Glover PLC,Taller,Thomasland,11,116640
+236,Willis-Chapman,Mayorista,South Wendy,4,470406
+237,Delgado-Ellis,Distribuidor,West Laura,1,280140
+238,"Turner, Day and Price",Distribuidor,West Donnaburgh,10,94590
+239,Knight-Braun,Particular,Timothystad,9,268418
+240,Smith-Hinton,Distribuidor,Joymouth,4,395286
+241,"Brock, Clark and Nguyen",Particular,Penaton,1,104095
+242,"Bradford, Casey and Perez",Particular,Lake Todd,1,442803
+243,"Lutz, Estrada and Campbell",Taller,North Christopher,14,440677
+244,Jordan Ltd,Distribuidor,Cynthiaton,8,412331
+245,Dalton PLC,Mayorista,Matthewton,10,442807
+246,Joyce LLC,Mayorista,Anaberg,13,252725
+247,"Contreras, Carpenter and Wilson",Distribuidor,Ginafurt,7,334068
+248,"Hernandez, Hall and Anthony",Distribuidor,Jefferyfurt,2,285073
+249,Hartman and Sons,Taller,South Emilychester,11,186222
+250,Pollard PLC,Particular,Lake Christina,2,287715
+251,Burnett LLC,Mayorista,Rachelbury,14,248009
+252,Daniels LLC,Distribuidor,East Josephtown,9,52368
+253,"Mclean, Torres and Jones",Distribuidor,Lewistown,8,322032
+254,Jensen PLC,Distribuidor,Port Lori,10,409142
+255,Foster and Sons,Taller,North Nathan,14,338327
+256,Peterson Ltd,Distribuidor,East Maryport,7,444879
+257,"Lyons, Robinson and Jordan",Particular,New Kimberly,15,56341
+258,Rice PLC,Taller,Brendafort,2,195433
+259,Holloway-Christensen,Taller,North Kenneth,14,378214
+260,Noble-Bryan,Mayorista,West Paigeshire,1,69676
+261,"Houston, Davidson and Kelly",Particular,Hodgesview,10,250047
+262,Williams and Sons,Distribuidor,South Michaelberg,1,362044
+263,"Blake, Reyes and Love",Distribuidor,North Frances,7,153258
+264,"Hopkins, Cobb and Spencer",Mayorista,North Sheila,1,472349
+265,Simpson-Cabrera,Mayorista,Santiagotown,13,297050
+266,Davenport-Hanson,Taller,Leefurt,12,339849
+267,Garrett Inc,Taller,Dawnview,9,203802
+268,"Carroll, Schultz and Singh",Mayorista,Mirandaside,12,374204
+269,"Garner, Miller and Miller",Mayorista,Dorisview,13,424975
+270,Barber-Buck,Taller,Johnsonfurt,13,408499
+271,Williams Ltd,Distribuidor,South Wesley,12,235665
+272,Wilson-Williams,Mayorista,Brownburgh,11,393219
+273,"Mckay, Long and Bass",Mayorista,Larsontown,4,247794
+274,Gentry Inc,Taller,Port Kylehaven,15,221432
+275,Wright PLC,Mayorista,New Adamland,1,389288
+276,"Andrade, Gill and Gomez",Taller,Coryland,12,120312
+277,Hahn-Fowler,Particular,Michaelport,9,370582
+278,Lopez and Sons,Distribuidor,Higginsburgh,9,366339
+279,Williams and Sons,Distribuidor,New Austin,8,114643
+280,Cook-Hughes,Distribuidor,South Robertfurt,11,368540
+281,"Bright, Garcia and Meyer",Mayorista,Amytown,10,197222
+282,"Brady, Johnson and Hunter",Taller,Nicholsonshire,6,65157
+283,Ortiz and Sons,Taller,West Patricia,5,108200
+284,Johnson Ltd,Mayorista,Port Natashachester,10,246985
+285,James-Morris,Distribuidor,Ericbury,9,434117
+286,Neal-Chen,Mayorista,New Jennyborough,12,272525
+287,"Greer, Ward and Huffman",Taller,West Brooke,2,475193
+288,"Gutierrez, Mcgrath and Norris",Taller,Timothymouth,4,148745
+289,Kelly-Cohen,Mayorista,North Laura,12,340779
+290,Rodriguez-Young,Distribuidor,Amyville,13,235880
+291,Myers Group,Particular,New Lauren,4,139137
+292,Turner-Davis,Distribuidor,Hortonchester,14,295275
+293,Moore PLC,Taller,Bradyside,6,285767
+294,Kent-Garcia,Distribuidor,Port Charlesbury,8,495127
+295,Morton Ltd,Distribuidor,North Nathanielchester,12,214951
+296,"Hall, Turner and Wolf",Mayorista,East Tracyport,7,240535
+297,Garcia-Noble,Distribuidor,Johnstonshire,6,396822
+298,"Watts, Hall and Hart",Particular,Port Franceschester,8,363730
+299,"Walker, Murphy and Velazquez",Distribuidor,Victorshire,14,88881
+300,Aguilar and Sons,Particular,Andersonfort,1,380460

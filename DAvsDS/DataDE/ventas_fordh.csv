@@ -1,0 +1,1001 @@
+Fecha,Producto,Categoría,Precio,Costo,Cantidad,Sucursal,ClienteID
+2025-01-20,Alternador,Eléctrico,4500,2800,2,Puebla,251
+2024-09-13,Amortiguador,Suspensión,900,600,4,CDMX,164
+2025-02-19,Radiador,Enfriamiento,3500,2100,3,CDMX,45
+2024-08-15,Filtro de Aire,Mantenimiento,300,150,2,Puebla,203
+2024-12-08,Faros LED,Iluminación,1800,1100,2,Querétaro,27
+2025-04-24,Faros LED,Iluminación,1800,1100,3,Puebla,207
+2025-06-02,Sensor de Oxígeno,Motor,1200,700,4,Querétaro,39
+2024-07-01,Faros LED,Iluminación,1800,1100,2,Guadalajara,92
+2025-06-02,Sensor de Oxígeno,Motor,1200,700,2,Querétaro,215
+2025-01-24,Radiador,Enfriamiento,3500,2100,4,Querétaro,278
+2024-12-09,Sensor de Oxígeno,Motor,1200,700,4,Querétaro,143
+2024-10-04,Bujías,Motor,700,400,2,Puebla,178
+2024-08-06,Pastillas de Freno,Mantenimiento,850,500,1,Puebla,91
+2024-11-16,Bujías,Motor,700,400,4,Puebla,132
+2024-09-17,Faros LED,Iluminación,1800,1100,3,Querétaro,149
+2025-06-02,Batería 12V,Eléctrico,2000,1300,4,Querétaro,84
+2024-06-24,Filtro de Aire,Mantenimiento,300,150,3,CDMX,235
+2025-03-07,Faros LED,Iluminación,1800,1100,3,Guadalajara,9
+2024-07-14,Alternador,Eléctrico,4500,2800,3,Monterrey,19
+2025-03-10,Alternador,Eléctrico,4500,2800,2,CDMX,278
+2025-01-20,Faros LED,Iluminación,1800,1100,3,Monterrey,188
+2025-05-28,Alternador,Eléctrico,4500,2800,1,CDMX,113
+2024-06-17,Bujías,Motor,700,400,2,Querétaro,209
+2024-09-28,Radiador,Enfriamiento,3500,2100,3,CDMX,209
+2025-01-03,Batería 12V,Eléctrico,2000,1300,3,CDMX,1
+2024-10-15,Bujías,Motor,700,400,4,Guadalajara,43
+2024-06-13,Batería 12V,Eléctrico,2000,1300,1,Querétaro,36
+2024-07-29,Filtro de Aceite,Mantenimiento,250,120,2,Puebla,124
+2024-07-17,Sensor de Oxígeno,Motor,1200,700,4,CDMX,129
+2024-12-01,Filtro de Aceite,Mantenimiento,250,120,3,Guadalajara,71
+2024-10-17,Sensor de Oxígeno,Motor,1200,700,2,Guadalajara,117
+2024-07-11,Radiador,Enfriamiento,3500,2100,1,Guadalajara,203
+2024-09-11,Filtro de Aceite,Mantenimiento,250,120,4,CDMX,26
+2025-04-01,Pastillas de Freno,Mantenimiento,850,500,2,Guadalajara,32
+2025-01-05,Filtro de Aceite,Mantenimiento,250,120,2,Monterrey,1
+2024-10-05,Alternador,Eléctrico,4500,2800,4,Querétaro,23
+2024-07-05,Bujías,Motor,700,400,2,Guadalajara,205
+2025-05-15,Sensor de Oxígeno,Motor,1200,700,2,Puebla,86
+2024-11-21,Faros LED,Iluminación,1800,1100,2,CDMX,216
+2024-07-28,Amortiguador,Suspensión,900,600,3,Monterrey,168
+2024-08-06,Filtro de Aire,Mantenimiento,300,150,1,Puebla,115
+2025-01-22,Amortiguador,Suspensión,900,600,3,Monterrey,291
+2024-06-15,Amortiguador,Suspensión,900,600,3,Monterrey,11
+2024-12-07,Filtro de Aire,Mantenimiento,300,150,2,Guadalajara,84
+2024-09-12,Bujías,Motor,700,400,3,Monterrey,133
+2024-08-05,Pastillas de Freno,Mantenimiento,850,500,3,Monterrey,182
+2024-10-06,Radiador,Enfriamiento,3500,2100,2,Querétaro,73
+2025-03-14,Amortiguador,Suspensión,900,600,3,Puebla,139
+2024-06-18,Sensor de Oxígeno,Motor,1200,700,3,Monterrey,120
+2025-02-21,Radiador,Enfriamiento,3500,2100,2,Querétaro,261
+2025-01-15,Bujías,Motor,700,400,1,Puebla,39
+2024-09-30,Batería 12V,Eléctrico,2000,1300,4,Puebla,137
+2024-09-25,Pastillas de Freno,Mantenimiento,850,500,1,Guadalajara,191
+2024-07-18,Radiador,Enfriamiento,3500,2100,4,Puebla,45
+2024-07-21,Sensor de Oxígeno,Motor,1200,700,2,Monterrey,48
+2024-12-17,Bujías,Motor,700,400,2,Guadalajara,23
+2024-09-10,Amortiguador,Suspensión,900,600,1,Querétaro,55
+2024-12-15,Filtro de Aire,Mantenimiento,300,150,3,Guadalajara,130
+2025-04-07,Alternador,Eléctrico,4500,2800,4,Puebla,152
+2025-04-25,Radiador,Enfriamiento,3500,2100,4,Puebla,278
+2024-12-02,Filtro de Aceite,Mantenimiento,250,120,1,Monterrey,106
+2024-12-22,Filtro de Aire,Mantenimiento,300,150,1,Monterrey,163
+2024-10-05,Pastillas de Freno,Mantenimiento,850,500,2,Monterrey,286
+2024-06-10,Alternador,Eléctrico,4500,2800,3,Puebla,70
+2024-09-21,Pastillas de Freno,Mantenimiento,850,500,4,Monterrey,37
+2024-11-03,Filtro de Aceite,Mantenimiento,250,120,1,Querétaro,278
+2024-10-30,Pastillas de Freno,Mantenimiento,850,500,1,CDMX,97
+2025-03-20,Pastillas de Freno,Mantenimiento,850,500,2,Monterrey,144
+2024-11-08,Bujías,Motor,700,400,2,Querétaro,100
+2025-01-09,Amortiguador,Suspensión,900,600,3,Querétaro,3
+2024-12-07,Amortiguador,Suspensión,900,600,1,Querétaro,66
+2024-07-27,Filtro de Aceite,Mantenimiento,250,120,2,Monterrey,122
+2024-07-08,Batería 12V,Eléctrico,2000,1300,2,Monterrey,162
+2024-10-07,Filtro de Aceite,Mantenimiento,250,120,2,Guadalajara,267
+2024-12-08,Filtro de Aceite,Mantenimiento,250,120,3,Guadalajara,190
+2024-08-24,Sensor de Oxígeno,Motor,1200,700,4,Monterrey,74
+2024-09-14,Sensor de Oxígeno,Motor,1200,700,3,CDMX,201
+2025-02-28,Bujías,Motor,700,400,3,Guadalajara,147
+2025-03-08,Filtro de Aire,Mantenimiento,300,150,1,Monterrey,169
+2024-06-14,Faros LED,Iluminación,1800,1100,3,Puebla,165
+2024-06-17,Filtro de Aire,Mantenimiento,300,150,2,Querétaro,127
+2024-09-08,Batería 12V,Eléctrico,2000,1300,3,Puebla,53
+2024-11-26,Pastillas de Freno,Mantenimiento,850,500,2,Puebla,51
+2024-06-09,Batería 12V,Eléctrico,2000,1300,2,Puebla,100
+2025-06-03,Bujías,Motor,700,400,2,Guadalajara,250
+2025-04-14,Filtro de Aire,Mantenimiento,300,150,1,Guadalajara,9
+2024-12-18,Sensor de Oxígeno,Motor,1200,700,1,Guadalajara,49
+2025-01-05,Bujías,Motor,700,400,4,Guadalajara,112
+2024-09-17,Alternador,Eléctrico,4500,2800,4,Querétaro,83
+2025-01-13,Filtro de Aceite,Mantenimiento,250,120,3,Puebla,104
+2025-05-05,Batería 12V,Eléctrico,2000,1300,1,Guadalajara,167
+2024-07-21,Bujías,Motor,700,400,2,Puebla,229
+2024-09-28,Pastillas de Freno,Mantenimiento,850,500,3,Monterrey,291
+2024-08-28,Sensor de Oxígeno,Motor,1200,700,1,Monterrey,140
+2024-11-29,Filtro de Aire,Mantenimiento,300,150,3,Guadalajara,25
+2025-06-02,Filtro de Aceite,Mantenimiento,250,120,1,Puebla,144
+2025-05-10,Filtro de Aceite,Mantenimiento,250,120,2,Guadalajara,242
+2025-03-19,Amortiguador,Suspensión,900,600,1,Puebla,133
+2025-03-26,Bujías,Motor,700,400,2,Guadalajara,154
+2025-03-17,Bujías,Motor,700,400,2,CDMX,29
+2025-03-03,Alternador,Eléctrico,4500,2800,3,Guadalajara,101
+2025-05-10,Sensor de Oxígeno,Motor,1200,700,1,Guadalajara,31
+2024-09-30,Sensor de Oxígeno,Motor,1200,700,3,Monterrey,162
+2024-08-28,Radiador,Enfriamiento,3500,2100,1,Monterrey,293
+2024-10-04,Pastillas de Freno,Mantenimiento,850,500,2,Monterrey,180
+2025-02-15,Amortiguador,Suspensión,900,600,2,CDMX,174
+2024-07-10,Sensor de Oxígeno,Motor,1200,700,3,Monterrey,247
+2024-06-23,Batería 12V,Eléctrico,2000,1300,3,Querétaro,5
+2024-10-22,Pastillas de Freno,Mantenimiento,850,500,1,Querétaro,280
+2024-11-13,Bujías,Motor,700,400,1,CDMX,159
+2025-01-29,Amortiguador,Suspensión,900,600,4,Monterrey,94
+2024-11-21,Faros LED,Iluminación,1800,1100,1,Guadalajara,231
+2024-11-27,Alternador,Eléctrico,4500,2800,4,CDMX,256
+2024-07-19,Filtro de Aceite,Mantenimiento,250,120,1,Guadalajara,205
+2025-02-17,Radiador,Enfriamiento,3500,2100,3,CDMX,63
+2025-02-07,Filtro de Aire,Mantenimiento,300,150,2,Guadalajara,186
+2025-03-25,Bujías,Motor,700,400,3,Querétaro,238
+2024-12-15,Faros LED,Iluminación,1800,1100,2,Puebla,204
+2024-10-12,Radiador,Enfriamiento,3500,2100,4,CDMX,194
+2025-06-01,Amortiguador,Suspensión,900,600,3,Querétaro,88
+2024-10-08,Faros LED,Iluminación,1800,1100,2,Guadalajara,163
+2025-05-15,Filtro de Aceite,Mantenimiento,250,120,2,Guadalajara,230
+2024-08-11,Radiador,Enfriamiento,3500,2100,1,Guadalajara,24
+2025-05-24,Alternador,Eléctrico,4500,2800,1,CDMX,275
+2024-07-08,Batería 12V,Eléctrico,2000,1300,1,CDMX,34
+2024-08-18,Sensor de Oxígeno,Motor,1200,700,1,CDMX,87
+2024-09-26,Radiador,Enfriamiento,3500,2100,1,Querétaro,6
+2025-05-21,Alternador,Eléctrico,4500,2800,2,Guadalajara,95
+2024-07-15,Amortiguador,Suspensión,900,600,3,CDMX,254
+2025-05-31,Filtro de Aire,Mantenimiento,300,150,2,Querétaro,86
+2025-03-31,Pastillas de Freno,Mantenimiento,850,500,2,Guadalajara,8
+2025-02-16,Filtro de Aire,Mantenimiento,300,150,1,Puebla,115
+2025-05-17,Pastillas de Freno,Mantenimiento,850,500,4,Querétaro,98
+2024-07-14,Radiador,Enfriamiento,3500,2100,3,Guadalajara,252
+2024-08-23,Bujías,Motor,700,400,2,Guadalajara,231
+2024-09-03,Sensor de Oxígeno,Motor,1200,700,2,Puebla,184
+2025-05-04,Radiador,Enfriamiento,3500,2100,3,CDMX,117
+2024-08-30,Bujías,Motor,700,400,3,Monterrey,103
+2024-06-11,Batería 12V,Eléctrico,2000,1300,1,Puebla,218
+2024-12-25,Sensor de Oxígeno,Motor,1200,700,1,Puebla,35
+2025-03-02,Bujías,Motor,700,400,4,CDMX,239
+2024-10-11,Batería 12V,Eléctrico,2000,1300,1,CDMX,175
+2025-03-13,Batería 12V,Eléctrico,2000,1300,3,Monterrey,221
+2024-12-23,Sensor de Oxígeno,Motor,1200,700,1,CDMX,4
+2024-09-08,Sensor de Oxígeno,Motor,1200,700,2,Puebla,282
+2025-04-24,Filtro de Aire,Mantenimiento,300,150,1,Guadalajara,4
+2024-06-24,Filtro de Aire,Mantenimiento,300,150,2,Querétaro,271
+2025-05-24,Radiador,Enfriamiento,3500,2100,2,Guadalajara,55
+2024-09-04,Sensor de Oxígeno,Motor,1200,700,2,Guadalajara,272
+2025-05-13,Alternador,Eléctrico,4500,2800,1,Guadalajara,122
+2025-05-24,Filtro de Aceite,Mantenimiento,250,120,1,Guadalajara,69
+2025-01-01,Batería 12V,Eléctrico,2000,1300,3,Querétaro,297
+2024-10-01,Sensor de Oxígeno,Motor,1200,700,1,Guadalajara,35
+2024-10-30,Sensor de Oxígeno,Motor,1200,700,4,CDMX,93
+2024-11-30,Batería 12V,Eléctrico,2000,1300,3,Querétaro,38
+2024-12-17,Radiador,Enfriamiento,3500,2100,1,Monterrey,56
+2024-12-13,Radiador,Enfriamiento,3500,2100,2,CDMX,261
+2025-01-12,Sensor de Oxígeno,Motor,1200,700,1,Guadalajara,213
+2024-08-26,Radiador,Enfriamiento,3500,2100,2,Querétaro,166
+2024-08-27,Bujías,Motor,700,400,4,Monterrey,20
+2025-03-14,Bujías,Motor,700,400,1,Puebla,131
+2024-07-22,Batería 12V,Eléctrico,2000,1300,3,Querétaro,115
+2025-03-24,Sensor de Oxígeno,Motor,1200,700,3,Querétaro,231
+2025-02-06,Alternador,Eléctrico,4500,2800,4,Guadalajara,126
+2024-12-14,Alternador,Eléctrico,4500,2800,2,Puebla,227
+2024-12-16,Bujías,Motor,700,400,1,Querétaro,193
+2024-06-25,Bujías,Motor,700,400,2,Puebla,43
+2025-02-05,Alternador,Eléctrico,4500,2800,3,CDMX,158
+2024-08-10,Filtro de Aceite,Mantenimiento,250,120,2,Monterrey,263
+2025-01-23,Filtro de Aire,Mantenimiento,300,150,4,Guadalajara,55
+2025-03-06,Faros LED,Iluminación,1800,1100,3,Guadalajara,281
+2024-09-14,Bujías,Motor,700,400,2,CDMX,177
+2025-04-11,Radiador,Enfriamiento,3500,2100,1,Querétaro,119
+2024-12-09,Amortiguador,Suspensión,900,600,4,Querétaro,294
+2025-04-16,Filtro de Aire,Mantenimiento,300,150,1,CDMX,200
+2024-12-20,Amortiguador,Suspensión,900,600,2,Guadalajara,282
+2024-09-24,Bujías,Motor,700,400,2,CDMX,174
+2024-08-05,Batería 12V,Eléctrico,2000,1300,2,Guadalajara,257
+2025-04-05,Sensor de Oxígeno,Motor,1200,700,2,Puebla,218
+2024-12-08,Filtro de Aire,Mantenimiento,300,150,1,Querétaro,276
+2024-11-11,Filtro de Aceite,Mantenimiento,250,120,1,Querétaro,294
+2024-09-11,Batería 12V,Eléctrico,2000,1300,3,Monterrey,139
+2025-05-23,Alternador,Eléctrico,4500,2800,2,Guadalajara,138
+2024-10-12,Amortiguador,Suspensión,900,600,4,Querétaro,194
+2025-04-02,Pastillas de Freno,Mantenimiento,850,500,3,Puebla,211
+2025-03-08,Pastillas de Freno,Mantenimiento,850,500,3,Guadalajara,178
+2024-09-30,Alternador,Eléctrico,4500,2800,3,Guadalajara,51
+2025-05-23,Bujías,Motor,700,400,1,Monterrey,139
+2025-01-17,Pastillas de Freno,Mantenimiento,850,500,3,Guadalajara,205
+2024-10-26,Bujías,Motor,700,400,4,Puebla,199
+2024-08-19,Filtro de Aceite,Mantenimiento,250,120,3,Querétaro,91
+2024-06-30,Faros LED,Iluminación,1800,1100,4,CDMX,253
+2025-04-19,Sensor de Oxígeno,Motor,1200,700,2,CDMX,38
+2024-06-25,Batería 12V,Eléctrico,2000,1300,1,Querétaro,286
+2024-11-02,Alternador,Eléctrico,4500,2800,1,Querétaro,171
+2024-09-13,Radiador,Enfriamiento,3500,2100,1,Guadalajara,122
+2024-10-04,Amortiguador,Suspensión,900,600,3,Puebla,170
+2025-05-11,Sensor de Oxígeno,Motor,1200,700,4,Querétaro,145
+2025-05-30,Amortiguador,Suspensión,900,600,2,Querétaro,82
+2024-11-21,Sensor de Oxígeno,Motor,1200,700,2,Querétaro,258
+2025-03-18,Alternador,Eléctrico,4500,2800,4,Guadalajara,77
+2024-10-09,Sensor de Oxígeno,Motor,1200,700,4,CDMX,166
+2025-03-21,Filtro de Aceite,Mantenimiento,250,120,4,Guadalajara,248
+2024-07-01,Bujías,Motor,700,400,2,CDMX,236
+2025-05-01,Alternador,Eléctrico,4500,2800,4,Guadalajara,292
+2024-12-19,Radiador,Enfriamiento,3500,2100,1,CDMX,189
+2024-12-03,Filtro de Aire,Mantenimiento,300,150,2,Guadalajara,243
+2024-12-29,Alternador,Eléctrico,4500,2800,4,Puebla,78
+2025-01-16,Alternador,Eléctrico,4500,2800,1,Querétaro,298
+2024-11-22,Pastillas de Freno,Mantenimiento,850,500,1,Guadalajara,26
+2024-08-12,Faros LED,Iluminación,1800,1100,1,CDMX,161
+2025-04-23,Sensor de Oxígeno,Motor,1200,700,4,Guadalajara,102
+2025-03-13,Filtro de Aire,Mantenimiento,300,150,3,CDMX,124
+2024-11-11,Batería 12V,Eléctrico,2000,1300,4,Monterrey,9
+2024-08-02,Filtro de Aceite,Mantenimiento,250,120,3,Puebla,284
+2024-08-28,Pastillas de Freno,Mantenimiento,850,500,4,Querétaro,108
+2024-08-13,Amortiguador,Suspensión,900,600,3,Querétaro,29
+2025-01-26,Filtro de Aceite,Mantenimiento,250,120,4,Guadalajara,272
+2025-04-11,Alternador,Eléctrico,4500,2800,4,CDMX,61
+2025-02-28,Sensor de Oxígeno,Motor,1200,700,2,CDMX,47
+2025-01-10,Filtro de Aceite,Mantenimiento,250,120,2,Puebla,286
+2025-04-18,Amortiguador,Suspensión,900,600,1,Monterrey,13
+2025-04-25,Batería 12V,Eléctrico,2000,1300,4,Monterrey,96
+2025-05-10,Pastillas de Freno,Mantenimiento,850,500,3,Querétaro,36
+2024-08-23,Filtro de Aire,Mantenimiento,300,150,3,Querétaro,217
+2025-05-30,Sensor de Oxígeno,Motor,1200,700,1,Puebla,193
+2024-12-17,Pastillas de Freno,Mantenimiento,850,500,3,Querétaro,19
+2024-12-05,Batería 12V,Eléctrico,2000,1300,1,Puebla,57
+2025-03-22,Filtro de Aire,Mantenimiento,300,150,2,Querétaro,200
+2025-02-26,Sensor de Oxígeno,Motor,1200,700,1,Monterrey,258
+2025-04-30,Radiador,Enfriamiento,3500,2100,2,Monterrey,13
+2024-06-10,Batería 12V,Eléctrico,2000,1300,4,Monterrey,138
+2025-05-05,Filtro de Aceite,Mantenimiento,250,120,1,Monterrey,266
+2024-09-14,Amortiguador,Suspensión,900,600,3,Puebla,11
+2024-12-09,Batería 12V,Eléctrico,2000,1300,1,Monterrey,23
+2024-10-15,Filtro de Aceite,Mantenimiento,250,120,4,Guadalajara,102
+2024-09-09,Batería 12V,Eléctrico,2000,1300,4,Monterrey,174
+2025-02-02,Alternador,Eléctrico,4500,2800,2,CDMX,121
+2024-06-26,Amortiguador,Suspensión,900,600,3,Puebla,68
+2024-12-20,Faros LED,Iluminación,1800,1100,4,Querétaro,288
+2025-02-13,Pastillas de Freno,Mantenimiento,850,500,4,Querétaro,287
+2024-08-08,Bujías,Motor,700,400,3,Monterrey,201
+2024-08-26,Sensor de Oxígeno,Motor,1200,700,3,Puebla,147
+2024-07-09,Bujías,Motor,700,400,1,CDMX,139
+2025-03-31,Bujías,Motor,700,400,3,Monterrey,270
+2024-12-31,Batería 12V,Eléctrico,2000,1300,3,Puebla,238
+2024-11-02,Faros LED,Iluminación,1800,1100,4,CDMX,86
+2024-10-29,Filtro de Aire,Mantenimiento,300,150,4,Guadalajara,141
+2024-09-15,Faros LED,Iluminación,1800,1100,2,Puebla,287
+2024-08-25,Filtro de Aceite,Mantenimiento,250,120,1,Monterrey,184
+2025-05-06,Amortiguador,Suspensión,900,600,4,Puebla,158
+2024-07-01,Faros LED,Iluminación,1800,1100,2,Puebla,39
+2025-05-25,Faros LED,Iluminación,1800,1100,3,Querétaro,107
+2025-05-21,Batería 12V,Eléctrico,2000,1300,2,CDMX,66
+2025-02-14,Pastillas de Freno,Mantenimiento,850,500,3,Puebla,276
+2024-07-30,Bujías,Motor,700,400,1,Guadalajara,161
+2024-08-21,Amortiguador,Suspensión,900,600,2,Guadalajara,81
+2025-01-05,Amortiguador,Suspensión,900,600,3,Puebla,70
+2025-06-04,Batería 12V,Eléctrico,2000,1300,4,Monterrey,227
+2024-11-08,Bujías,Motor,700,400,1,Querétaro,185
+2025-05-22,Alternador,Eléctrico,4500,2800,4,CDMX,115
+2024-12-30,Pastillas de Freno,Mantenimiento,850,500,4,Querétaro,203
+2024-12-01,Batería 12V,Eléctrico,2000,1300,3,Guadalajara,131
+2024-09-20,Amortiguador,Suspensión,900,600,1,Puebla,10
+2024-10-14,Amortiguador,Suspensión,900,600,2,Monterrey,26
+2024-10-28,Radiador,Enfriamiento,3500,2100,2,CDMX,211
+2025-06-06,Alternador,Eléctrico,4500,2800,3,Monterrey,114
+2025-05-22,Filtro de Aceite,Mantenimiento,250,120,1,CDMX,77
+2025-05-14,Filtro de Aire,Mantenimiento,300,150,2,Puebla,49
+2024-07-03,Radiador,Enfriamiento,3500,2100,1,Puebla,210
+2024-06-21,Bujías,Motor,700,400,1,Guadalajara,154
+2025-02-23,Batería 12V,Eléctrico,2000,1300,3,CDMX,117
+2025-02-27,Filtro de Aire,Mantenimiento,300,150,2,CDMX,50
+2024-10-31,Pastillas de Freno,Mantenimiento,850,500,4,Querétaro,299
+2024-10-29,Sensor de Oxígeno,Motor,1200,700,2,CDMX,90
+2024-10-10,Filtro de Aire,Mantenimiento,300,150,3,Querétaro,295
+2025-04-09,Filtro de Aire,Mantenimiento,300,150,3,Querétaro,137
+2025-04-07,Radiador,Enfriamiento,3500,2100,3,Guadalajara,178
+2024-07-14,Sensor de Oxígeno,Motor,1200,700,2,Querétaro,111
+2024-12-30,Filtro de Aire,Mantenimiento,300,150,3,Querétaro,190
+2024-11-30,Pastillas de Freno,Mantenimiento,850,500,2,Puebla,87
+2025-02-13,Amortiguador,Suspensión,900,600,3,Guadalajara,218
+2025-03-11,Sensor de Oxígeno,Motor,1200,700,2,CDMX,8
+2025-03-15,Faros LED,Iluminación,1800,1100,3,Querétaro,38
+2025-02-25,Bujías,Motor,700,400,3,Puebla,71
+2024-08-07,Amortiguador,Suspensión,900,600,4,Puebla,12
+2024-07-04,Bujías,Motor,700,400,1,Monterrey,155
+2025-04-29,Amortiguador,Suspensión,900,600,3,Monterrey,110
+2025-03-03,Filtro de Aire,Mantenimiento,300,150,3,Puebla,135
+2024-10-17,Amortiguador,Suspensión,900,600,4,Guadalajara,9
+2025-02-22,Pastillas de Freno,Mantenimiento,850,500,2,CDMX,47
+2025-05-16,Radiador,Enfriamiento,3500,2100,4,Puebla,92
+2024-10-15,Faros LED,Iluminación,1800,1100,2,Querétaro,102
+2024-06-29,Radiador,Enfriamiento,3500,2100,3,Monterrey,73
+2024-07-19,Filtro de Aceite,Mantenimiento,250,120,3,Querétaro,174
+2024-10-14,Bujías,Motor,700,400,4,Puebla,128
+2024-12-04,Alternador,Eléctrico,4500,2800,4,Guadalajara,100
+2024-09-04,Sensor de Oxígeno,Motor,1200,700,4,Monterrey,74
+2025-01-23,Sensor de Oxígeno,Motor,1200,700,2,Monterrey,288
+2025-02-21,Alternador,Eléctrico,4500,2800,1,Puebla,286
+2025-01-30,Pastillas de Freno,Mantenimiento,850,500,3,Querétaro,210
+2025-04-18,Batería 12V,Eléctrico,2000,1300,1,Monterrey,165
+2024-07-17,Amortiguador,Suspensión,900,600,4,CDMX,41
+2024-07-20,Bujías,Motor,700,400,3,Guadalajara,65
+2024-07-28,Faros LED,Iluminación,1800,1100,1,CDMX,89
+2024-10-05,Filtro de Aceite,Mantenimiento,250,120,3,Querétaro,171
+2025-05-26,Sensor de Oxígeno,Motor,1200,700,3,Guadalajara,261
+2024-10-27,Pastillas de Freno,Mantenimiento,850,500,4,Guadalajara,82
+2025-03-14,Faros LED,Iluminación,1800,1100,2,Puebla,121
+2024-09-12,Faros LED,Iluminación,1800,1100,2,CDMX,67
+2024-11-09,Pastillas de Freno,Mantenimiento,850,500,2,Querétaro,155
+2024-12-26,Sensor de Oxígeno,Motor,1200,700,2,Guadalajara,55
+2025-05-05,Filtro de Aire,Mantenimiento,300,150,4,CDMX,116
+2025-03-17,Alternador,Eléctrico,4500,2800,1,Querétaro,30
+2024-08-23,Alternador,Eléctrico,4500,2800,1,Guadalajara,227
+2025-04-03,Faros LED,Iluminación,1800,1100,2,Monterrey,283
+2024-09-30,Filtro de Aire,Mantenimiento,300,150,1,Guadalajara,210
+2024-06-17,Alternador,Eléctrico,4500,2800,1,Guadalajara,74
+2024-11-06,Faros LED,Iluminación,1800,1100,1,Puebla,29
+2024-08-30,Batería 12V,Eléctrico,2000,1300,1,Guadalajara,35
+2024-06-30,Faros LED,Iluminación,1800,1100,3,CDMX,50
+2025-06-03,Bujías,Motor,700,400,2,Monterrey,283
+2024-12-25,Sensor de Oxígeno,Motor,1200,700,3,Puebla,43
+2024-07-25,Alternador,Eléctrico,4500,2800,2,Guadalajara,116
+2024-09-03,Amortiguador,Suspensión,900,600,3,Guadalajara,41
+2024-10-08,Pastillas de Freno,Mantenimiento,850,500,4,Querétaro,10
+2024-06-23,Filtro de Aceite,Mantenimiento,250,120,3,Querétaro,143
+2024-10-30,Bujías,Motor,700,400,2,Querétaro,51
+2025-02-22,Amortiguador,Suspensión,900,600,4,Monterrey,171
+2025-05-02,Batería 12V,Eléctrico,2000,1300,4,Monterrey,212
+2024-07-25,Radiador,Enfriamiento,3500,2100,3,CDMX,156
+2024-06-19,Amortiguador,Suspensión,900,600,4,Monterrey,27
+2024-11-27,Faros LED,Iluminación,1800,1100,2,Guadalajara,141
+2025-02-01,Filtro de Aceite,Mantenimiento,250,120,1,Guadalajara,125
+2024-06-12,Radiador,Enfriamiento,3500,2100,2,Guadalajara,177
+2025-01-05,Pastillas de Freno,Mantenimiento,850,500,4,CDMX,230
+2024-09-03,Pastillas de Freno,Mantenimiento,850,500,4,CDMX,31
+2025-04-18,Bujías,Motor,700,400,3,Monterrey,115
+2024-07-14,Alternador,Eléctrico,4500,2800,2,Monterrey,142
+2025-01-31,Sensor de Oxígeno,Motor,1200,700,2,Puebla,140
+2024-12-10,Amortiguador,Suspensión,900,600,2,Querétaro,278
+2024-09-04,Alternador,Eléctrico,4500,2800,4,Monterrey,162
+2024-09-12,Batería 12V,Eléctrico,2000,1300,4,Puebla,146
+2024-10-08,Filtro de Aire,Mantenimiento,300,150,4,CDMX,233
+2024-10-12,Amortiguador,Suspensión,900,600,1,Puebla,92
+2025-05-08,Bujías,Motor,700,400,1,Guadalajara,273
+2024-09-13,Radiador,Enfriamiento,3500,2100,3,CDMX,157
+2024-09-29,Faros LED,Iluminación,1800,1100,1,CDMX,223
+2025-03-11,Sensor de Oxígeno,Motor,1200,700,4,Puebla,76
+2024-09-06,Bujías,Motor,700,400,3,Puebla,103
+2024-07-06,Filtro de Aire,Mantenimiento,300,150,3,Puebla,266
+2024-06-18,Filtro de Aire,Mantenimiento,300,150,4,Puebla,252
+2024-07-02,Bujías,Motor,700,400,1,CDMX,85
+2024-12-06,Alternador,Eléctrico,4500,2800,3,Guadalajara,98
+2024-07-05,Amortiguador,Suspensión,900,600,2,Querétaro,208
+2025-01-25,Bujías,Motor,700,400,4,Puebla,239
+2024-11-14,Amortiguador,Suspensión,900,600,4,Monterrey,90
+2025-04-24,Radiador,Enfriamiento,3500,2100,3,Guadalajara,214
+2025-05-16,Amortiguador,Suspensión,900,600,3,Monterrey,44
+2025-05-27,Filtro de Aire,Mantenimiento,300,150,4,CDMX,87
+2025-05-30,Faros LED,Iluminación,1800,1100,4,Guadalajara,142
+2025-04-16,Bujías,Motor,700,400,4,Querétaro,152
+2025-06-05,Pastillas de Freno,Mantenimiento,850,500,4,Guadalajara,200
+2024-12-19,Sensor de Oxígeno,Motor,1200,700,4,CDMX,38
+2025-04-28,Alternador,Eléctrico,4500,2800,4,Guadalajara,78
+2024-07-02,Bujías,Motor,700,400,2,Monterrey,97
+2024-12-01,Radiador,Enfriamiento,3500,2100,3,Puebla,84
+2025-04-18,Sensor de Oxígeno,Motor,1200,700,1,Querétaro,173
+2025-06-01,Amortiguador,Suspensión,900,600,4,Querétaro,258
+2024-06-24,Radiador,Enfriamiento,3500,2100,2,Guadalajara,272
+2024-08-20,Filtro de Aceite,Mantenimiento,250,120,2,Guadalajara,60
+2024-12-12,Alternador,Eléctrico,4500,2800,3,Guadalajara,162
+2024-11-16,Batería 12V,Eléctrico,2000,1300,1,Querétaro,13
+2025-03-09,Alternador,Eléctrico,4500,2800,1,Guadalajara,187
+2024-07-03,Amortiguador,Suspensión,900,600,1,Monterrey,103
+2024-08-01,Faros LED,Iluminación,1800,1100,4,Guadalajara,300
+2025-03-12,Filtro de Aire,Mantenimiento,300,150,3,Querétaro,98
+2025-04-06,Amortiguador,Suspensión,900,600,2,Puebla,104
+2024-07-24,Faros LED,Iluminación,1800,1100,1,CDMX,150
+2024-10-19,Radiador,Enfriamiento,3500,2100,3,Puebla,112
+2025-03-30,Faros LED,Iluminación,1800,1100,1,Monterrey,134
+2024-12-16,Filtro de Aire,Mantenimiento,300,150,3,Monterrey,265
+2025-02-11,Alternador,Eléctrico,4500,2800,1,Monterrey,256
+2024-06-13,Bujías,Motor,700,400,2,Puebla,25
+2024-06-10,Pastillas de Freno,Mantenimiento,850,500,4,Puebla,251
+2024-06-14,Radiador,Enfriamiento,3500,2100,3,Monterrey,54
+2024-10-27,Faros LED,Iluminación,1800,1100,1,CDMX,123
+2025-04-06,Pastillas de Freno,Mantenimiento,850,500,1,Monterrey,154
+2024-11-09,Filtro de Aire,Mantenimiento,300,150,1,CDMX,44
+2025-01-10,Alternador,Eléctrico,4500,2800,4,Guadalajara,178
+2024-11-25,Batería 12V,Eléctrico,2000,1300,2,CDMX,148
+2024-09-01,Batería 12V,Eléctrico,2000,1300,4,CDMX,190
+2025-05-23,Sensor de Oxígeno,Motor,1200,700,4,Guadalajara,83
+2025-05-22,Bujías,Motor,700,400,4,Puebla,288
+2024-08-31,Radiador,Enfriamiento,3500,2100,4,Monterrey,219
+2024-07-11,Sensor de Oxígeno,Motor,1200,700,4,CDMX,143
+2024-10-31,Batería 12V,Eléctrico,2000,1300,4,Monterrey,65
+2024-09-12,Amortiguador,Suspensión,900,600,4,Guadalajara,180
+2025-02-19,Pastillas de Freno,Mantenimiento,850,500,3,CDMX,225
+2025-05-27,Batería 12V,Eléctrico,2000,1300,3,Guadalajara,189
+2025-04-16,Faros LED,Iluminación,1800,1100,4,Querétaro,74
+2025-04-07,Radiador,Enfriamiento,3500,2100,3,Querétaro,60
+2024-06-09,Faros LED,Iluminación,1800,1100,3,CDMX,223
+2024-09-30,Filtro de Aire,Mantenimiento,300,150,4,Guadalajara,92
+2024-11-26,Batería 12V,Eléctrico,2000,1300,3,Querétaro,259
+2024-10-11,Faros LED,Iluminación,1800,1100,4,Puebla,214
+2024-09-19,Filtro de Aceite,Mantenimiento,250,120,4,Monterrey,247
+2025-02-28,Amortiguador,Suspensión,900,600,1,Puebla,277
+2024-07-04,Batería 12V,Eléctrico,2000,1300,3,Monterrey,269
+2025-04-27,Filtro de Aire,Mantenimiento,300,150,3,Monterrey,71
+2025-02-27,Filtro de Aire,Mantenimiento,300,150,2,CDMX,237
+2024-06-11,Faros LED,Iluminación,1800,1100,3,CDMX,300
+2025-04-14,Bujías,Motor,700,400,1,Monterrey,33
+2025-01-12,Radiador,Enfriamiento,3500,2100,4,Monterrey,35
+2024-06-16,Sensor de Oxígeno,Motor,1200,700,3,Puebla,122
+2025-04-24,Bujías,Motor,700,400,1,Guadalajara,222
+2024-11-17,Radiador,Enfriamiento,3500,2100,1,Monterrey,266
+2025-03-04,Pastillas de Freno,Mantenimiento,850,500,4,Guadalajara,105
+2025-01-18,Alternador,Eléctrico,4500,2800,1,Querétaro,177
+2025-04-01,Pastillas de Freno,Mantenimiento,850,500,4,Guadalajara,256
+2024-07-03,Faros LED,Iluminación,1800,1100,4,CDMX,242
+2024-06-24,Filtro de Aire,Mantenimiento,300,150,2,Monterrey,256
+2025-01-01,Faros LED,Iluminación,1800,1100,4,Guadalajara,194
+2025-04-21,Filtro de Aire,Mantenimiento,300,150,1,Querétaro,253
+2024-12-12,Alternador,Eléctrico,4500,2800,4,Guadalajara,73
+2025-03-06,Alternador,Eléctrico,4500,2800,2,Guadalajara,176
+2024-08-08,Alternador,Eléctrico,4500,2800,1,Monterrey,30
+2024-12-10,Filtro de Aire,Mantenimiento,300,150,2,Puebla,136
+2025-06-04,Filtro de Aceite,Mantenimiento,250,120,2,Guadalajara,58
+2024-12-22,Alternador,Eléctrico,4500,2800,1,Guadalajara,194
+2024-08-15,Filtro de Aire,Mantenimiento,300,150,1,Guadalajara,229
+2024-09-01,Pastillas de Freno,Mantenimiento,850,500,4,Monterrey,41
+2025-02-20,Amortiguador,Suspensión,900,600,2,Querétaro,48
+2024-09-24,Pastillas de Freno,Mantenimiento,850,500,3,Puebla,201
+2024-11-22,Filtro de Aceite,Mantenimiento,250,120,4,Monterrey,92
+2025-05-08,Filtro de Aire,Mantenimiento,300,150,3,CDMX,99
+2024-12-24,Alternador,Eléctrico,4500,2800,2,Guadalajara,143
+2024-09-24,Faros LED,Iluminación,1800,1100,4,Querétaro,56
+2024-06-14,Pastillas de Freno,Mantenimiento,850,500,1,CDMX,229
+2024-10-16,Filtro de Aire,Mantenimiento,300,150,4,Monterrey,97
+2024-10-16,Batería 12V,Eléctrico,2000,1300,2,Querétaro,192
+2024-07-02,Radiador,Enfriamiento,3500,2100,1,Querétaro,132
+2024-12-15,Faros LED,Iluminación,1800,1100,2,Querétaro,217
+2025-05-26,Batería 12V,Eléctrico,2000,1300,3,Querétaro,22
+2025-05-06,Radiador,Enfriamiento,3500,2100,4,CDMX,64
+2025-02-06,Amortiguador,Suspensión,900,600,4,Monterrey,190
+2024-06-29,Sensor de Oxígeno,Motor,1200,700,4,Querétaro,234
+2025-04-03,Sensor de Oxígeno,Motor,1200,700,1,Monterrey,8
+2025-03-02,Filtro de Aceite,Mantenimiento,250,120,4,CDMX,300
+2025-04-06,Filtro de Aceite,Mantenimiento,250,120,3,Guadalajara,58
+2025-02-28,Batería 12V,Eléctrico,2000,1300,3,CDMX,229
+2025-02-11,Amortiguador,Suspensión,900,600,1,Monterrey,283
+2024-09-01,Filtro de Aire,Mantenimiento,300,150,3,Querétaro,17
+2024-10-30,Filtro de Aceite,Mantenimiento,250,120,3,Guadalajara,158
+2025-06-01,Sensor de Oxígeno,Motor,1200,700,4,Monterrey,174
+2024-06-15,Pastillas de Freno,Mantenimiento,850,500,4,Guadalajara,21
+2025-01-14,Sensor de Oxígeno,Motor,1200,700,3,Puebla,271
+2025-01-07,Faros LED,Iluminación,1800,1100,4,Guadalajara,92
+2024-09-25,Filtro de Aceite,Mantenimiento,250,120,3,Monterrey,216
+2025-01-10,Sensor de Oxígeno,Motor,1200,700,3,Guadalajara,149
+2025-04-12,Sensor de Oxígeno,Motor,1200,700,1,Querétaro,152
+2025-04-08,Radiador,Enfriamiento,3500,2100,1,Querétaro,105
+2024-10-21,Filtro de Aire,Mantenimiento,300,150,4,Monterrey,85
+2024-10-11,Filtro de Aire,Mantenimiento,300,150,4,CDMX,58
+2024-08-23,Sensor de Oxígeno,Motor,1200,700,4,Puebla,220
+2025-01-17,Sensor de Oxígeno,Motor,1200,700,3,Querétaro,229
+2024-08-04,Batería 12V,Eléctrico,2000,1300,2,Puebla,232
+2025-02-28,Batería 12V,Eléctrico,2000,1300,1,CDMX,245
+2024-10-07,Alternador,Eléctrico,4500,2800,4,Querétaro,226
+2025-04-11,Filtro de Aceite,Mantenimiento,250,120,3,Puebla,252
+2025-04-14,Alternador,Eléctrico,4500,2800,3,Guadalajara,148
+2024-12-17,Faros LED,Iluminación,1800,1100,4,CDMX,80
+2025-03-22,Alternador,Eléctrico,4500,2800,3,Puebla,116
+2024-10-02,Batería 12V,Eléctrico,2000,1300,2,CDMX,31
+2024-12-21,Amortiguador,Suspensión,900,600,4,Puebla,101
+2024-10-21,Batería 12V,Eléctrico,2000,1300,3,CDMX,278
+2024-08-21,Filtro de Aceite,Mantenimiento,250,120,2,Puebla,4
+2025-02-17,Radiador,Enfriamiento,3500,2100,2,CDMX,249
+2024-06-15,Batería 12V,Eléctrico,2000,1300,4,Puebla,97
+2025-03-11,Faros LED,Iluminación,1800,1100,3,CDMX,52
+2024-07-29,Filtro de Aceite,Mantenimiento,250,120,2,Guadalajara,20
+2024-09-20,Amortiguador,Suspensión,900,600,1,Guadalajara,43
+2024-06-28,Pastillas de Freno,Mantenimiento,850,500,1,CDMX,57
+2024-07-08,Radiador,Enfriamiento,3500,2100,3,Guadalajara,113
+2024-09-04,Faros LED,Iluminación,1800,1100,3,Puebla,254
+2025-01-05,Alternador,Eléctrico,4500,2800,3,Monterrey,259
+2024-08-24,Alternador,Eléctrico,4500,2800,1,Querétaro,102
+2024-11-17,Filtro de Aire,Mantenimiento,300,150,1,Guadalajara,30
+2025-05-14,Filtro de Aceite,Mantenimiento,250,120,2,Guadalajara,291
+2025-05-13,Batería 12V,Eléctrico,2000,1300,1,Querétaro,122
+2024-09-06,Alternador,Eléctrico,4500,2800,4,Guadalajara,119
+2025-05-20,Amortiguador,Suspensión,900,600,2,Querétaro,7
+2025-02-02,Filtro de Aire,Mantenimiento,300,150,4,Monterrey,241
+2024-07-17,Filtro de Aceite,Mantenimiento,250,120,3,Guadalajara,72
+2025-05-18,Amortiguador,Suspensión,900,600,1,Guadalajara,55
+2025-02-15,Faros LED,Iluminación,1800,1100,3,Guadalajara,39
+2024-06-17,Pastillas de Freno,Mantenimiento,850,500,2,Puebla,261
+2024-10-23,Faros LED,Iluminación,1800,1100,2,Monterrey,11
+2024-10-20,Pastillas de Freno,Mantenimiento,850,500,3,Puebla,176
+2024-11-07,Radiador,Enfriamiento,3500,2100,2,Querétaro,202
+2025-03-20,Alternador,Eléctrico,4500,2800,1,Puebla,288
+2024-07-08,Batería 12V,Eléctrico,2000,1300,4,Puebla,168
+2025-05-13,Filtro de Aire,Mantenimiento,300,150,3,Puebla,153
+2025-06-08,Pastillas de Freno,Mantenimiento,850,500,1,Querétaro,195
+2025-03-09,Batería 12V,Eléctrico,2000,1300,1,Guadalajara,249
+2025-04-10,Batería 12V,Eléctrico,2000,1300,3,Querétaro,210
+2025-06-08,Batería 12V,Eléctrico,2000,1300,4,Querétaro,242
+2025-05-30,Radiador,Enfriamiento,3500,2100,2,Monterrey,156
+2025-02-26,Sensor de Oxígeno,Motor,1200,700,3,Monterrey,155
+2025-01-06,Amortiguador,Suspensión,900,600,4,Guadalajara,91
+2024-09-08,Pastillas de Freno,Mantenimiento,850,500,2,Guadalajara,40
+2024-08-02,Filtro de Aceite,Mantenimiento,250,120,3,Monterrey,99
+2024-06-19,Batería 12V,Eléctrico,2000,1300,2,Guadalajara,130
+2025-01-10,Filtro de Aceite,Mantenimiento,250,120,1,Querétaro,133
+2025-05-19,Radiador,Enfriamiento,3500,2100,4,Puebla,88
+2025-04-09,Faros LED,Iluminación,1800,1100,3,Puebla,27
+2024-07-09,Filtro de Aire,Mantenimiento,300,150,2,CDMX,78
+2025-03-15,Amortiguador,Suspensión,900,600,4,Querétaro,28
+2024-11-12,Pastillas de Freno,Mantenimiento,850,500,4,Monterrey,143
+2024-09-23,Filtro de Aire,Mantenimiento,300,150,4,Querétaro,212
+2025-01-23,Alternador,Eléctrico,4500,2800,3,Guadalajara,246
+2024-10-25,Sensor de Oxígeno,Motor,1200,700,4,Guadalajara,170
+2025-02-01,Filtro de Aire,Mantenimiento,300,150,1,Monterrey,26
+2025-03-19,Filtro de Aire,Mantenimiento,300,150,2,Puebla,223
+2025-01-05,Filtro de Aire,Mantenimiento,300,150,3,Querétaro,53
+2024-12-11,Bujías,Motor,700,400,1,Monterrey,76
+2024-08-31,Sensor de Oxígeno,Motor,1200,700,1,CDMX,274
+2025-05-19,Sensor de Oxígeno,Motor,1200,700,3,Monterrey,243
+2025-02-19,Radiador,Enfriamiento,3500,2100,1,Querétaro,106
+2024-11-17,Radiador,Enfriamiento,3500,2100,1,Guadalajara,232
+2025-01-27,Filtro de Aire,Mantenimiento,300,150,3,Guadalajara,85
+2024-06-13,Batería 12V,Eléctrico,2000,1300,1,Puebla,121
+2025-03-13,Faros LED,Iluminación,1800,1100,1,CDMX,229
+2025-02-17,Amortiguador,Suspensión,900,600,4,CDMX,133
+2024-08-13,Pastillas de Freno,Mantenimiento,850,500,2,Monterrey,216
+2024-10-27,Pastillas de Freno,Mantenimiento,850,500,2,Puebla,47
+2025-04-10,Batería 12V,Eléctrico,2000,1300,1,Guadalajara,118
+2024-10-03,Radiador,Enfriamiento,3500,2100,3,CDMX,82
+2024-08-08,Bujías,Motor,700,400,4,Querétaro,220
+2024-06-17,Bujías,Motor,700,400,3,Querétaro,286
+2024-06-22,Pastillas de Freno,Mantenimiento,850,500,4,CDMX,290
+2024-12-17,Amortiguador,Suspensión,900,600,2,Guadalajara,64
+2025-04-28,Sensor de Oxígeno,Motor,1200,700,2,Guadalajara,287
+2025-05-14,Faros LED,Iluminación,1800,1100,3,Guadalajara,63
+2025-05-11,Faros LED,Iluminación,1800,1100,2,Guadalajara,185
+2024-11-09,Alternador,Eléctrico,4500,2800,2,Querétaro,267
+2024-10-21,Radiador,Enfriamiento,3500,2100,3,Querétaro,86
+2024-10-11,Alternador,Eléctrico,4500,2800,2,Guadalajara,40
+2025-01-02,Filtro de Aire,Mantenimiento,300,150,1,Querétaro,234
+2025-02-21,Filtro de Aceite,Mantenimiento,250,120,3,Puebla,271
+2025-03-06,Bujías,Motor,700,400,3,Puebla,248
+2024-09-08,Batería 12V,Eléctrico,2000,1300,3,CDMX,156
+2024-09-28,Filtro de Aire,Mantenimiento,300,150,4,Monterrey,56
+2025-05-05,Alternador,Eléctrico,4500,2800,1,Monterrey,34
+2024-08-30,Filtro de Aceite,Mantenimiento,250,120,1,CDMX,28
+2025-02-27,Alternador,Eléctrico,4500,2800,4,CDMX,175
+2024-10-14,Pastillas de Freno,Mantenimiento,850,500,4,CDMX,156
+2024-06-30,Filtro de Aire,Mantenimiento,300,150,4,CDMX,209
+2025-02-25,Filtro de Aire,Mantenimiento,300,150,4,Querétaro,41
+2024-10-15,Filtro de Aire,Mantenimiento,300,150,4,Puebla,155
+2025-05-30,Filtro de Aire,Mantenimiento,300,150,3,Monterrey,287
+2025-05-03,Pastillas de Freno,Mantenimiento,850,500,4,Monterrey,193
+2025-01-17,Faros LED,Iluminación,1800,1100,3,Guadalajara,64
+2024-10-07,Sensor de Oxígeno,Motor,1200,700,2,Puebla,4
+2025-05-18,Alternador,Eléctrico,4500,2800,2,Guadalajara,77
+2024-08-31,Filtro de Aire,Mantenimiento,300,150,4,Guadalajara,110
+2024-10-03,Sensor de Oxígeno,Motor,1200,700,3,Guadalajara,139
+2024-06-29,Bujías,Motor,700,400,4,CDMX,187
+2025-03-10,Pastillas de Freno,Mantenimiento,850,500,2,Guadalajara,82
+2024-06-17,Batería 12V,Eléctrico,2000,1300,1,Guadalajara,169
+2025-04-11,Bujías,Motor,700,400,4,Querétaro,137
+2024-12-25,Filtro de Aceite,Mantenimiento,250,120,4,Puebla,25
+2025-06-01,Sensor de Oxígeno,Motor,1200,700,3,Querétaro,208
+2024-11-04,Filtro de Aceite,Mantenimiento,250,120,2,Monterrey,166
+2024-10-19,Pastillas de Freno,Mantenimiento,850,500,2,Monterrey,228
+2024-07-27,Bujías,Motor,700,400,3,Monterrey,80
+2025-03-18,Sensor de Oxígeno,Motor,1200,700,2,Puebla,143
+2025-04-17,Filtro de Aceite,Mantenimiento,250,120,1,Puebla,288
+2025-04-26,Amortiguador,Suspensión,900,600,4,Puebla,24
+2024-11-27,Filtro de Aceite,Mantenimiento,250,120,3,Guadalajara,70
+2025-03-11,Alternador,Eléctrico,4500,2800,1,Guadalajara,178
+2024-11-13,Alternador,Eléctrico,4500,2800,1,CDMX,106
+2025-03-31,Filtro de Aceite,Mantenimiento,250,120,2,CDMX,209
+2025-02-01,Pastillas de Freno,Mantenimiento,850,500,3,Puebla,285
+2024-12-28,Filtro de Aceite,Mantenimiento,250,120,3,Monterrey,149
+2025-05-01,Bujías,Motor,700,400,3,Puebla,48
+2024-07-04,Pastillas de Freno,Mantenimiento,850,500,2,Guadalajara,99
+2024-10-07,Amortiguador,Suspensión,900,600,3,Puebla,146
+2024-08-10,Faros LED,Iluminación,1800,1100,1,Guadalajara,80
+2025-02-12,Radiador,Enfriamiento,3500,2100,2,Monterrey,190
+2025-02-05,Pastillas de Freno,Mantenimiento,850,500,3,CDMX,184
+2025-05-06,Sensor de Oxígeno,Motor,1200,700,3,Monterrey,181
+2024-10-05,Bujías,Motor,700,400,3,Querétaro,38
+2025-06-07,Filtro de Aire,Mantenimiento,300,150,1,Monterrey,277
+2024-11-16,Alternador,Eléctrico,4500,2800,1,Guadalajara,225
+2024-09-28,Amortiguador,Suspensión,900,600,1,Guadalajara,174
+2024-06-16,Batería 12V,Eléctrico,2000,1300,1,Monterrey,2
+2024-06-30,Pastillas de Freno,Mantenimiento,850,500,2,Puebla,26
+2024-11-14,Amortiguador,Suspensión,900,600,4,CDMX,184
+2024-10-06,Faros LED,Iluminación,1800,1100,3,CDMX,135
+2024-09-12,Alternador,Eléctrico,4500,2800,1,Monterrey,151
+2024-11-19,Sensor de Oxígeno,Motor,1200,700,4,Guadalajara,66
+2024-08-17,Alternador,Eléctrico,4500,2800,4,Puebla,234
+2025-05-03,Bujías,Motor,700,400,2,Puebla,197
+2025-05-04,Alternador,Eléctrico,4500,2800,4,Guadalajara,8
+2024-09-17,Batería 12V,Eléctrico,2000,1300,4,Monterrey,194
+2024-10-26,Bujías,Motor,700,400,3,Puebla,257
+2024-11-09,Filtro de Aire,Mantenimiento,300,150,1,Guadalajara,162
+2024-07-15,Filtro de Aceite,Mantenimiento,250,120,4,Querétaro,111
+2025-06-05,Alternador,Eléctrico,4500,2800,1,Guadalajara,271
+2025-01-30,Sensor de Oxígeno,Motor,1200,700,3,CDMX,116
+2024-10-18,Filtro de Aire,Mantenimiento,300,150,4,Puebla,43
+2024-11-19,Bujías,Motor,700,400,4,Puebla,239
+2025-03-20,Alternador,Eléctrico,4500,2800,2,CDMX,251
+2024-09-19,Alternador,Eléctrico,4500,2800,3,Querétaro,14
+2024-07-27,Pastillas de Freno,Mantenimiento,850,500,4,Querétaro,136
+2024-08-13,Amortiguador,Suspensión,900,600,1,CDMX,71
+2025-05-29,Faros LED,Iluminación,1800,1100,1,Monterrey,21
+2025-02-02,Faros LED,Iluminación,1800,1100,4,Monterrey,131
+2025-05-10,Alternador,Eléctrico,4500,2800,4,Querétaro,164
+2024-12-12,Pastillas de Freno,Mantenimiento,850,500,2,Querétaro,106
+2024-09-27,Filtro de Aire,Mantenimiento,300,150,3,CDMX,93
+2025-01-17,Faros LED,Iluminación,1800,1100,4,Monterrey,36
+2024-06-21,Filtro de Aire,Mantenimiento,300,150,1,Querétaro,162
+2024-07-13,Radiador,Enfriamiento,3500,2100,4,Guadalajara,249
+2024-12-14,Sensor de Oxígeno,Motor,1200,700,2,Guadalajara,122
+2025-03-01,Batería 12V,Eléctrico,2000,1300,2,CDMX,128
+2024-09-06,Pastillas de Freno,Mantenimiento,850,500,2,Puebla,31
+2025-04-13,Bujías,Motor,700,400,2,Querétaro,289
+2024-08-26,Pastillas de Freno,Mantenimiento,850,500,2,Querétaro,144
+2024-08-09,Filtro de Aceite,Mantenimiento,250,120,2,Querétaro,224
+2024-12-30,Bujías,Motor,700,400,1,Monterrey,80
+2025-01-24,Filtro de Aceite,Mantenimiento,250,120,1,Querétaro,217
+2025-03-14,Pastillas de Freno,Mantenimiento,850,500,4,Guadalajara,253
+2024-12-21,Filtro de Aceite,Mantenimiento,250,120,2,Puebla,46
+2025-05-12,Filtro de Aceite,Mantenimiento,250,120,4,Monterrey,138
+2024-10-19,Radiador,Enfriamiento,3500,2100,1,Guadalajara,93
+2025-01-17,Bujías,Motor,700,400,4,Querétaro,45
+2025-03-10,Sensor de Oxígeno,Motor,1200,700,2,Guadalajara,112
+2024-11-07,Filtro de Aceite,Mantenimiento,250,120,1,Guadalajara,184
+2025-05-03,Faros LED,Iluminación,1800,1100,1,Monterrey,67
+2024-11-20,Faros LED,Iluminación,1800,1100,3,CDMX,117
+2024-12-05,Radiador,Enfriamiento,3500,2100,4,Guadalajara,47
+2025-04-08,Amortiguador,Suspensión,900,600,4,Querétaro,226
+2024-12-30,Batería 12V,Eléctrico,2000,1300,2,Monterrey,150
+2024-07-24,Amortiguador,Suspensión,900,600,1,Monterrey,257
+2024-12-07,Radiador,Enfriamiento,3500,2100,1,Monterrey,94
+2025-04-02,Pastillas de Freno,Mantenimiento,850,500,3,Monterrey,28
+2024-10-24,Sensor de Oxígeno,Motor,1200,700,2,Puebla,22
+2025-01-04,Faros LED,Iluminación,1800,1100,1,Guadalajara,106
+2025-03-09,Radiador,Enfriamiento,3500,2100,3,Querétaro,206
+2024-06-20,Amortiguador,Suspensión,900,600,2,Querétaro,16
+2025-03-22,Radiador,Enfriamiento,3500,2100,2,CDMX,71
+2025-01-10,Alternador,Eléctrico,4500,2800,2,Puebla,223
+2024-07-27,Amortiguador,Suspensión,900,600,1,Querétaro,167
+2024-06-11,Faros LED,Iluminación,1800,1100,4,Querétaro,97
+2024-07-15,Amortiguador,Suspensión,900,600,1,Guadalajara,131
+2025-03-04,Filtro de Aire,Mantenimiento,300,150,2,Puebla,28
+2025-05-12,Faros LED,Iluminación,1800,1100,1,Puebla,220
+2024-10-26,Pastillas de Freno,Mantenimiento,850,500,3,Puebla,135
+2024-12-31,Faros LED,Iluminación,1800,1100,3,Monterrey,230
+2024-10-13,Radiador,Enfriamiento,3500,2100,2,Querétaro,14
+2024-06-17,Radiador,Enfriamiento,3500,2100,4,Querétaro,234
+2025-02-06,Amortiguador,Suspensión,900,600,2,CDMX,249
+2025-03-29,Filtro de Aceite,Mantenimiento,250,120,4,Guadalajara,73
+2024-11-29,Batería 12V,Eléctrico,2000,1300,4,CDMX,108
+2024-11-16,Alternador,Eléctrico,4500,2800,1,Puebla,262
+2024-09-26,Batería 12V,Eléctrico,2000,1300,1,Guadalajara,170
+2025-01-12,Alternador,Eléctrico,4500,2800,2,Guadalajara,293
+2024-11-08,Filtro de Aire,Mantenimiento,300,150,1,Querétaro,210
+2024-11-13,Filtro de Aire,Mantenimiento,300,150,1,Guadalajara,207
+2025-04-02,Alternador,Eléctrico,4500,2800,2,Querétaro,227
+2024-09-15,Sensor de Oxígeno,Motor,1200,700,4,Monterrey,228
+2024-10-14,Sensor de Oxígeno,Motor,1200,700,1,CDMX,46
+2025-01-22,Radiador,Enfriamiento,3500,2100,4,Monterrey,170
+2024-08-27,Sensor de Oxígeno,Motor,1200,700,1,Puebla,231
+2024-07-05,Filtro de Aceite,Mantenimiento,250,120,2,Monterrey,117
+2024-08-08,Pastillas de Freno,Mantenimiento,850,500,1,Querétaro,194
+2024-09-30,Pastillas de Freno,Mantenimiento,850,500,2,Guadalajara,203
+2024-12-17,Alternador,Eléctrico,4500,2800,1,Querétaro,258
+2024-08-28,Amortiguador,Suspensión,900,600,2,Querétaro,248
+2025-05-18,Filtro de Aceite,Mantenimiento,250,120,1,Guadalajara,218
+2024-11-14,Filtro de Aceite,Mantenimiento,250,120,4,Guadalajara,214
+2025-03-28,Pastillas de Freno,Mantenimiento,850,500,3,Monterrey,151
+2024-06-17,Alternador,Eléctrico,4500,2800,3,Puebla,237
+2025-05-31,Faros LED,Iluminación,1800,1100,3,Querétaro,236
+2025-01-01,Radiador,Enfriamiento,3500,2100,4,Querétaro,48
+2024-08-15,Amortiguador,Suspensión,900,600,1,Guadalajara,213
+2024-06-23,Alternador,Eléctrico,4500,2800,1,Puebla,62
+2024-09-07,Alternador,Eléctrico,4500,2800,1,Guadalajara,18
+2025-01-22,Sensor de Oxígeno,Motor,1200,700,2,Querétaro,212
+2024-09-23,Amortiguador,Suspensión,900,600,1,Puebla,28
+2025-06-02,Alternador,Eléctrico,4500,2800,1,CDMX,135
+2024-09-16,Filtro de Aceite,Mantenimiento,250,120,2,Querétaro,31
+2024-08-29,Batería 12V,Eléctrico,2000,1300,2,Puebla,97
+2024-11-17,Alternador,Eléctrico,4500,2800,4,Guadalajara,143
+2025-03-16,Bujías,Motor,700,400,4,Guadalajara,164
+2025-05-28,Filtro de Aire,Mantenimiento,300,150,2,Monterrey,220
+2025-04-22,Radiador,Enfriamiento,3500,2100,3,CDMX,72
+2025-04-15,Filtro de Aceite,Mantenimiento,250,120,4,Puebla,296
+2024-10-17,Filtro de Aceite,Mantenimiento,250,120,3,Puebla,202
+2025-02-18,Alternador,Eléctrico,4500,2800,1,Monterrey,173
+2024-09-27,Filtro de Aire,Mantenimiento,300,150,1,Guadalajara,4
+2025-01-27,Pastillas de Freno,Mantenimiento,850,500,1,CDMX,299
+2025-05-11,Batería 12V,Eléctrico,2000,1300,4,Querétaro,222
+2024-08-07,Filtro de Aceite,Mantenimiento,250,120,3,CDMX,145
+2024-12-02,Faros LED,Iluminación,1800,1100,4,Puebla,231
+2024-11-24,Bujías,Motor,700,400,1,Monterrey,222
+2025-01-24,Filtro de Aire,Mantenimiento,300,150,3,Puebla,206
+2025-03-08,Pastillas de Freno,Mantenimiento,850,500,3,Monterrey,67
+2024-07-26,Alternador,Eléctrico,4500,2800,4,Puebla,54
+2025-01-29,Sensor de Oxígeno,Motor,1200,700,2,CDMX,135
+2024-11-14,Filtro de Aire,Mantenimiento,300,150,4,Querétaro,243
+2025-05-07,Faros LED,Iluminación,1800,1100,1,Guadalajara,135
+2024-10-10,Radiador,Enfriamiento,3500,2100,3,CDMX,41
+2025-05-02,Filtro de Aire,Mantenimiento,300,150,3,Querétaro,21
+2025-01-25,Sensor de Oxígeno,Motor,1200,700,2,CDMX,241
+2024-11-29,Filtro de Aceite,Mantenimiento,250,120,4,Guadalajara,141
+2024-10-17,Faros LED,Iluminación,1800,1100,4,Monterrey,88
+2024-07-19,Radiador,Enfriamiento,3500,2100,3,Monterrey,195
+2025-03-16,Sensor de Oxígeno,Motor,1200,700,2,Puebla,109
+2024-09-04,Alternador,Eléctrico,4500,2800,3,Puebla,83
+2024-08-09,Filtro de Aceite,Mantenimiento,250,120,2,CDMX,196
+2025-05-26,Radiador,Enfriamiento,3500,2100,3,Puebla,21
+2024-09-25,Batería 12V,Eléctrico,2000,1300,1,Monterrey,73
+2024-08-20,Filtro de Aire,Mantenimiento,300,150,3,Guadalajara,191
+2024-10-17,Batería 12V,Eléctrico,2000,1300,1,Querétaro,88
+2025-06-08,Alternador,Eléctrico,4500,2800,4,Puebla,300
+2024-08-18,Filtro de Aire,Mantenimiento,300,150,4,CDMX,29
+2025-02-27,Filtro de Aire,Mantenimiento,300,150,3,Guadalajara,104
+2025-01-23,Bujías,Motor,700,400,4,Guadalajara,99
+2024-10-01,Filtro de Aceite,Mantenimiento,250,120,3,Guadalajara,296
+2024-08-25,Batería 12V,Eléctrico,2000,1300,1,CDMX,82
+2025-03-28,Alternador,Eléctrico,4500,2800,2,Monterrey,46
+2024-10-05,Bujías,Motor,700,400,3,Puebla,94
+2025-03-13,Sensor de Oxígeno,Motor,1200,700,4,CDMX,294
+2025-04-19,Batería 12V,Eléctrico,2000,1300,3,CDMX,12
+2024-07-07,Faros LED,Iluminación,1800,1100,2,Puebla,43
+2025-03-12,Pastillas de Freno,Mantenimiento,850,500,1,CDMX,111
+2024-09-08,Bujías,Motor,700,400,3,Puebla,79
+2024-12-31,Sensor de Oxígeno,Motor,1200,700,3,Guadalajara,28
+2024-08-15,Amortiguador,Suspensión,900,600,4,Querétaro,190
+2025-05-18,Pastillas de Freno,Mantenimiento,850,500,2,Guadalajara,62
+2025-04-23,Pastillas de Freno,Mantenimiento,850,500,4,CDMX,114
+2024-10-15,Filtro de Aire,Mantenimiento,300,150,2,Monterrey,250
+2024-06-19,Pastillas de Freno,Mantenimiento,850,500,4,Monterrey,251
+2024-10-02,Alternador,Eléctrico,4500,2800,2,CDMX,245
+2025-03-06,Filtro de Aire,Mantenimiento,300,150,1,Guadalajara,236
+2024-11-28,Pastillas de Freno,Mantenimiento,850,500,2,Querétaro,69
+2024-11-04,Alternador,Eléctrico,4500,2800,1,Puebla,178
+2025-05-05,Bujías,Motor,700,400,1,CDMX,196
+2024-09-10,Sensor de Oxígeno,Motor,1200,700,4,Guadalajara,216
+2025-01-22,Batería 12V,Eléctrico,2000,1300,4,Guadalajara,200
+2025-04-12,Bujías,Motor,700,400,4,CDMX,297
+2025-03-11,Pastillas de Freno,Mantenimiento,850,500,1,CDMX,273
+2025-04-18,Filtro de Aire,Mantenimiento,300,150,2,Puebla,177
+2024-07-07,Radiador,Enfriamiento,3500,2100,2,Monterrey,146
+2025-03-11,Alternador,Eléctrico,4500,2800,3,Monterrey,172
+2025-04-11,Filtro de Aire,Mantenimiento,300,150,1,CDMX,159
+2024-08-11,Filtro de Aire,Mantenimiento,300,150,4,Monterrey,84
+2024-10-07,Alternador,Eléctrico,4500,2800,2,Querétaro,4
+2025-03-17,Amortiguador,Suspensión,900,600,1,Querétaro,259
+2024-11-26,Alternador,Eléctrico,4500,2800,3,CDMX,257
+2024-08-11,Filtro de Aire,Mantenimiento,300,150,2,Guadalajara,272
+2025-05-18,Alternador,Eléctrico,4500,2800,4,Guadalajara,191
+2024-07-19,Batería 12V,Eléctrico,2000,1300,3,Guadalajara,14
+2025-02-27,Filtro de Aceite,Mantenimiento,250,120,3,Monterrey,161
+2025-03-31,Pastillas de Freno,Mantenimiento,850,500,1,Querétaro,192
+2024-12-27,Sensor de Oxígeno,Motor,1200,700,1,CDMX,224
+2024-12-01,Faros LED,Iluminación,1800,1100,3,Guadalajara,44
+2025-04-04,Faros LED,Iluminación,1800,1100,4,Querétaro,29
+2024-08-28,Filtro de Aceite,Mantenimiento,250,120,2,Querétaro,76
+2025-05-23,Alternador,Eléctrico,4500,2800,1,Monterrey,209
+2024-08-01,Filtro de Aire,Mantenimiento,300,150,1,Querétaro,110
+2024-06-16,Faros LED,Iluminación,1800,1100,2,Puebla,129
+2024-10-14,Batería 12V,Eléctrico,2000,1300,3,Querétaro,34
+2024-10-10,Filtro de Aire,Mantenimiento,300,150,1,Guadalajara,206
+2025-05-13,Faros LED,Iluminación,1800,1100,1,Querétaro,83
+2024-07-21,Pastillas de Freno,Mantenimiento,850,500,1,Puebla,167
+2024-11-14,Amortiguador,Suspensión,900,600,2,Querétaro,214
+2024-10-26,Filtro de Aceite,Mantenimiento,250,120,1,CDMX,132
+2025-02-23,Alternador,Eléctrico,4500,2800,3,CDMX,66
+2024-11-03,Amortiguador,Suspensión,900,600,3,CDMX,76
+2024-09-21,Sensor de Oxígeno,Motor,1200,700,2,Querétaro,101
+2025-05-27,Amortiguador,Suspensión,900,600,2,Puebla,181
+2024-12-26,Pastillas de Freno,Mantenimiento,850,500,3,Querétaro,74
+2025-01-01,Batería 12V,Eléctrico,2000,1300,1,Puebla,213
+2024-07-22,Sensor de Oxígeno,Motor,1200,700,4,Puebla,99
+2024-11-19,Amortiguador,Suspensión,900,600,4,Guadalajara,91
+2024-06-10,Filtro de Aceite,Mantenimiento,250,120,1,Monterrey,165
+2025-01-07,Bujías,Motor,700,400,4,Querétaro,53
+2024-09-22,Alternador,Eléctrico,4500,2800,1,Monterrey,27
+2024-12-03,Filtro de Aire,Mantenimiento,300,150,1,Querétaro,115
+2025-01-08,Batería 12V,Eléctrico,2000,1300,4,Guadalajara,270
+2024-12-21,Amortiguador,Suspensión,900,600,3,Monterrey,240
+2024-09-14,Pastillas de Freno,Mantenimiento,850,500,2,Puebla,272
+2025-03-12,Radiador,Enfriamiento,3500,2100,2,Guadalajara,114
+2024-07-24,Sensor de Oxígeno,Motor,1200,700,2,Querétaro,68
+2025-04-14,Filtro de Aceite,Mantenimiento,250,120,2,Monterrey,226
+2024-10-08,Sensor de Oxígeno,Motor,1200,700,3,Querétaro,90
+2024-07-02,Sensor de Oxígeno,Motor,1200,700,3,Guadalajara,139
+2024-12-03,Sensor de Oxígeno,Motor,1200,700,4,Guadalajara,54
+2024-08-20,Alternador,Eléctrico,4500,2800,4,CDMX,204
+2025-04-20,Radiador,Enfriamiento,3500,2100,2,Puebla,82
+2025-01-01,Filtro de Aceite,Mantenimiento,250,120,3,Puebla,88
+2024-08-14,Filtro de Aceite,Mantenimiento,250,120,3,Puebla,145
+2024-12-13,Filtro de Aceite,Mantenimiento,250,120,3,Monterrey,194
+2025-04-22,Pastillas de Freno,Mantenimiento,850,500,3,Guadalajara,190
+2025-02-12,Batería 12V,Eléctrico,2000,1300,1,Querétaro,106
+2024-07-09,Bujías,Motor,700,400,2,Puebla,93
+2024-08-07,Alternador,Eléctrico,4500,2800,4,CDMX,220
+2024-12-16,Batería 12V,Eléctrico,2000,1300,3,CDMX,88
+2025-05-19,Filtro de Aceite,Mantenimiento,250,120,4,CDMX,282
+2025-05-04,Batería 12V,Eléctrico,2000,1300,2,Guadalajara,29
+2024-12-24,Amortiguador,Suspensión,900,600,2,Querétaro,68
+2025-03-12,Filtro de Aire,Mantenimiento,300,150,2,Querétaro,146
+2024-09-03,Alternador,Eléctrico,4500,2800,3,Querétaro,298
+2024-11-26,Faros LED,Iluminación,1800,1100,3,Monterrey,117
+2024-10-05,Bujías,Motor,700,400,1,Monterrey,228
+2024-06-30,Radiador,Enfriamiento,3500,2100,2,Puebla,142
+2024-06-19,Amortiguador,Suspensión,900,600,1,Monterrey,6
+2024-09-06,Batería 12V,Eléctrico,2000,1300,3,Querétaro,265
+2025-03-23,Batería 12V,Eléctrico,2000,1300,1,Guadalajara,53
+2024-10-04,Batería 12V,Eléctrico,2000,1300,1,Querétaro,1
+2024-09-15,Batería 12V,Eléctrico,2000,1300,2,CDMX,208
+2024-12-04,Radiador,Enfriamiento,3500,2100,4,Puebla,243
+2024-08-26,Filtro de Aire,Mantenimiento,300,150,3,CDMX,264
+2024-09-23,Sensor de Oxígeno,Motor,1200,700,4,Puebla,10
+2024-11-06,Pastillas de Freno,Mantenimiento,850,500,1,Monterrey,114
+2024-07-12,Sensor de Oxígeno,Motor,1200,700,2,Guadalajara,67
+2025-01-10,Bujías,Motor,700,400,3,Monterrey,225
+2025-04-06,Bujías,Motor,700,400,3,Monterrey,115
+2025-05-23,Filtro de Aire,Mantenimiento,300,150,3,Puebla,269
+2024-07-27,Filtro de Aceite,Mantenimiento,250,120,2,Querétaro,143
+2025-03-17,Amortiguador,Suspensión,900,600,3,Monterrey,129
+2025-03-23,Sensor de Oxígeno,Motor,1200,700,1,Monterrey,26
+2025-05-29,Alternador,Eléctrico,4500,2800,4,Querétaro,300
+2025-02-18,Bujías,Motor,700,400,2,Querétaro,52
+2024-11-11,Alternador,Eléctrico,4500,2800,3,Puebla,164
+2025-05-21,Radiador,Enfriamiento,3500,2100,2,Monterrey,292
+2024-07-14,Batería 12V,Eléctrico,2000,1300,4,CDMX,213
+2024-07-06,Filtro de Aceite,Mantenimiento,250,120,2,Guadalajara,180
+2025-04-06,Pastillas de Freno,Mantenimiento,850,500,3,Guadalajara,298
+2025-03-31,Alternador,Eléctrico,4500,2800,4,CDMX,191
+2024-07-07,Filtro de Aire,Mantenimiento,300,150,1,Guadalajara,76
+2025-04-09,Amortiguador,Suspensión,900,600,1,Querétaro,276
+2025-05-30,Radiador,Enfriamiento,3500,2100,2,Querétaro,196
+2024-11-23,Faros LED,Iluminación,1800,1100,4,Querétaro,90
+2024-12-13,Filtro de Aire,Mantenimiento,300,150,4,Puebla,113
+2024-12-23,Batería 12V,Eléctrico,2000,1300,2,CDMX,159
+2024-09-30,Bujías,Motor,700,400,4,Monterrey,49
+2024-10-24,Pastillas de Freno,Mantenimiento,850,500,3,Puebla,146
+2025-02-10,Filtro de Aceite,Mantenimiento,250,120,4,Monterrey,82
+2025-04-22,Pastillas de Freno,Mantenimiento,850,500,2,CDMX,267
+2024-12-14,Bujías,Motor,700,400,2,Guadalajara,251
+2025-03-03,Pastillas de Freno,Mantenimiento,850,500,4,Querétaro,240
+2024-08-04,Filtro de Aceite,Mantenimiento,250,120,2,Querétaro,233
+2025-04-27,Sensor de Oxígeno,Motor,1200,700,1,Guadalajara,170
+2024-10-20,Amortiguador,Suspensión,900,600,3,Querétaro,162
+2025-02-13,Bujías,Motor,700,400,3,Monterrey,292
+2024-08-20,Filtro de Aire,Mantenimiento,300,150,1,Puebla,105
+2024-07-20,Filtro de Aire,Mantenimiento,300,150,4,Monterrey,199
+2025-03-17,Filtro de Aceite,Mantenimiento,250,120,2,Guadalajara,3
+2025-03-07,Pastillas de Freno,Mantenimiento,850,500,4,CDMX,278
+2024-06-13,Radiador,Enfriamiento,3500,2100,4,Puebla,246
+2024-10-03,Batería 12V,Eléctrico,2000,1300,3,Monterrey,300
+2025-01-21,Pastillas de Freno,Mantenimiento,850,500,1,Monterrey,81
+2024-12-02,Batería 12V,Eléctrico,2000,1300,4,Querétaro,158
+2024-11-16,Filtro de Aire,Mantenimiento,300,150,4,CDMX,57
+2025-01-08,Batería 12V,Eléctrico,2000,1300,2,Guadalajara,142
+2024-08-10,Alternador,Eléctrico,4500,2800,2,CDMX,195
+2025-02-27,Filtro de Aceite,Mantenimiento,250,120,2,Puebla,98
+2025-03-19,Sensor de Oxígeno,Motor,1200,700,4,Monterrey,66
+2024-11-22,Filtro de Aceite,Mantenimiento,250,120,2,Monterrey,289
+2024-12-23,Batería 12V,Eléctrico,2000,1300,1,Guadalajara,119
+2024-12-18,Pastillas de Freno,Mantenimiento,850,500,1,CDMX,278
+2025-04-18,Pastillas de Freno,Mantenimiento,850,500,4,Puebla,192
+2024-06-27,Filtro de Aceite,Mantenimiento,250,120,2,Monterrey,93
+2025-03-09,Bujías,Motor,700,400,1,CDMX,277
+2024-07-18,Sensor de Oxígeno,Motor,1200,700,1,CDMX,217
+2024-09-10,Alternador,Eléctrico,4500,2800,3,Monterrey,166
+2025-03-11,Pastillas de Freno,Mantenimiento,850,500,3,CDMX,37
+2025-01-10,Filtro de Aceite,Mantenimiento,250,120,1,CDMX,177
+2024-07-14,Pastillas de Freno,Mantenimiento,850,500,4,Guadalajara,134
+2024-08-04,Alternador,Eléctrico,4500,2800,3,CDMX,8
+2024-09-11,Radiador,Enfriamiento,3500,2100,3,Guadalajara,287
+2025-04-22,Alternador,Eléctrico,4500,2800,2,Guadalajara,211
+2025-03-07,Filtro de Aire,Mantenimiento,300,150,3,Puebla,142
+2025-03-17,Batería 12V,Eléctrico,2000,1300,4,Puebla,55
+2024-11-18,Bujías,Motor,700,400,4,Monterrey,280
+2024-09-19,Filtro de Aire,Mantenimiento,300,150,3,Monterrey,139
+2025-01-15,Batería 12V,Eléctrico,2000,1300,2,Monterrey,157
+2024-10-16,Pastillas de Freno,Mantenimiento,850,500,4,CDMX,264
+2024-06-24,Amortiguador,Suspensión,900,600,3,CDMX,192
+2025-03-24,Pastillas de Freno,Mantenimiento,850,500,3,Puebla,49
+2025-02-19,Filtro de Aire,Mantenimiento,300,150,3,Puebla,114
+2024-10-22,Pastillas de Freno,Mantenimiento,850,500,1,Querétaro,232
+2025-02-13,Sensor de Oxígeno,Motor,1200,700,1,Querétaro,169
+2025-04-09,Pastillas de Freno,Mantenimiento,850,500,2,CDMX,159
+2025-05-29,Faros LED,Iluminación,1800,1100,3,Puebla,87
+2024-12-29,Radiador,Enfriamiento,3500,2100,4,Querétaro,8
+2025-02-14,Filtro de Aceite,Mantenimiento,250,120,3,Guadalajara,152
+2025-04-07,Bujías,Motor,700,400,4,Puebla,170
+2025-05-23,Sensor de Oxígeno,Motor,1200,700,3,Guadalajara,207
+2024-09-24,Alternador,Eléctrico,4500,2800,3,CDMX,47
+2025-02-07,Faros LED,Iluminación,1800,1100,2,Puebla,194
+2024-08-09,Alternador,Eléctrico,4500,2800,3,Puebla,171
+2024-11-12,Pastillas de Freno,Mantenimiento,850,500,3,Monterrey,231
+2024-12-13,Alternador,Eléctrico,4500,2800,4,Puebla,193
+2024-12-13,Alternador,Eléctrico,4500,2800,1,Puebla,41
+2024-08-02,Amortiguador,Suspensión,900,600,4,Guadalajara,162
+2025-01-24,Amortiguador,Suspensión,900,600,1,Puebla,136
+2025-05-24,Alternador,Eléctrico,4500,2800,3,Guadalajara,107
+2024-06-26,Radiador,Enfriamiento,3500,2100,1,Puebla,24
+2024-09-16,Faros LED,Iluminación,1800,1100,2,Guadalajara,85
+2024-09-25,Radiador,Enfriamiento,3500,2100,3,Guadalajara,4
+2025-02-17,Alternador,Eléctrico,4500,2800,1,Puebla,7
+2024-10-16,Amortiguador,Suspensión,900,600,1,Monterrey,27
+2025-02-13,Pastillas de Freno,Mantenimiento,850,500,3,Puebla,253
+2025-05-16,Bujías,Motor,700,400,1,Guadalajara,10
+2024-12-09,Batería 12V,Eléctrico,2000,1300,3,CDMX,199
+2025-05-19,Filtro de Aire,Mantenimiento,300,150,2,Guadalajara,29
+2025-03-03,Batería 12V,Eléctrico,2000,1300,3,CDMX,223
+2024-12-25,Sensor de Oxígeno,Motor,1200,700,1,Puebla,95
+2024-07-25,Batería 12V,Eléctrico,2000,1300,4,CDMX,284
+2025-03-30,Amortiguador,Suspensión,900,600,2,Querétaro,270
+2025-05-16,Sensor de Oxígeno,Motor,1200,700,3,Puebla,180
+2025-03-20,Radiador,Enfriamiento,3500,2100,2,Monterrey,146
+2025-02-21,Alternador,Eléctrico,4500,2800,3,Querétaro,60
+2025-05-09,Bujías,Motor,700,400,4,Monterrey,143
+2025-04-24,Radiador,Enfriamiento,3500,2100,3,Querétaro,198
+2024-10-13,Filtro de Aire,Mantenimiento,300,150,1,CDMX,99
+2024-09-26,Filtro de Aceite,Mantenimiento,250,120,1,Querétaro,248
+2025-03-15,Filtro de Aceite,Mantenimiento,250,120,3,Puebla,113
+2024-08-28,Sensor de Oxígeno,Motor,1200,700,2,Querétaro,138
+2025-02-23,Batería 12V,Eléctrico,2000,1300,4,Querétaro,152
+2024-12-03,Bujías,Motor,700,400,2,Querétaro,244
+2024-09-04,Bujías,Motor,700,400,2,Guadalajara,134
+2024-07-20,Faros LED,Iluminación,1800,1100,3,Guadalajara,256
+2025-03-18,Alternador,Eléctrico,4500,2800,1,CDMX,7
+2025-04-12,Sensor de Oxígeno,Motor,1200,700,4,CDMX,202
+2025-01-06,Filtro de Aire,Mantenimiento,300,150,4,Querétaro,129
+2024-11-21,Amortiguador,Suspensión,900,600,3,Querétaro,173
+2024-08-01,Faros LED,Iluminación,1800,1100,2,Guadalajara,242
+2024-10-11,Radiador,Enfriamiento,3500,2100,4,CDMX,110
+2024-06-17,Amortiguador,Suspensión,900,600,3,CDMX,52
+2024-09-26,Sensor de Oxígeno,Motor,1200,700,2,Querétaro,75
+2025-04-06,Pastillas de Freno,Mantenimiento,850,500,4,Monterrey,42
+2024-07-07,Filtro de Aire,Mantenimiento,300,150,2,Querétaro,118
+2025-01-30,Pastillas de Freno,Mantenimiento,850,500,1,Querétaro,215
+2024-08-05,Batería 12V,Eléctrico,2000,1300,3,Querétaro,20
+2025-01-22,Faros LED,Iluminación,1800,1100,2,Monterrey,273
+2024-10-24,Bujías,Motor,700,400,4,CDMX,136
+2025-03-11,Radiador,Enfriamiento,3500,2100,2,Guadalajara,186
+2024-08-22,Filtro de Aceite,Mantenimiento,250,120,1,CDMX,23
+2025-05-16,Batería 12V,Eléctrico,2000,1300,1,Querétaro,243
+2024-08-23,Radiador,Enfriamiento,3500,2100,3,Guadalajara,31
+2024-08-17,Faros LED,Iluminación,1800,1100,3,Puebla,183
+2025-01-29,Alternador,Eléctrico,4500,2800,1,Guadalajara,197
+2025-03-28,Batería 12V,Eléctrico,2000,1300,1,Querétaro,260
+2024-09-29,Radiador,Enfriamiento,3500,2100,3,Monterrey,295
+2025-02-25,Batería 12V,Eléctrico,2000,1300,1,CDMX,286
+2024-08-13,Filtro de Aire,Mantenimiento,300,150,3,Querétaro,11
+2025-02-15,Alternador,Eléctrico,4500,2800,4,Monterrey,49
+2025-03-21,Batería 12V,Eléctrico,2000,1300,2,Puebla,139
+2025-02-04,Radiador,Enfriamiento,3500,2100,4,CDMX,247
+2024-10-16,Radiador,Enfriamiento,3500,2100,2,Guadalajara,74
+2025-02-03,Filtro de Aceite,Mantenimiento,250,120,1,Querétaro,32
+2025-01-14,Filtro de Aceite,Mantenimiento,250,120,4,Monterrey,125
+2025-01-09,Pastillas de Freno,Mantenimiento,850,500,4,Puebla,221
+2025-05-10,Pastillas de Freno,Mantenimiento,850,500,3,Puebla,145
+2025-01-07,Sensor de Oxígeno,Motor,1200,700,1,Puebla,179
+2025-01-27,Pastillas de Freno,Mantenimiento,850,500,2,Guadalajara,269
+2025-02-14,Batería 12V,Eléctrico,2000,1300,2,Querétaro,157
+2024-07-17,Filtro de Aceite,Mantenimiento,250,120,4,Querétaro,181
+2025-03-18,Pastillas de Freno,Mantenimiento,850,500,4,Guadalajara,40
+2024-07-24,Filtro de Aceite,Mantenimiento,250,120,3,CDMX,135
+2024-07-14,Amortiguador,Suspensión,900,600,1,Puebla,206
+2024-11-21,Bujías,Motor,700,400,4,Guadalajara,297
+2024-11-19,Radiador,Enfriamiento,3500,2100,2,Guadalajara,256
+2024-06-19,Radiador,Enfriamiento,3500,2100,4,Guadalajara,274
+2025-05-23,Filtro de Aire,Mantenimiento,300,150,2,Monterrey,237
+2025-05-20,Faros LED,Iluminación,1800,1100,4,Guadalajara,120
+2025-06-06,Alternador,Eléctrico,4500,2800,2,Puebla,2
+2024-07-07,Filtro de Aire,Mantenimiento,300,150,4,Monterrey,158
+2024-09-17,Faros LED,Iluminación,1800,1100,4,Guadalajara,83
+2024-11-21,Pastillas de Freno,Mantenimiento,850,500,3,Guadalajara,184
+2024-11-16,Amortiguador,Suspensión,900,600,3,CDMX,235
+2025-03-23,Sensor de Oxígeno,Motor,1200,700,4,CDMX,172
+2024-07-11,Sensor de Oxígeno,Motor,1200,700,4,CDMX,83
+2025-04-18,Sensor de Oxígeno,Motor,1200,700,1,Puebla,173
+2024-11-04,Amortiguador,Suspensión,900,600,3,Monterrey,69
+2025-04-18,Bujías,Motor,700,400,1,CDMX,71
+2025-02-28,Sensor de Oxígeno,Motor,1200,700,4,Monterrey,149
+2024-06-26,Alternador,Eléctrico,4500,2800,3,CDMX,15
+2024-10-18,Radiador,Enfriamiento,3500,2100,2,CDMX,279
+2024-11-16,Filtro de Aire,Mantenimiento,300,150,1,Puebla,236
+2025-04-26,Alternador,Eléctrico,4500,2800,1,Guadalajara,64
+2024-10-02,Batería 12V,Eléctrico,2000,1300,4,CDMX,139
+2025-05-15,Faros LED,Iluminación,1800,1100,1,Monterrey,38
