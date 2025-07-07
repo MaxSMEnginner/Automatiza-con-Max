@@ -1,0 +1,1453 @@
+﻿OrderID,Fecha,Mes_Nombre,Cliente,Producto,Categoría,Precio,Costo,Cantidad,TotalVenta,Margen,Devolución,NombreTienda,StockActual
+1000,6/7/2025,June,Destiny Castaneda,Laptop Lenovo,Electrónica,18564.61,10873.52,2,37129.22,15382.18,No,New Michaelland,96
+1001,1/24/2025,January,James Johnson,Perfume Dior,Belleza,14803.26,7566.3,1,14803.26,7236.96,No,Curtisborough,74
+1002,3/7/2025,March,Brooke Little,Perfume Dior,Belleza,14075.0,10564.79,5,70375.0,17551.05,No,East Michael,67
+1003,3/26/2025,March,Barbara Rogers,Plancha Remington,Belleza,20254.82,10173.48,2,40509.64,20162.68,No,West Brian,53
+1004,6/3/2025,June,James Lawrence,Pantalón Levi's,Ropa,5461.31,4190.04,1,5461.31,1271.27,Sí,Joyceville,22
+1005,2/7/2025,February,Chase Moss,Tenis Adidas,Ropa,15132.78,11841.32,4,60531.12,13165.84,No,Parkborough,58
+1006,4/22/2025,April,Mrs. Emily Smith,Monitor LG,Electrónica,7400.14,5328.28,3,22200.42,6215.58,No,Beckerbury,100
+1007,4/20/2025,April,David White,Laptop Lenovo,Electrónica,16565.46,12764.91,1,16565.46,3800.55,No,South Anthony,22
+1008,6/3/2025,June,Catherine Wagner,Hot Wheels Pack,Juguetes,11389.92,9020.12,2,22779.84,4739.6,No,Shelleyhaven,36
+1009,3/30/2025,March,Bryan Lee,Playera Nike,Ropa,15267.36,8548.17,2,30534.72,13438.38,No,Lanemouth,58
+1010,3/19/2025,March,Jordan Anderson,Gorra Under Armour,Ropa,5568.42,3416.22,1,5568.42,2152.2,No,Morrisville,14
+1011,4/9/2025,April,Tina Gonzales DVM,Chamarra Puma,Ropa,6766.75,3883.06,5,33833.75,14418.45,No,South Markland,50
+1012,3/18/2025,March,Jacob Robles,Aspiradora Robot,Hogar,9951.23,8160.92,4,39804.92,7161.24,No,South Jose,27
+1013,5/29/2025,May,Stephanie Ross,Juego de sábanas,Hogar,13520.53,10295.27,4,54082.12,12901.04,No,Petershire,61
+1014,2/17/2025,February,Laura Hayden,Pantalón Levi's,Ropa,24933.41,13673.88,4,99733.64,45038.12,Sí,Lake Sheila,16
+1015,2/10/2025,February,Robert Tate,iPhone 14,Electrónica,15723.41,12220.67,4,62893.64,14010.96,No,Raymondton,59
+1016,3/26/2025,March,Dr. Susan Walker,Nintendo Switch Lite,Juguetes,24903.42,17063.57,5,124517.1,39199.25,No,Madisonshire,11
+1017,7/5/2025,July,Kelly Kirby,Monitor LG,Electrónica,18796.86,14454.96,3,56390.58,13025.7,No,Daniellefort,65
+1018,3/29/2025,March,Tamara Flores,Aspiradora Robot,Hogar,180.81,136.1,3,542.43,134.13,No,Russellchester,32
+1019,2/12/2025,February,Mary Wade,Perfume Dior,Belleza,21775.91,13162.57,5,108879.55,43066.7,No,Hartmanton,29
+1020,6/14/2025,June,Brittany Rice,Pantalón Levi's,Ropa,13530.54,10452.6,5,67652.7,15389.7,No,West Veronica,86
+1021,5/16/2025,May,Angela Hurst,Chamarra Puma,Ropa,584.97,482.71,3,1754.91,306.78,No,West Leeland,40
+1022,6/9/2025,June,Joseph Dunn,Perfume Dior,Belleza,2232.77,1496.17,1,2232.77,736.6,No,North Katrinastad,78
+1023,6/10/2025,June,Sean Holland,Colchón SpringAir,Hogar,16527.8,13741.16,2,33055.6,5573.28,No,Port Stanleyberg,87
+1024,3/29/2025,March,Jeffery Berry,Barbie Princesa,Juguetes,23229.95,17755.65,2,46459.9,10948.6,No,Port Micheleton,61
+1025,5/21/2025,May,Michael Serrano,Chamarra Puma,Ropa,22500.39,14805.71,2,45000.78,15389.36,No,Cohenchester,53
+1026,5/29/2025,May,Marie Zimmerman,Monitor LG,Electrónica,13892.65,9807.57,1,13892.65,4085.08,Sí,North Luisborough,90
+1027,6/30/2025,June,Joann Velez,iPhone 14,Electrónica,1778.27,908.69,3,5334.81,2608.74,Sí,New Cory,40
+1028,6/28/2025,June,Anthony Bright,Chamarra Puma,Ropa,5434.5,2968.92,5,27172.5,12327.9,No,West Alanport,41
+1029,3/18/2025,March,Ashley Russo,Puzzle 1000 piezas,Juguetes,4841.21,2584.85,4,19364.84,9025.44,No,Port Erichaven,62
+1030,4/15/2025,April,Clarence Pope,LEGO Star Wars,Juguetes,16866.78,14243.28,1,16866.78,2623.5,Sí,Dakotafort,53
+1031,6/22/2025,June,Melissa Leon,iPhone 14,Electrónica,4870.59,3349.5,2,9741.18,3042.18,No,New Danielfort,45
+1032,3/5/2025,March,Jeremy Scott,Barbie Princesa,Juguetes,21874.7,11514.51,5,109373.5,51800.95,Sí,Nicholshaven,93
+1033,1/8/2025,January,Michelle Brown PhD,Perfume Dior,Belleza,24228.01,19969.41,2,48456.02,8517.2,No,Richardland,72
+1034,1/17/2025,January,Kevin Prince,Barbie Princesa,Juguetes,21629.79,17646.77,2,43259.58,7966.04,No,East Destinychester,59
+1035,5/8/2025,May,Alexander Hart,Chamarra Puma,Ropa,7202.71,5357.43,5,36013.55,9226.4,No,Port Erica,72
+1036,5/25/2025,May,Dan Fleming,Colchón SpringAir,Hogar,7488.02,6282.81,5,37440.1,6026.05,No,Louisborough,17
+1037,5/1/2025,May,Peggy Fitzgerald,Playera Nike,Ropa,1348.54,899.31,5,6742.7,2246.15,No,Kaylaton,75
+1038,1/27/2025,January,William Duncan,iPhone 14,Electrónica,1806.18,946.05,2,3612.36,1720.26,No,Johnsonstad,82
+1039,3/17/2025,March,Sheryl Smith,Juego de sábanas,Hogar,14903.53,10682.6,4,59614.12,16883.72,No,Lake Alexismouth,82
+1040,3/21/2025,March,Nicole Hunt,Plancha Remington,Belleza,23374.19,13358.13,3,70122.57,30048.18,No,Cisneroschester,60
+1041,1/31/2025,January,Brittany Jackson,Silla Gamer,Hogar,11484.89,9476.83,1,11484.89,2008.06,Sí,Bakerberg,89
+1042,5/1/2025,May,Melissa Rodriguez,Perfume Dior,Belleza,1924.19,1105.65,3,5772.57,2455.62,No,Matthewshire,54
+1043,6/11/2025,June,Clinton Adams,iPhone 14,Electrónica,9301.22,5164.14,5,46506.1,20685.4,No,Lake Brandiland,88
+1044,4/13/2025,April,Traci Summers,Perfume Dior,Belleza,16729.79,11612.33,1,16729.79,5117.46,No,Cooperport,27
+1045,3/18/2025,March,Matthew Gonzalez,Playera Nike,Ropa,22253.85,16909.5,2,44507.7,10688.7,No,Nataliechester,87
+1046,6/11/2025,June,Allison Wilson,Silla Gamer,Hogar,5169.57,3732.34,3,15508.71,4311.69,No,Murphyberg,42
+1047,6/14/2025,June,Bryan Fisher,Laptop Lenovo,Electrónica,15893.68,12560.33,1,15893.68,3333.35,Sí,Gonzalezland,26
+1048,1/19/2025,January,Miss Melissa Wallace MD,Pantalón Levi's,Ropa,18556.65,12861.39,4,74226.6,22781.04,No,West Jennifer,24
+1049,2/15/2025,February,Caleb Valentine,iPhone 14,Electrónica,13685.2,10840.16,5,68426.0,14225.2,No,West Michaelhaven,65
+1050,4/28/2025,April,Ashley Wilson,Licuadora Oster,Hogar,7775.63,6334.37,1,7775.63,1441.26,No,East Alexandra,36
+1051,1/5/2025,January,Nancy Meyers,Licuadora Oster,Hogar,8906.6,6198.63,4,35626.4,10831.88,No,Briannafurt,29
+1052,3/23/2025,March,Anthony Edwards,Colchón SpringAir,Hogar,24407.53,19129.89,4,97630.12,21110.56,Sí,West Zacharyhaven,52
+1053,6/15/2025,June,Darren White,Barbie Princesa,Juguetes,6743.46,5230.1,1,6743.46,1513.36,No,West Carlshire,14
+1054,2/14/2025,February,Veronica Riddle,Barbie Princesa,Juguetes,5069.36,4164.27,3,15208.08,2715.27,No,South Frankfurt,39
+1055,4/10/2025,April,David Ward,Licuadora Oster,Hogar,16534.83,10573.41,3,49604.49,17884.26,No,East Yvettefort,45
+1056,6/6/2025,June,Jeffrey Roberts,Gorra Under Armour,Ropa,10051.99,8477.87,5,50259.95,7870.6,No,Jesseberg,13
+1057,5/23/2025,May,Janet Sharp,Samsung Galaxy,Electrónica,4546.34,3804.77,3,13639.02,2224.71,Sí,Lake Timothy,86
+1058,4/11/2025,April,Sandra Wilson,Hot Wheels Pack,Juguetes,18240.77,11122.99,5,91203.85,35588.9,No,Port Jenniferview,24
+1059,4/15/2025,April,Carol Sanders,Nintendo Switch Lite,Juguetes,4832.96,2491.56,4,19331.84,9365.6,Sí,North Cassandraport,78
+1060,6/14/2025,June,Ricky Smith,Silla Gamer,Hogar,10839.31,9019.46,3,32517.93,5459.55,No,North Patrick,94
+1061,6/22/2025,June,Scott Ray,Samsung Galaxy,Electrónica,12727.35,9334.4,3,38182.05,10178.85,No,Santoston,47
+1062,6/27/2025,June,Brad Richardson,Crema Nivea,Belleza,4876.82,3573.37,4,19507.28,5213.8,No,Brownstad,32
+1063,4/19/2025,April,Jeremy Wright,Shampoo L'Oréal,Belleza,7593.65,5253.12,1,7593.65,2340.53,No,Juantown,36
+1064,5/19/2025,May,Charles Simmons,Nintendo Switch Lite,Juguetes,15205.87,9317.96,4,60823.48,23551.64,No,Beckyfort,37
+1065,6/19/2025,June,Leonard Robinson,Maquillaje MAC,Belleza,19864.01,16605.14,2,39728.02,6517.74,No,Barrettside,46
+1066,2/21/2025,February,Stephen Wallace,Shampoo L'Oréal,Belleza,8446.19,6642.49,2,16892.38,3607.4,No,Johnburgh,38
+1067,6/9/2025,June,Christopher Brady,Colchón SpringAir,Hogar,708.19,414.78,4,2832.76,1173.64,No,New Joel,19
+1068,1/17/2025,January,Becky Wood,Puzzle 1000 piezas,Juguetes,22164.81,15548.28,4,88659.24,26466.12,No,Chadville,41
+1069,3/31/2025,March,Joseph Krause,Licuadora Oster,Hogar,22327.23,17887.55,1,22327.23,4439.68,No,West Thomastown,38
+1070,5/16/2025,May,Scott Smith,Juego de sábanas,Hogar,11667.29,8109.84,1,11667.29,3557.45,No,Port David,69
+1071,6/17/2025,June,Tiffany Carter,Shampoo L'Oréal,Belleza,14926.76,12426.73,4,59707.04,10000.12,No,Port Shawn,74
+1072,4/7/2025,April,Susan Lee,Nintendo Switch Lite,Juguetes,11203.25,6225.71,4,44813.0,19910.16,No,Chadchester,41
+1073,2/24/2025,February,Margaret Petersen DDS,Gorra Under Armour,Ropa,12166.47,7102.01,4,48665.88,20257.84,Sí,Andersonborough,46
+1074,2/10/2025,February,Amanda Crawford,Silla Gamer,Hogar,8462.6,6876.37,1,8462.6,1586.23,No,Lisaview,39
+1075,1/16/2025,January,Stephen Blankenship,Barbie Princesa,Juguetes,17689.84,9242.59,4,70759.36,33789.0,No,North Antonioberg,69
+1076,6/21/2025,June,Angel Camacho,LEGO Star Wars,Juguetes,5250.18,3397.13,5,26250.9,9265.25,No,Butlerville,12
+1077,6/3/2025,June,Thomas Gonzalez,Maquillaje MAC,Belleza,11976.8,9940.26,3,35930.4,6109.62,No,North Seanstad,63
+1078,5/25/2025,May,Jennifer Butler MD,Shampoo L'Oréal,Belleza,20016.72,16298.29,4,80066.88,14873.72,No,Tracifurt,65
+1079,5/1/2025,May,Jessica Meyer,LEGO Star Wars,Juguetes,9782.54,7181.42,4,39130.16,10404.48,No,Thomasfort,69
+1080,4/14/2025,April,Ashlee Wilson,Juego de sábanas,Hogar,13399.68,10953.23,5,66998.4,12232.25,No,New Shawn,13
+1081,2/26/2025,February,Jamie Stevens,Auriculares JBL,Electrónica,3478.92,2301.63,1,3478.92,1177.29,No,East Michael,51
+1082,4/19/2025,April,Angel Lane,Aspiradora Robot,Hogar,8238.46,6314.21,4,32953.84,7697.0,No,New Jeffreyberg,63
+1083,4/12/2025,April,Alexander Garcia,Playera Nike,Ropa,11810.64,9001.58,1,11810.64,2809.06,No,Lake Michael,54
+1084,6/13/2025,June,Jennifer Sanford,Licuadora Oster,Hogar,19552.7,14236.6,1,19552.7,5316.1,No,East Nathanfort,35
+1085,5/16/2025,May,Miguel Skinner,Monitor LG,Electrónica,3894.32,2119.2,1,3894.32,1775.12,No,Johnsonville,37
+1086,3/23/2025,March,Justin Pace,Hot Wheels Pack,Juguetes,19195.76,10725.17,5,95978.8,42352.95,No,North Jennifer,24
+1087,5/2/2025,May,Anthony Conley,Silla Gamer,Hogar,2791.66,1420.92,3,8374.98,4112.22,No,Denisemouth,58
+1088,4/2/2025,April,Jordan Boone,Barbie Princesa,Juguetes,1992.31,1477.73,2,3984.62,1029.16,No,Port Isaiah,48
+1089,5/9/2025,May,Dr. Daniel Sandoval,Perfume Dior,Belleza,19926.06,13909.91,1,19926.06,6016.15,No,Esteston,64
+1090,1/22/2025,January,Ryan Salinas,Playera Nike,Ropa,12698.42,7865.79,4,50793.68,19330.52,No,Mistyfort,23
+1091,5/14/2025,May,Amanda Reid,Hot Wheels Pack,Juguetes,15926.07,12582.35,2,31852.14,6687.44,No,Kristinbury,76
+1092,6/27/2025,June,Renee Adams,Gorra Under Armour,Ropa,20224.16,13921.51,4,80896.64,25210.6,No,Mosleymouth,85
+1093,1/20/2025,January,Destiny Washington,Tenis Adidas,Ropa,21307.66,16849.16,1,21307.66,4458.5,No,Port Jenniferborough,67
+1094,3/13/2025,March,Thomas Oliver,Aspiradora Robot,Hogar,14289.26,10486.4,3,42867.78,11408.58,Sí,Lake Nicole,51
+1095,6/28/2025,June,Katrina Brown,Aspiradora Robot,Hogar,5381.78,4193.71,3,16145.34,3564.21,No,Popeport,86
+1096,3/29/2025,March,Justin Alexander,Gorra Under Armour,Ropa,352.76,293.43,1,352.76,59.33,No,Hendersonton,62
+1097,5/23/2025,May,Amanda Ford,Nintendo Switch Lite,Juguetes,18978.3,14076.46,4,75913.2,19607.36,No,Port Diana,12
+1098,1/6/2025,January,David Garcia,Samsung Galaxy,Electrónica,5617.75,4169.08,3,16853.25,4346.01,No,Port Donnatown,57
+1099,7/6/2025,July,Shawn Baker,Nintendo Switch Lite,Juguetes,13319.96,8643.67,5,66599.8,23381.45,No,North Austinville,99
+1100,4/24/2025,April,Yolanda Davis,Hot Wheels Pack,Juguetes,7734.91,4491.57,2,15469.82,6486.68,No,West Michaelville,78
+1101,6/24/2025,June,Ana Johnson,Colchón SpringAir,Hogar,5487.98,3674.04,5,27439.9,9069.7,No,Thomasside,77
+1102,6/25/2025,June,James Hughes,Plancha Remington,Belleza,24514.71,19401.43,3,73544.13,15339.84,No,Nicholasbury,32
+1103,4/22/2025,April,Dylan Kelly,Playera Nike,Ropa,17729.66,9650.33,1,17729.66,8079.33,No,Montgomeryshire,80
+1104,3/27/2025,March,Elizabeth Horton,Pantalón Levi's,Ropa,15982.95,12202.62,1,15982.95,3780.33,No,New Marcus,83
+1105,2/19/2025,February,Molly Brown,Chamarra Puma,Ropa,12019.98,7443.34,1,12019.98,4576.64,No,New Rhonda,71
+1106,1/10/2025,January,Lauren Alexander,Laptop Lenovo,Electrónica,10077.62,5300.11,1,10077.62,4777.51,No,Port Robynville,82
+1107,1/23/2025,January,Julie Robinson,Playera Nike,Ropa,24848.56,13454.45,4,99394.24,45576.44,No,East Courtneychester,89
+1108,4/24/2025,April,Tina Burnett,Juego de sábanas,Hogar,9571.41,7829.19,3,28714.23,5226.66,No,Tracymouth,64
+1109,6/14/2025,June,Oscar Thornton,Gorra Under Armour,Ropa,15563.58,11102.6,1,15563.58,4460.98,No,Kristinland,36
+1110,6/19/2025,June,Jordan Branch,Silla Gamer,Hogar,16544.66,9181.79,2,33089.32,14725.74,No,Ballardmouth,30
+1111,4/24/2025,April,Brittany Shepherd MD,Auriculares JBL,Electrónica,11317.54,8010.94,3,33952.62,9919.8,Sí,Maddenville,46
+1112,1/28/2025,January,Samantha Smith,Chamarra Puma,Ropa,1872.38,1089.16,3,5617.14,2349.66,No,Edwardsside,90
+1113,4/29/2025,April,Stephanie Baxter,Crema Nivea,Belleza,10685.96,7379.69,2,21371.92,6612.54,No,Moralesmouth,28
+1114,4/9/2025,April,Ellen Mcbride,Laptop Lenovo,Electrónica,4231.48,2571.32,5,21157.4,8300.8,No,Donnaland,66
+1115,1/13/2025,January,Kendra Scott MD,Auriculares JBL,Electrónica,17248.08,12848.21,3,51744.24,13199.61,No,New Andrew,73
+1116,3/29/2025,March,Laura Mcmillan,LEGO Star Wars,Juguetes,14991.11,12162.26,3,44973.33,8486.55,No,New Laurenport,13
+1117,1/29/2025,January,Shannon Wong,iPhone 14,Electrónica,24051.59,19062.94,5,120257.95,24943.25,No,Kathrynhaven,12
+1118,3/26/2025,March,Susan Johnson,Gorra Under Armour,Ropa,1101.77,842.52,4,4407.08,1037.0,No,Port Matthewchester,66
+1119,3/29/2025,March,Tina Mitchell,Pantalón Levi's,Ropa,24923.94,16264.36,4,99695.76,34638.32,No,West Joseland,70
+1120,4/11/2025,April,David Monroe,Chamarra Puma,Ropa,8399.38,6169.74,2,16798.76,4459.28,No,Carpenterburgh,98
+1121,1/12/2025,January,Ashley Rios,Hot Wheels Pack,Juguetes,16598.33,10625.56,5,82991.65,29863.85,Sí,New Andrew,21
+1122,4/15/2025,April,Daniel Lucas,Tenis Adidas,Ropa,8149.52,6842.05,4,32598.08,5229.88,No,Port Wandaland,10
+1123,6/19/2025,June,Sarah Wilson,Maquillaje MAC,Belleza,10389.86,5877.06,3,31169.58,13538.4,No,East Monicabury,73
+1124,3/3/2025,March,Phillip Murphy MD,LEGO Star Wars,Juguetes,5168.6,3577.84,3,15505.8,4772.28,No,North Teresa,99
+1125,4/4/2025,April,Jeffrey Morgan,LEGO Star Wars,Juguetes,818.85,589.99,2,1637.7,457.72,No,Garytown,49
+1126,4/27/2025,April,Carla Adams,Perfume Dior,Belleza,13851.06,7377.4,1,13851.06,6473.66,No,Port Alexaview,25
+1127,6/7/2025,June,Leslie Price,Aspiradora Robot,Hogar,23323.06,14044.02,3,69969.18,27837.12,No,Dylanchester,71
+1128,4/3/2025,April,Christine Hernandez,Barbie Princesa,Juguetes,11473.98,6317.86,2,22947.96,10312.24,No,Port Kristinmouth,75
+1129,5/5/2025,May,Eric Fuller,Licuadora Oster,Hogar,6978.56,5418.87,4,27914.24,6238.76,No,Johnsonmouth,74
+1130,2/20/2025,February,Andrea Ramos,Playera Nike,Ropa,7142.69,4317.72,5,35713.45,14124.85,No,South Lee,94
+1131,4/28/2025,April,Eric Porter,Barbie Princesa,Juguetes,11219.03,7511.36,3,33657.09,11123.01,No,Grahamport,79
+1132,2/14/2025,February,Jeffrey Johnson,Puzzle 1000 piezas,Juguetes,23328.02,18764.14,2,46656.04,9127.76,No,Jacksonview,39
+1133,4/26/2025,April,Daniel Vaughn,LEGO Star Wars,Juguetes,8022.59,5339.37,4,32090.36,10732.88,No,Lake Staceyport,94
+1134,5/27/2025,May,Kimberly Webb,Aspiradora Robot,Hogar,24124.13,13128.02,5,120620.65,54980.55,No,South Melissabury,22
+1135,6/12/2025,June,Tyrone Ferrell,LEGO Star Wars,Juguetes,13196.18,8708.49,2,26392.36,8975.38,No,Crystalview,93
+1136,5/21/2025,May,George Thompson,Licuadora Oster,Hogar,11790.32,9894.69,3,35370.96,5686.89,No,Terryfurt,60
+1137,4/5/2025,April,Robert Fox,Samsung Galaxy,Electrónica,21323.3,17075.05,4,85293.2,16993.0,No,North Christopher,90
+1138,3/25/2025,March,Erin Davis,Nintendo Switch Lite,Juguetes,993.89,520.75,3,2981.67,1419.42,No,Bradleymouth,21
+1139,1/31/2025,January,Jessica Mccoy,LEGO Star Wars,Juguetes,19033.21,14205.66,1,19033.21,4827.55,No,Lake Adriana,98
+1140,4/4/2025,April,Mrs. Alexandria Rocha MD,Playera Nike,Ropa,1245.18,969.56,3,3735.54,826.86,No,East Christine,65
+1141,2/10/2025,February,Karen Jones,Colchón SpringAir,Hogar,13326.04,9302.57,2,26652.08,8046.94,No,Lake Ethan,20
+1142,1/7/2025,January,Ashley Riley,Maquillaje MAC,Belleza,15530.79,9074.49,5,77653.95,32281.5,No,Catherinefurt,69
+1143,3/28/2025,March,Samuel Huffman,Chamarra Puma,Ropa,6457.64,3250.06,4,25830.56,12830.32,No,North Shannon,96
+1144,5/13/2025,May,Jacqueline Mcguire,Crema Nivea,Belleza,1939.16,1611.12,5,9695.8,1640.2,No,South Kaitlinbury,64
+1145,6/26/2025,June,Shane Key,Chamarra Puma,Ropa,21148.07,12048.6,4,84592.28,36397.88,No,Port Christophermouth,23
+1146,3/20/2025,March,Angela Davis,Aspiradora Robot,Hogar,14340.88,10055.6,3,43022.64,12855.84,Sí,Herreramouth,94
+1147,6/18/2025,June,Dominique Wong,Hot Wheels Pack,Juguetes,301.64,242.15,1,301.64,59.49,No,Hawkinsshire,73
+1148,2/27/2025,February,Gary Hunt,Pantalón Levi's,Ropa,15215.92,9484.27,2,30431.84,11463.3,No,Lake Valerie,96
+1149,6/22/2025,June,Sarah Lee,Licuadora Oster,Hogar,22594.75,16408.74,3,67784.25,18558.03,No,Evelyntown,14
+1150,4/12/2025,April,Shane Pham,Plancha Remington,Belleza,18335.76,9746.31,3,55007.28,25768.35,No,Danielsfurt,63
+1151,2/10/2025,February,Bryan Baldwin,Colchón SpringAir,Hogar,3390.78,2335.54,3,10172.34,3165.72,No,North Nicoleshire,44
+1152,5/25/2025,May,Jacob Strickland,Silla Gamer,Hogar,22859.82,18984.3,3,68579.46,11626.56,No,Francoton,53
+1153,6/22/2025,June,Christopher David,Auriculares JBL,Electrónica,24076.04,13224.13,2,48152.08,21703.82,No,Lake Stephaniechester,96
+1154,2/8/2025,February,Savannah Moore,Nintendo Switch Lite,Juguetes,9207.8,7152.05,1,9207.8,2055.75,No,Baldwintown,25
+1155,2/16/2025,February,Matthew Holmes,Hot Wheels Pack,Juguetes,16853.43,12392.65,5,84267.15,22303.9,No,East Paul,91
+1156,3/14/2025,March,Jessica Lane,Playera Nike,Ropa,16903.43,11241.07,5,84517.15,28311.8,No,Lake Michael,81
+1157,6/16/2025,June,Deanna Jones,Gorra Under Armour,Ropa,5612.04,2930.19,4,22448.16,10727.4,No,New Shannon,48
+1158,6/15/2025,June,Tracey Kennedy,LEGO Star Wars,Juguetes,3580.45,2976.04,3,10741.35,1813.23,No,Lake Aaron,24
+1159,6/15/2025,June,Brittany Mills,iPhone 14,Electrónica,22192.76,12150.15,4,88771.04,40170.44,No,Brittanyland,99
+1160,3/7/2025,March,Ashley Morrow,Maquillaje MAC,Belleza,14724.77,11107.04,4,58899.08,14470.92,No,Sheltonburgh,72
+1161,3/3/2025,March,Luis Burke,Maquillaje MAC,Belleza,23482.42,14040.35,3,70447.26,28326.21,No,Moniqueberg,66
+1162,5/15/2025,May,Vanessa Bonilla,Silla Gamer,Hogar,2573.93,1904.68,5,12869.65,3346.25,No,South Nicole,92
+1163,1/15/2025,January,Sarah Williams,Playera Nike,Ropa,10013.68,5672.08,1,10013.68,4341.6,No,Port Kayla,68
+1164,6/28/2025,June,Nicholas Reeves,iPhone 14,Electrónica,16078.44,11399.63,1,16078.44,4678.81,Sí,East Jason,52
+1165,3/30/2025,March,Keith Jones,Colchón SpringAir,Hogar,19695.75,11262.46,5,98478.75,42166.45,No,Lake Stevenborough,37
+1166,5/24/2025,May,Sara Hill,Silla Gamer,Hogar,19381.78,15040.75,5,96908.9,21705.15,Sí,Tonyafurt,28
+1167,2/14/2025,February,Angelica Brown,Juego de sábanas,Hogar,6341.29,3557.93,1,6341.29,2783.36,No,Matthewview,55
+1168,2/21/2025,February,Adam Martin,Juego de sábanas,Hogar,8161.91,4578.72,1,8161.91,3583.19,No,Ballburgh,63
+1169,5/29/2025,May,Beth Reid,Perfume Dior,Belleza,18667.07,12445.08,3,56001.21,18665.97,No,Kevinton,23
+1170,6/10/2025,June,Mark Franco,Nintendo Switch Lite,Juguetes,5616.59,4017.48,5,28082.95,7995.55,No,Matthewborough,92
+1171,4/18/2025,April,Michael Murphy,Laptop Lenovo,Electrónica,24964.81,19885.83,4,99859.24,20315.92,No,Michaeltown,72
+1172,2/3/2025,February,Christine Jones,LEGO Star Wars,Juguetes,22491.74,13781.57,2,44983.48,17420.34,Sí,Wilsonhaven,45
+1173,2/26/2025,February,Shawn Jones,Shampoo L'Oréal,Belleza,13754.08,8442.46,5,68770.4,26558.1,No,Jessestad,68
+1174,2/9/2025,February,Russell Flores,Shampoo L'Oréal,Belleza,10811.96,8407.2,1,10811.96,2404.76,No,Williamsmouth,93
+1175,4/17/2025,April,James Wise,Crema Nivea,Belleza,10808.74,8764.07,4,43234.96,8178.68,No,Reynoldsborough,68
+1176,2/21/2025,February,Carlos Garcia,Puzzle 1000 piezas,Juguetes,18267.35,11131.98,3,54802.05,21406.11,No,East Meganfort,57
+1177,6/29/2025,June,Alyssa Barnes,Aspiradora Robot,Hogar,1771.62,1401.56,1,1771.62,370.06,No,West Michaelville,57
+1178,6/20/2025,June,George Espinoza,Juego de sábanas,Hogar,1593.53,1330.31,5,7967.65,1316.1,No,New Reginaland,25
+1179,5/28/2025,May,Joseph Singh,Hot Wheels Pack,Juguetes,21852.82,18124.63,4,87411.28,14912.76,No,South Chelseamouth,16
+1180,4/21/2025,April,Stephanie Cross,Gorra Under Armour,Ropa,7879.98,4225.72,5,39399.9,18271.3,No,Jenniferchester,94
+1181,4/1/2025,April,Wayne Bailey,Barbie Princesa,Juguetes,21197.14,13196.07,5,105985.7,40005.35,No,Garyland,45
+1182,5/15/2025,May,Sharon Nguyen,Crema Nivea,Belleza,20199.81,16075.1,5,100999.05,20623.55,No,Brucestad,92
+1183,4/6/2025,April,Jillian Chambers,Perfume Dior,Belleza,15263.97,11146.38,3,45791.91,12352.77,Sí,Thomasberg,44
+1184,4/14/2025,April,William Kent,Tenis Adidas,Ropa,8840.48,4981.54,2,17680.96,7717.88,No,West Staceyville,61
+1185,6/16/2025,June,Amy Wagner,iPhone 14,Electrónica,18550.13,15584.59,1,18550.13,2965.54,No,Lesliehaven,37
+1186,6/10/2025,June,Jessica Foster,Puzzle 1000 piezas,Juguetes,11395.78,6325.72,3,34187.34,15210.18,No,Lake Heather,82
+1187,6/9/2025,June,Frances Fowler,Perfume Dior,Belleza,22095.22,12250.76,5,110476.1,49222.3,Sí,New Adam,20
+1188,1/12/2025,January,Tanya Terry,Chamarra Puma,Ropa,16582.27,11109.82,4,66329.08,21889.8,No,New David,37
+1189,3/13/2025,March,Herbert Dickson,Perfume Dior,Belleza,8694.8,4684.86,5,43474.0,20049.7,No,Lake Juliaberg,95
+1190,3/28/2025,March,Daniel Freeman,Playera Nike,Ropa,5590.91,4721.84,1,5590.91,869.07,Sí,Katieberg,48
+1191,4/25/2025,April,Michelle Rose,Colchón SpringAir,Hogar,19127.61,11501.56,1,19127.61,7626.05,Sí,Mossbury,65
+1192,3/16/2025,March,Daniel Mcclure,Colchón SpringAir,Hogar,9567.17,7139.83,5,47835.85,12136.7,No,Tammytown,95
+1193,6/7/2025,June,Gilbert Thomas,Playera Nike,Ropa,9987.07,7587.32,4,39948.28,9599.0,Sí,Collinston,19
+1194,3/31/2025,March,Brandi Oliver,Gorra Under Armour,Ropa,10789.18,6921.78,4,43156.72,15469.6,No,Blakeborough,61
+1195,5/17/2025,May,Charles Diaz,Samsung Galaxy,Electrónica,4379.64,3642.39,4,17518.56,2949.0,No,Charlesshire,56
+1196,6/13/2025,June,Richard Bradley,Auriculares JBL,Electrónica,21127.66,12363.08,5,105638.3,43822.9,No,Krausefort,20
+1197,5/22/2025,May,Daniel Keller,Hot Wheels Pack,Juguetes,18670.54,10783.17,2,37341.08,15774.74,Sí,Port Heidi,91
+1198,4/9/2025,April,Lawrence Butler,Monitor LG,Electrónica,12797.81,10456.74,3,38393.43,7023.21,No,Jordanfort,92
+1199,3/8/2025,March,Rodney Shepard,Colchón SpringAir,Hogar,2659.83,1568.21,2,5319.66,2183.24,No,Lindaview,93
+1200,5/16/2025,May,Pedro Davis,iPhone 14,Electrónica,23787.17,17121.58,4,95148.68,26662.36,No,East Michael,84
+1201,1/5/2025,January,Victoria Schmitt,Nintendo Switch Lite,Juguetes,16110.5,13617.98,3,48331.5,7477.56,No,South Joshua,90
+1202,3/9/2025,March,Mr. Douglas Torres,Pantalón Levi's,Ropa,11050.09,7338.61,3,33150.27,11134.44,No,New Erik,85
+1203,2/18/2025,February,Randall Hale,Samsung Galaxy,Electrónica,12732.69,7749.66,4,50930.76,19932.12,Sí,Danielfurt,57
+1204,4/7/2025,April,Amanda Jackson,Playera Nike,Ropa,16152.2,13601.43,1,16152.2,2550.77,No,Maryburgh,74
+1205,5/28/2025,May,Kristine Matthews,Puzzle 1000 piezas,Juguetes,14550.2,12134.59,1,14550.2,2415.61,No,Port Douglas,83
+1206,2/12/2025,February,Jessica Patterson,Silla Gamer,Hogar,15164.65,10243.4,1,15164.65,4921.25,No,Johnton,53
+1207,5/19/2025,May,Karen May,Monitor LG,Electrónica,16188.56,8316.06,4,64754.24,31490.0,No,West Aprilview,77
+1208,3/7/2025,March,Joanna Rowe,Shampoo L'Oréal,Belleza,4052.78,2555.27,3,12158.34,4492.53,No,North Jackchester,53
+1209,4/11/2025,April,Michael Richardson,Perfume Dior,Belleza,19751.75,14350.77,1,19751.75,5400.98,No,Tracybury,81
+1210,6/16/2025,June,Hannah Smith,Hot Wheels Pack,Juguetes,6374.7,5087.32,5,31873.5,6436.9,No,South Joseph,52
+1211,2/3/2025,February,Amy Greer,Monitor LG,Electrónica,16623.94,13645.95,3,49871.82,8933.97,No,Martinezchester,99
+1212,1/20/2025,January,Rebecca Simmons,Barbie Princesa,Juguetes,14916.53,12355.37,3,44749.59,7683.48,No,West Patricia,92
+1213,2/9/2025,February,Michelle Campbell,Pantalón Levi's,Ropa,16785.9,13263.14,5,83929.5,17613.8,Sí,Lake Timothy,95
+1214,6/9/2025,June,Sylvia Rogers,Nintendo Switch Lite,Juguetes,9109.52,5710.84,2,18219.04,6797.36,No,Mathewsville,53
+1215,4/10/2025,April,Kyle Thomas,Barbie Princesa,Juguetes,5740.92,3146.87,1,5740.92,2594.05,No,West Ronald,22
+1216,6/18/2025,June,Kimberly Dawson,Shampoo L'Oréal,Belleza,20894.48,16909.67,1,20894.48,3984.81,No,Port David,89
+1217,5/29/2025,May,Derek Holder,Juego de sábanas,Hogar,9480.32,5278.51,5,47401.6,21009.05,No,Charlesfurt,31
+1218,4/20/2025,April,Belinda Blackwell,LEGO Star Wars,Juguetes,10330.38,7610.67,2,20660.76,5439.42,No,West Lori,88
+1219,2/25/2025,February,Karen Martin,Chamarra Puma,Ropa,5926.67,3459.45,4,23706.68,9868.88,No,Davidberg,34
+1220,2/15/2025,February,Kristina Moyer,Gorra Under Armour,Ropa,24612.55,16283.37,3,73837.65,24987.54,No,Lake Dorothy,74
+1221,1/28/2025,January,Donna Jackson,Maquillaje MAC,Belleza,24160.08,18987.7,5,120800.4,25861.9,No,South Brandon,42
+1222,5/19/2025,May,Michael Clark DVM,Auriculares JBL,Electrónica,21865.51,15176.62,1,21865.51,6688.89,No,Conradhaven,76
+1223,5/1/2025,May,Reginald Lloyd,Samsung Galaxy,Electrónica,2188.49,1217.04,4,8753.96,3885.8,No,North Joseph,28
+1224,2/20/2025,February,Sean Jackson,LEGO Star Wars,Juguetes,23665.69,13671.98,4,94662.76,39974.84,No,South Jennifer,13
+1225,7/5/2025,July,Brenda Myers,LEGO Star Wars,Juguetes,9971.7,6291.01,4,39886.8,14722.76,No,South Jeffreyland,57
+1226,5/13/2025,May,Patrick Andrews,Licuadora Oster,Hogar,8035.25,4296.28,3,24105.75,11216.91,No,North Joshuatown,27
+1227,2/23/2025,February,David King,Samsung Galaxy,Electrónica,22943.16,15265.44,2,45886.32,15355.44,No,East Crystalfurt,70
+1228,5/28/2025,May,Susan Daniels,Nintendo Switch Lite,Juguetes,230.75,121.77,3,692.25,326.94,No,Huertafort,29
+1229,5/31/2025,May,Carla Butler,Shampoo L'Oréal,Belleza,13241.51,7136.05,3,39724.53,18316.38,No,North Theresa,25
+1230,1/26/2025,January,Zachary Reid,iPhone 14,Electrónica,10553.66,8209.32,4,42214.64,9377.36,Sí,Nancyside,73
+1231,1/18/2025,January,Monica Villanueva,Shampoo L'Oréal,Belleza,509.24,346.48,2,1018.48,325.52,No,West Stacy,47
+1232,3/11/2025,March,Lisa Russo,LEGO Star Wars,Juguetes,15408.76,9001.76,4,61635.04,25628.0,No,Port Sarahmouth,95
+1233,4/25/2025,April,Donna Myers,Monitor LG,Electrónica,24368.9,12761.69,5,121844.5,58036.05,No,Sandybury,74
+1234,5/28/2025,May,Mr. Larry Arellano,Perfume Dior,Belleza,9822.3,6527.38,4,39289.2,13179.68,No,Lake Jessica,42
+1235,4/8/2025,April,Ashley Shepherd,Samsung Galaxy,Electrónica,19734.15,12248.61,1,19734.15,7485.54,No,New Brian,52
+1236,1/19/2025,January,Julie Mills,Licuadora Oster,Hogar,8872.25,5487.41,2,17744.5,6769.68,No,Cunninghamstad,97
+1237,4/29/2025,April,Carrie Lewis,Puzzle 1000 piezas,Juguetes,15830.22,12411.28,1,15830.22,3418.94,No,Bellland,68
+1238,2/9/2025,February,Melissa Parker,Samsung Galaxy,Electrónica,5119.62,3977.37,1,5119.62,1142.25,No,Hawkinsshire,49
+1239,6/23/2025,June,Belinda Allen,Maquillaje MAC,Belleza,24729.16,17064.62,3,74187.48,22993.62,Sí,North Laurastad,92
+1240,1/6/2025,January,Daniel Stephenson,Silla Gamer,Hogar,8988.66,6950.88,3,26965.98,6113.34,No,North Leslie,57
+1241,1/25/2025,January,Tyler Mullins,Puzzle 1000 piezas,Juguetes,18608.36,15130.89,4,74433.44,13909.88,No,Reidville,33
+1242,2/11/2025,February,Mary Ramirez,Puzzle 1000 piezas,Juguetes,9246.94,7203.85,3,27740.82,6129.27,No,South Jessica,64
+1243,4/9/2025,April,Robert Jenkins,Auriculares JBL,Electrónica,15101.09,11896.93,5,75505.45,16020.8,No,West Codyland,23
+1244,6/5/2025,June,Tyler Webb,Samsung Galaxy,Electrónica,16556.89,10054.56,5,82784.45,32511.65,No,New Joseph,31
+1245,6/17/2025,June,Ian Lawson,Hot Wheels Pack,Juguetes,11233.53,8474.41,3,33700.59,8277.36,No,Lake Adam,65
+1246,3/5/2025,March,Deborah Barnett,Playera Nike,Ropa,1968.53,1423.5,3,5905.59,1635.09,No,Rickyshire,96
+1247,3/24/2025,March,Andrea Ochoa,Licuadora Oster,Hogar,3655.21,2604.89,4,14620.84,4201.28,Sí,Port Noah,18
+1248,1/15/2025,January,Catherine Smith,Silla Gamer,Hogar,9117.55,7588.66,1,9117.55,1528.89,No,East Keithside,96
+1249,5/19/2025,May,Robin Newman,Hot Wheels Pack,Juguetes,9363.13,7182.27,5,46815.65,10904.3,No,West John,56
+1250,5/5/2025,May,Melissa Hill,Hot Wheels Pack,Juguetes,16274.06,9558.8,1,16274.06,6715.26,Sí,Tammymouth,33
+1251,5/30/2025,May,Patricia Cannon,Nintendo Switch Lite,Juguetes,9735.99,6781.95,3,29207.97,8862.12,No,Bankstown,100
+1252,5/25/2025,May,James Mendoza,Barbie Princesa,Juguetes,24909.49,14944.5,4,99637.96,39859.96,No,Perezbury,27
+1253,6/16/2025,June,Lori Jackson,Auriculares JBL,Electrónica,4399.14,3297.94,1,4399.14,1101.2,No,Strongview,50
+1254,5/20/2025,May,Joshua Malone,Playera Nike,Ropa,13794.93,8299.4,3,41384.79,16486.59,No,Elizabethfurt,100
+1255,1/12/2025,January,Emma Snyder,Silla Gamer,Hogar,12768.02,6926.36,2,25536.04,11683.32,No,Gregorybury,40
+1256,4/8/2025,April,Sheri Reyes,LEGO Star Wars,Juguetes,9086.32,6363.12,4,36345.28,10892.8,No,Ronaldfurt,80
+1257,4/5/2025,April,Cory Lynch,Juego de sábanas,Hogar,22117.74,11567.84,4,88470.96,42199.6,No,New Tarafurt,71
+1258,6/25/2025,June,Jason Carson,Maquillaje MAC,Belleza,19252.2,15173.98,1,19252.2,4078.22,No,Tammymouth,50
+1259,7/1/2025,July,Mark Green,Auriculares JBL,Electrónica,11699.25,7968.08,2,23398.5,7462.34,No,Stevensville,80
+1260,4/8/2025,April,Catherine Bass,Crema Nivea,Belleza,19217.76,10476.78,5,96088.8,43704.9,No,New Mariaville,17
+1261,2/19/2025,February,Katrina Ward,Monitor LG,Electrónica,3910.09,2180.38,3,11730.27,5189.13,No,New Nancy,38
+1262,4/17/2025,April,Timothy Thomas,Gorra Under Armour,Ropa,22383.66,17819.11,3,67150.98,13693.65,No,New Reneeborough,80
+1263,4/19/2025,April,Leslie Edwards,Pantalón Levi's,Ropa,15663.06,11199.87,1,15663.06,4463.19,No,Port Beckyberg,31
+1264,5/19/2025,May,Troy Morales,Shampoo L'Oréal,Belleza,3939.44,2877.98,5,19697.2,5307.3,No,South Mollyview,82
+1265,3/26/2025,March,Kerry Conrad,Laptop Lenovo,Electrónica,2122.45,1765.86,5,10612.25,1782.95,No,North John,36
+1266,1/22/2025,January,Heather Jackson,Maquillaje MAC,Belleza,15490.9,7909.65,5,77454.5,37906.25,No,Port Anthony,48
+1267,1/31/2025,January,Cynthia Martinez,Barbie Princesa,Juguetes,20136.74,14896.09,3,60410.22,15721.95,No,North Eric,98
+1268,6/29/2025,June,Ashlee Ward,iPhone 14,Electrónica,11046.18,7395.28,2,22092.36,7301.8,No,Christineberg,28
+1269,4/6/2025,April,Mr. Scott Cox,Tenis Adidas,Ropa,18381.57,14728.64,4,73526.28,14611.72,No,Lyonsfort,57
+1270,3/4/2025,March,Jeremiah Koch,Shampoo L'Oréal,Belleza,2743.98,1604.15,1,2743.98,1139.83,No,Lake Markburgh,41
+1271,1/25/2025,January,Jackson Wright,Licuadora Oster,Hogar,1360.07,1130.06,5,6800.35,1150.05,No,Port Mariefort,30
+1272,4/23/2025,April,Tammy Brown,Gorra Under Armour,Ropa,18056.1,10227.73,2,36112.2,15656.74,No,Cainstad,75
+1273,4/29/2025,April,Kristen Lester,Puzzle 1000 piezas,Juguetes,21988.98,14822.32,1,21988.98,7166.66,No,Kellyhaven,74
+1274,2/24/2025,February,John Gaines,Barbie Princesa,Juguetes,5457.1,3402.57,1,5457.1,2054.53,No,West Johnside,86
+1275,5/6/2025,May,Craig Perez,Hot Wheels Pack,Juguetes,13463.6,10723.9,4,53854.4,10958.8,No,Gabriellamouth,43
+1276,5/29/2025,May,Laurie Jones MD,Chamarra Puma,Ropa,9211.84,5897.45,5,46059.2,16571.95,No,Kylebury,56
+1277,5/27/2025,May,Nicole Rogers,Plancha Remington,Belleza,1930.94,1306.26,5,9654.7,3123.4,No,Port Joshuaport,89
+1278,4/14/2025,April,Tina Carson,Perfume Dior,Belleza,3303.72,1763.65,3,9911.16,4620.21,No,East Kimberly,53
+1279,3/25/2025,March,Teresa Harrington,Plancha Remington,Belleza,18898.63,10765.99,5,94493.15,40663.2,No,West Sethmouth,15
+1280,3/4/2025,March,Gail Lozano,Laptop Lenovo,Electrónica,3512.21,2165.5,4,14048.84,5386.84,No,South Michael,29
+1281,3/10/2025,March,Justin Daniels,Shampoo L'Oréal,Belleza,3580.55,2957.46,3,10741.65,1869.27,No,Angelaport,88
+1282,1/11/2025,January,Matthew Taylor,Gorra Under Armour,Ropa,8475.7,6694.97,5,42378.5,8903.65,No,New Taylorberg,82
+1283,1/6/2025,January,Philip Hendricks,Chamarra Puma,Ropa,20412.15,12837.72,1,20412.15,7574.43,No,West Natalieton,84
+1284,4/7/2025,April,Miss Diane Wyatt,Playera Nike,Ropa,14963.05,8872.13,5,74815.25,30454.6,No,Lake Emilyhaven,16
+1285,5/14/2025,May,Darin Harrington,Maquillaje MAC,Belleza,4345.75,3129.63,5,21728.75,6080.6,No,Melindafort,58
+1286,3/21/2025,March,Brian Brown,Colchón SpringAir,Hogar,886.11,737.13,1,886.11,148.98,No,West Scottmouth,66
+1287,2/9/2025,February,Daniel Johnson,Chamarra Puma,Ropa,3870.64,2870.76,4,15482.56,3999.52,No,Merrittchester,88
+1288,5/31/2025,May,Lisa Davis,LEGO Star Wars,Juguetes,17673.8,12045.39,5,88369.0,28142.05,No,Bryantville,94
+1289,7/1/2025,July,Carolyn Taylor,Nintendo Switch Lite,Juguetes,9482.94,7916.74,4,37931.76,6264.8,No,New Jeremiah,53
+1290,2/11/2025,February,Margaret Fitzgerald,Plancha Remington,Belleza,16929.13,13605.59,3,50787.39,9970.62,No,Port Jessica,34
+1291,4/29/2025,April,Suzanne Thompson,Silla Gamer,Hogar,13996.36,8099.74,3,41989.08,17689.86,No,Kempburgh,100
+1292,6/24/2025,June,Keith Leach,Aspiradora Robot,Hogar,7994.31,4973.11,3,23982.93,9063.6,No,Michaelville,83
+1293,4/27/2025,April,Mrs. Melissa Dalton,Maquillaje MAC,Belleza,22404.44,14295.97,3,67213.32,24325.41,No,South Michaelview,28
+1294,2/15/2025,February,Paul Carr,Playera Nike,Ropa,7262.0,5446.13,3,21786.0,5447.61,No,Port Markchester,93
+1295,6/19/2025,June,Linda Brown,Chamarra Puma,Ropa,5428.27,4287.16,3,16284.81,3423.33,No,Port Crystalfurt,99
+1296,5/6/2025,May,Valerie Smith,Pantalón Levi's,Ropa,2819.74,2141.06,2,5639.48,1357.36,No,Kevinshire,95
+1297,3/26/2025,March,Jennifer Martin,Crema Nivea,Belleza,15984.82,8286.08,4,63939.28,30794.96,No,Martinport,70
+1298,4/8/2025,April,Brian Chase,iPhone 14,Electrónica,229.02,158.62,2,458.04,140.8,No,New Lisa,70
+1299,7/6/2025,July,Hailey Potter,Barbie Princesa,Juguetes,18922.19,11363.45,3,56766.57,22676.22,No,North Thomasview,21
+1300,3/21/2025,March,David Wright,Crema Nivea,Belleza,13425.29,10110.47,1,13425.29,3314.82,No,South Timothybury,32
+1301,4/24/2025,April,Paul Matthews,Barbie Princesa,Juguetes,23354.67,11974.38,4,93418.68,45521.16,No,East Jessica,33
+1302,7/3/2025,July,Brady Crawford,Playera Nike,Ropa,330.75,231.12,1,330.75,99.63,No,West Kristen,52
+1303,6/18/2025,June,Debbie Byrd,Chamarra Puma,Ropa,24728.58,17066.56,4,98914.32,30648.08,No,Stevenbury,27
+1304,3/22/2025,March,Jill Archer,Maquillaje MAC,Belleza,6893.64,5398.31,3,20680.92,4485.99,No,New Maryshire,68
+1305,6/2/2025,June,Parker Davis,Pantalón Levi's,Ropa,450.7,278.53,3,1352.1,516.51,No,Kristintown,34
+1306,5/3/2025,May,Amanda Roberts,Juego de sábanas,Hogar,21418.05,17433.54,4,85672.2,15938.04,No,East Melissaville,21
+1307,2/26/2025,February,Bailey Ellison,LEGO Star Wars,Juguetes,4701.05,2581.88,3,14103.15,6357.51,No,Willisberg,10
+1308,7/5/2025,July,Christopher Ramirez,Chamarra Puma,Ropa,5964.48,4555.76,3,17893.44,4226.16,No,Debrafurt,83
+1309,2/17/2025,February,Amy Myers,Samsung Galaxy,Electrónica,16376.72,12159.21,1,16376.72,4217.51,No,Port Bethanyfort,69
+1310,6/21/2025,June,Jeffrey Thomas,Pantalón Levi's,Ropa,10194.87,6890.53,3,30584.61,9913.02,No,West Amanda,91
+1311,1/19/2025,January,Daniel Gould,Tenis Adidas,Ropa,15404.17,8883.51,2,30808.34,13041.32,No,Jeffersonfurt,68
+1312,4/19/2025,April,Arthur Parker,Plancha Remington,Belleza,10454.56,7236.98,4,41818.24,12870.32,No,North Shannonstad,95
+1313,5/8/2025,May,Lindsey Brown,Colchón SpringAir,Hogar,17040.51,12073.8,1,17040.51,4966.71,No,North Ryan,77
+1314,1/7/2025,January,Angela Wise,Playera Nike,Ropa,22939.39,12370.6,5,114696.95,52843.95,No,Scottmouth,35
+1315,3/19/2025,March,Albert Reyes,Shampoo L'Oréal,Belleza,3831.32,2355.65,5,19156.6,7378.35,No,West Stevenport,97
+1316,2/12/2025,February,Kevin Brown DDS,Juego de sábanas,Hogar,12271.82,9996.76,4,49087.28,9100.24,No,North Anthony,68
+1317,6/17/2025,June,Lisa Watson,Juego de sábanas,Hogar,10444.07,7283.37,5,52220.35,15803.5,No,New Matthew,49
+1318,7/3/2025,July,Debbie Lewis,Auriculares JBL,Electrónica,6435.98,3224.78,2,12871.96,6422.4,No,Nicholasview,15
+1319,1/30/2025,January,Ms. Barbara Schneider,Hot Wheels Pack,Juguetes,17539.58,12091.91,1,17539.58,5447.67,No,South Phyllisbury,18
+1320,7/1/2025,July,Carl Forbes,LEGO Star Wars,Juguetes,7248.56,4080.89,2,14497.12,6335.34,No,Patrickstad,92
+1321,6/24/2025,June,Victoria Richardson,Hot Wheels Pack,Juguetes,24822.13,15733.95,4,99288.52,36352.72,No,Stewartchester,97
+1322,1/24/2025,January,Monica Bridges,Crema Nivea,Belleza,16373.0,10179.41,2,32746.0,12387.18,No,West Jerryport,60
+1323,1/13/2025,January,Rebecca Johnson,Crema Nivea,Belleza,18223.67,10532.22,1,18223.67,7691.45,No,Wilcoxhaven,48
+1324,3/6/2025,March,Andrew Riley,Nintendo Switch Lite,Juguetes,10660.79,6745.58,2,21321.58,7830.42,No,Taylorhaven,54
+1325,2/3/2025,February,Tammy Cantrell,Silla Gamer,Hogar,4793.16,3864.83,1,4793.16,928.33,Sí,Russellhaven,94
+1326,5/2/2025,May,Cody Johnson,Nintendo Switch Lite,Juguetes,19174.73,15518.39,1,19174.73,3656.34,No,Lake Peter,18
+1327,2/22/2025,February,Craig Morales,Monitor LG,Electrónica,936.05,663.87,1,936.05,272.18,No,Lake Dianastad,15
+1328,1/10/2025,January,Theresa Hayes,Puzzle 1000 piezas,Juguetes,5935.05,3418.85,1,5935.05,2516.2,No,Katherinefort,47
+1329,6/29/2025,June,Priscilla Campbell,Juego de sábanas,Hogar,8040.7,5703.04,3,24122.1,7012.98,No,Smithfurt,28
+1330,1/25/2025,January,James Cummings,Crema Nivea,Belleza,10397.65,6200.16,5,51988.25,20987.45,No,Caldwellburgh,32
+1331,2/12/2025,February,Stacey Flores,Nintendo Switch Lite,Juguetes,12440.96,10454.16,4,49763.84,7947.2,No,East Jessicaland,50
+1332,6/20/2025,June,Jamie Delgado,Puzzle 1000 piezas,Juguetes,3815.52,2410.5,5,19077.6,7025.1,No,Jimenezberg,38
+1333,2/24/2025,February,Laura Hooper,Pantalón Levi's,Ropa,20163.83,16537.55,5,100819.15,18131.4,No,Watkinsstad,63
+1334,4/12/2025,April,Chelsea Nguyen,Shampoo L'Oréal,Belleza,3438.91,2011.76,2,6877.82,2854.3,No,New Heatherfurt,20
+1335,2/10/2025,February,Lauren Chang,Hot Wheels Pack,Juguetes,2402.35,1810.42,2,4804.7,1183.86,Sí,Armstrongfort,58
+1336,1/29/2025,January,Robert Guerra,Shampoo L'Oréal,Belleza,1084.73,570.0,5,5423.65,2573.65,No,Danielhaven,81
+1337,6/29/2025,June,John Wallace,Aspiradora Robot,Hogar,5301.34,4333.64,3,15904.02,2903.1,No,Port Christopher,11
+1338,4/5/2025,April,Mrs. Courtney Cochran DVM,Colchón SpringAir,Hogar,24055.73,13015.61,4,96222.92,44160.48,No,Marybury,99
+1339,6/14/2025,June,Lisa Lewis,Crema Nivea,Belleza,9976.14,5823.73,3,29928.42,12457.23,No,East Michaelfurt,58
+1340,6/16/2025,June,Margaret Gross,Nintendo Switch Lite,Juguetes,16253.16,9881.07,3,48759.48,19116.27,No,Brookeshire,73
+1341,3/29/2025,March,Sandra Schneider,LEGO Star Wars,Juguetes,20090.13,15124.75,3,60270.39,14896.14,No,Evansshire,57
+1342,7/2/2025,July,Jason Chapman,Chamarra Puma,Ropa,1238.31,993.66,2,2476.62,489.3,Sí,East Mark,80
+1343,6/7/2025,June,Kevin Russo,Shampoo L'Oréal,Belleza,18028.3,10876.79,2,36056.6,14303.02,No,Hernandezberg,58
+1344,3/20/2025,March,Elizabeth Murphy,Crema Nivea,Belleza,12532.61,9137.69,3,37597.83,10184.76,No,Bonnieside,72
+1345,1/13/2025,January,Joshua Clements,Puzzle 1000 piezas,Juguetes,4289.02,3337.89,2,8578.04,1902.26,No,Brooksborough,79
+1346,7/5/2025,July,Grace Walker,Barbie Princesa,Juguetes,22930.79,15816.46,1,22930.79,7114.33,No,West Carolyn,19
+1347,5/20/2025,May,Nancy Phillips,Laptop Lenovo,Electrónica,10368.57,8241.88,2,20737.14,4253.38,Sí,Solomonland,29
+1348,5/26/2025,May,Theodore Williams,iPhone 14,Electrónica,12692.75,8004.31,5,63463.75,23442.2,No,Michaelville,88
+1349,1/22/2025,January,Clinton Thomas,Puzzle 1000 piezas,Juguetes,491.72,337.45,4,1966.88,617.08,Sí,West Nicholasside,77
+1350,3/8/2025,March,Dana Gardner,Gorra Under Armour,Ropa,24439.24,12366.25,4,97756.96,48291.96,No,West Marcborough,32
+1351,2/23/2025,February,Ryan Bradley,Laptop Lenovo,Electrónica,13157.2,7688.27,5,65786.0,27344.65,No,West Williammouth,55
+1352,2/16/2025,February,Christopher Solis,Chamarra Puma,Ropa,2067.58,1727.99,4,8270.32,1358.36,No,South Paulville,99
+1353,6/5/2025,June,Max Barrett,Silla Gamer,Hogar,17132.64,13650.49,1,17132.64,3482.15,Sí,New Lisa,58
+1354,4/18/2025,April,Natasha Roach,Nintendo Switch Lite,Juguetes,11952.53,8640.03,2,23905.06,6625.0,Sí,East Sethview,65
+1355,6/11/2025,June,Michele Davis,Gorra Under Armour,Ropa,24435.5,20546.44,5,122177.5,19445.3,No,Bradshawshire,39
+1356,1/5/2025,January,Mary Hernandez,Juego de sábanas,Hogar,11939.96,6164.56,1,11939.96,5775.4,No,North Shelby,45
+1357,2/17/2025,February,Zachary Robinson,Shampoo L'Oréal,Belleza,16486.92,9278.41,3,49460.76,21625.53,Sí,Carneytown,36
+1358,5/23/2025,May,Richard Stewart,Crema Nivea,Belleza,18831.14,14112.98,4,75324.56,18872.64,No,East Rodneychester,48
+1359,6/17/2025,June,Lydia Brown,Juego de sábanas,Hogar,6087.76,4822.28,4,24351.04,5061.92,No,Shawnview,79
+1360,2/18/2025,February,Eric Russell,Chamarra Puma,Ropa,18914.67,10383.83,1,18914.67,8530.84,No,Veronicahaven,54
+1361,4/5/2025,April,Dylan Nunez,Laptop Lenovo,Electrónica,10983.5,8715.8,3,32950.5,6803.1,No,South Gregory,88
+1362,3/17/2025,March,Deborah Davidson,Maquillaje MAC,Belleza,24226.12,14880.45,3,72678.36,28037.01,No,North John,67
+1363,3/27/2025,March,Kevin Hutchinson,Barbie Princesa,Juguetes,8959.7,7431.18,4,35838.8,6114.08,No,New Benjamin,84
+1364,1/9/2025,January,Gary Bell,LEGO Star Wars,Juguetes,19326.97,11661.56,2,38653.94,15330.82,No,Perkinsberg,20
+1365,4/27/2025,April,Ashley Maddox,Pantalón Levi's,Ropa,9562.0,7404.45,2,19124.0,4315.1,No,Davidstad,50
+1366,3/9/2025,March,Samuel Cole,Playera Nike,Ropa,2378.86,1974.54,4,9515.44,1617.28,No,Kathrynmouth,44
+1367,4/21/2025,April,Erika Clayton,iPhone 14,Electrónica,2273.7,1479.82,5,11368.5,3969.4,No,Lake Larryside,62
+1368,5/13/2025,May,Jessica Richmond,Laptop Lenovo,Electrónica,2331.51,1618.01,5,11657.55,3567.5,No,East Lisa,51
+1369,3/27/2025,March,Joseph Reed,LEGO Star Wars,Juguetes,7367.0,4683.42,1,7367.0,2683.58,No,East Angelaside,81
+1370,5/9/2025,May,Susan Torres,Juego de sábanas,Hogar,13075.5,9674.05,2,26151.0,6802.9,No,Collierhaven,48
+1371,4/25/2025,April,Matthew Hammond,Chamarra Puma,Ropa,3733.78,2085.4,3,11201.34,4945.14,No,Scottview,71
+1372,4/17/2025,April,Timothy Miller,Samsung Galaxy,Electrónica,6367.32,3733.2,4,25469.28,10536.48,No,West Brenda,35
+1373,1/12/2025,January,Randall Allen,LEGO Star Wars,Juguetes,3473.69,1745.07,4,13894.76,6914.48,No,Port Erinborough,89
+1374,5/22/2025,May,Kathryn Ponce,Hot Wheels Pack,Juguetes,11061.55,7197.92,5,55307.75,19318.15,No,Jamesfurt,51
+1375,2/11/2025,February,Joyce Rodriguez,Crema Nivea,Belleza,12027.34,6761.45,4,48109.36,21063.56,No,Josephside,47
+1376,6/13/2025,June,Stacy Saunders,Nintendo Switch Lite,Juguetes,19571.16,12017.87,3,58713.48,22659.87,No,Alexandrabury,60
+1377,1/25/2025,January,Tammy Porter,Playera Nike,Ropa,23308.47,13284.2,5,116542.35,50121.35,No,New Angelberg,80
+1378,2/23/2025,February,Paul Kelly,Auriculares JBL,Electrónica,23580.08,13520.27,3,70740.24,30179.43,No,East Kathleenburgh,18
+1379,2/25/2025,February,Angela Scott,Puzzle 1000 piezas,Juguetes,3565.56,2160.7,3,10696.68,4214.58,No,Lake Susanhaven,64
+1380,1/15/2025,January,Sean Crane,LEGO Star Wars,Juguetes,11281.76,8001.89,5,56408.8,16399.35,No,East Tommy,74
+1381,5/1/2025,May,Anne Thompson,Nintendo Switch Lite,Juguetes,1015.45,851.91,5,5077.25,817.7,No,Morganmouth,20
+1382,3/7/2025,March,Justin Ramirez,iPhone 14,Electrónica,16474.28,10284.12,5,82371.4,30950.8,Sí,Williamsmouth,92
+1383,5/30/2025,May,Mark Green,Hot Wheels Pack,Juguetes,24146.35,15711.05,1,24146.35,8435.3,Sí,Lisaview,38
+1384,5/1/2025,May,Lisa Lee,Shampoo L'Oréal,Belleza,13994.04,10365.14,2,27988.08,7257.8,No,Priceshire,60
+1385,5/15/2025,May,Emily Robinson,Nintendo Switch Lite,Juguetes,17291.89,9558.28,1,17291.89,7733.61,No,North Jenniferhaven,47
+1386,2/27/2025,February,Christina Walsh,LEGO Star Wars,Juguetes,2990.13,2479.53,2,5980.26,1021.2,No,East Matthew,53
+1387,5/29/2025,May,David Chaney,Barbie Princesa,Juguetes,13075.76,8131.88,1,13075.76,4943.88,No,New Nicolefurt,99
+1388,4/4/2025,April,Angela Holmes,Hot Wheels Pack,Juguetes,1772.64,914.04,1,1772.64,858.6,Sí,South Walter,53
+1389,3/8/2025,March,Stephanie Blair,iPhone 14,Electrónica,23255.07,17654.58,5,116275.35,28002.45,No,South Steven,30
+1390,1/10/2025,January,Patricia Koch DDS,Gorra Under Armour,Ropa,10716.6,7091.38,4,42866.4,14500.88,No,South Adamview,33
+1391,5/1/2025,May,Yvette Parker,Puzzle 1000 piezas,Juguetes,826.89,591.17,2,1653.78,471.44,No,Charlesshire,64
+1392,1/25/2025,January,Stacy Medina,LEGO Star Wars,Juguetes,17647.92,10095.04,1,17647.92,7552.88,No,Harrisonburgh,78
+1393,6/13/2025,June,Cameron West,Silla Gamer,Hogar,8217.02,5424.41,3,24651.06,8377.83,No,Port Robertshire,72
+1394,6/21/2025,June,Kathryn Fleming,Plancha Remington,Belleza,14964.57,10684.07,5,74822.85,21402.5,No,East Eric,55
+1395,3/11/2025,March,Nancy Martinez,Nintendo Switch Lite,Juguetes,4395.94,3234.34,3,13187.82,3484.8,No,New Michelletown,85
+1396,5/26/2025,May,Brian Evans,iPhone 14,Electrónica,7898.33,4608.68,1,7898.33,3289.65,No,Moorefort,98
+1397,4/5/2025,April,Robert Arnold,Juego de sábanas,Hogar,9772.74,6926.42,5,48863.7,14231.6,No,Martinbury,33
+1398,7/5/2025,July,Kyle Sanchez,Nintendo Switch Lite,Juguetes,17366.48,12605.3,2,34732.96,9522.36,No,Port Cindy,72
+1399,2/2/2025,February,Ryan Lee,Pantalón Levi's,Ropa,4758.75,3781.75,5,23793.75,4885.0,Sí,Lake Marissashire,55
+1400,6/24/2025,June,Glenn Crawford,Auriculares JBL,Electrónica,3499.71,2748.41,5,17498.55,3756.5,No,South Debbie,73
+1401,5/23/2025,May,Joshua Nelson,Puzzle 1000 piezas,Juguetes,10449.2,8296.27,4,41796.8,8611.72,No,North Brittanyhaven,82
+1402,4/27/2025,April,David Mcneil,iPhone 14,Electrónica,7373.04,4395.8,5,36865.2,14886.2,No,North Jayland,68
+1403,3/6/2025,March,Lisa Holland,Maquillaje MAC,Belleza,13788.18,7440.43,1,13788.18,6347.75,No,West Sherry,79
+1404,3/16/2025,March,Deanna Hill,Gorra Under Armour,Ropa,20583.01,10591.27,4,82332.04,39966.96,No,Michelleshire,64
+1405,5/27/2025,May,Heidi Lane MD,iPhone 14,Electrónica,7512.95,6384.2,4,30051.8,4515.0,No,West Jose,21
+1406,4/10/2025,April,Heather Mcdowell,LEGO Star Wars,Juguetes,19413.23,11316.58,5,97066.15,40483.25,No,Crawfordfort,100
+1407,6/3/2025,June,Cindy Hudson DDS,Maquillaje MAC,Belleza,4232.94,2322.75,2,8465.88,3820.38,No,Amandatown,17
+1408,2/11/2025,February,Chad Parker,Plancha Remington,Belleza,13353.79,9466.5,2,26707.58,7774.58,No,New Angelaview,100
+1409,2/16/2025,February,Joy Nelson,Tenis Adidas,Ropa,14361.12,11967.68,5,71805.6,11967.2,No,Robinborough,96
+1410,2/22/2025,February,Rebecca Jimenez,iPhone 14,Electrónica,24073.02,18656.39,1,24073.02,5416.63,No,Snydermouth,93
+1411,1/8/2025,January,Scott Mendez,Colchón SpringAir,Hogar,6316.96,4731.33,2,12633.92,3171.26,No,Kochberg,96
+1412,6/3/2025,June,Frank Scott,Puzzle 1000 piezas,Juguetes,3640.07,2625.73,4,14560.28,4057.36,No,Ramirezville,19
+1413,4/10/2025,April,Paul Chung Jr.,Auriculares JBL,Electrónica,12938.78,7729.36,3,38816.34,15628.26,No,Port Marieton,72
+1414,3/6/2025,March,Mr. Joseph Gonzales,Gorra Under Armour,Ropa,161.58,124.57,1,161.58,37.01,No,Hallmouth,68
+1415,3/12/2025,March,Julia Taylor,Playera Nike,Ropa,19912.38,12728.0,4,79649.52,28737.52,No,West Sarahview,73
+1416,1/21/2025,January,Latoya Wheeler,Tenis Adidas,Ropa,20725.76,12812.96,5,103628.8,39564.0,No,Bethstad,72
+1417,5/29/2025,May,Mark Goodwin,Playera Nike,Ropa,1243.98,894.62,4,4975.92,1397.44,Sí,Angelahaven,30
+1418,4/21/2025,April,Wendy Shaw,Puzzle 1000 piezas,Juguetes,116.83,97.59,2,233.66,38.48,No,East Michael,26
+1419,1/28/2025,January,Sara Smith,Pantalón Levi's,Ropa,21873.14,17647.43,1,21873.14,4225.71,No,West Jenniferstad,42
+1420,6/19/2025,June,Chelsea Mcintosh,Samsung Galaxy,Electrónica,16646.27,12103.82,1,16646.27,4542.45,No,Montesmouth,49
+1421,4/19/2025,April,Shelley Moore,Aspiradora Robot,Hogar,16421.58,12255.33,1,16421.58,4166.25,No,Port Robert,19
+1422,1/8/2025,January,Erin Hernandez,Juego de sábanas,Hogar,5732.15,4230.29,1,5732.15,1501.86,Sí,North Christopherburgh,53
+1423,5/17/2025,May,Christopher Elliott,Auriculares JBL,Electrónica,17381.37,11596.76,2,34762.74,11569.22,No,Kerrmouth,23
+1424,4/9/2025,April,Brittany Lopez,Samsung Galaxy,Electrónica,9252.29,5595.22,4,37009.16,14628.28,No,New Jacobside,27
+1425,3/11/2025,March,Diana Moore,Licuadora Oster,Hogar,13309.66,6694.31,2,26619.32,13230.7,No,North Andrew,37
+1426,3/22/2025,March,Edward Torres,Aspiradora Robot,Hogar,15440.29,10110.83,2,30880.58,10658.92,Sí,Emilybury,22
+1427,2/8/2025,February,Joseph Chang,Licuadora Oster,Hogar,14780.39,9376.84,4,59121.56,21614.2,No,Jensenborough,27
+1428,3/26/2025,March,Mark Smith,Silla Gamer,Hogar,16151.05,9478.38,5,80755.25,33363.35,No,Brianberg,87
+1429,3/22/2025,March,Julia Simpson,Playera Nike,Ropa,21212.51,15494.51,3,63637.53,17154.0,No,South Marcus,87
+1430,3/26/2025,March,Peter Gilbert,Crema Nivea,Belleza,18721.31,11297.18,1,18721.31,7424.13,No,North Dennismouth,40
+1431,4/26/2025,April,Christopher Ellis,Puzzle 1000 piezas,Juguetes,2907.32,1962.02,5,14536.6,4726.5,Sí,Hernandezville,11
+1432,4/30/2025,April,Kimberly Munoz,Tenis Adidas,Ropa,3386.37,2713.45,5,16931.85,3364.6,No,Floydstad,79
+1433,3/19/2025,March,Molly Clark PhD,Aspiradora Robot,Hogar,23865.88,18367.86,1,23865.88,5498.02,No,Martinmouth,11
+1434,6/5/2025,June,Austin Summers,Pantalón Levi's,Ropa,1091.69,568.95,4,4366.76,2090.96,No,Teresaborough,90
+1435,4/22/2025,April,David Bowman,Maquillaje MAC,Belleza,10647.02,6822.58,5,53235.1,19122.2,No,Jennachester,29
+1436,6/16/2025,June,Brianna Roberts,Playera Nike,Ropa,7816.68,5307.19,2,15633.36,5018.98,No,Leslieborough,29
+1437,4/27/2025,April,Tamara Dunlap,Plancha Remington,Belleza,9829.21,7096.72,1,9829.21,2732.49,No,Lake Andrew,65
+1438,6/15/2025,June,Kayla Powers,Licuadora Oster,Hogar,6187.55,5096.19,1,6187.55,1091.36,No,West Jameschester,87
+1439,1/7/2025,January,Eric Long,Samsung Galaxy,Electrónica,16685.38,12185.64,2,33370.76,8999.48,No,Ricardomouth,100
+1440,3/12/2025,March,Suzanne Ewing,Licuadora Oster,Hogar,4179.43,3483.79,5,20897.15,3478.2,No,Christopherfort,43
+1441,3/22/2025,March,Joshua Jackson,Silla Gamer,Hogar,3260.57,2521.7,3,9781.71,2216.61,No,Shannonchester,25
+1442,4/28/2025,April,Daniel Rocha,Samsung Galaxy,Electrónica,20196.99,12021.11,1,20196.99,8175.88,No,Mathishaven,83
+1443,5/31/2025,May,Bryan Mclaughlin,Auriculares JBL,Electrónica,11434.42,7158.44,4,45737.68,17103.92,No,West Melissa,31
+1444,5/18/2025,May,Dean Watts,Pantalón Levi's,Ropa,6452.39,3458.59,5,32261.95,14969.0,No,Garciaberg,24
+1445,3/5/2025,March,Christopher Murphy,Juego de sábanas,Hogar,163.96,131.26,1,163.96,32.7,No,Farrellborough,70
+1446,5/22/2025,May,Denise Fisher,Chamarra Puma,Ropa,23013.64,12948.31,1,23013.64,10065.33,No,Jonesport,93
+1447,3/17/2025,March,Melissa Simon,Barbie Princesa,Juguetes,8112.87,5238.4,3,24338.61,8623.41,No,Lake Gregorychester,19
+1448,3/11/2025,March,David Harper,Plancha Remington,Belleza,3073.08,2260.75,1,3073.08,812.33,No,Mannstad,76
+1449,5/18/2025,May,Kaitlin Myers,Auriculares JBL,Electrónica,1816.27,1203.79,3,5448.81,1837.44,No,Birdburgh,49
+1450,6/18/2025,June,Douglas Jenkins,Playera Nike,Ropa,13871.98,6974.68,2,27743.96,13794.6,No,Smithhaven,48
+1451,4/6/2025,April,Sarah Welch,Crema Nivea,Belleza,11651.77,8238.87,4,46607.08,13651.6,No,Christopherville,35
+1452,5/19/2025,May,David Romero,Crema Nivea,Belleza,3849.1,3180.66,1,3849.1,668.44,No,Alyssahaven,54
+1453,4/18/2025,April,Brandon Lambert,Samsung Galaxy,Electrónica,136.4,99.58,3,409.2,110.46,No,Jamestown,77
+1454,2/12/2025,February,Amy Rodriguez,Aspiradora Robot,Hogar,12351.52,6434.69,2,24703.04,11833.66,No,West Jordanchester,21
+1455,3/16/2025,March,Christopher Scott,iPhone 14,Electrónica,22442.46,15303.87,3,67327.38,21415.77,No,Deborahland,20
+1456,2/28/2025,February,Brandon Mitchell,Perfume Dior,Belleza,12685.15,9171.69,4,50740.6,14053.84,Sí,Heathermouth,82
+1457,4/14/2025,April,Jacob Bentley,Auriculares JBL,Electrónica,16594.85,9056.6,3,49784.55,22614.75,No,Johnsonbury,50
+1458,1/22/2025,January,Amanda Davis,Hot Wheels Pack,Juguetes,8019.64,4773.17,1,8019.64,3246.47,No,Juarezville,27
+1459,6/11/2025,June,Kyle Bartlett,Perfume Dior,Belleza,3969.72,2213.24,4,15878.88,7025.92,No,North Johnbury,25
+1460,1/29/2025,January,Crystal Evans,Plancha Remington,Belleza,24119.4,13812.52,3,72358.2,30920.64,No,New Justinberg,25
+1461,1/16/2025,January,Jermaine Cortez,iPhone 14,Electrónica,20209.16,12256.36,5,101045.8,39764.0,Sí,Hunttown,51
+1462,2/16/2025,February,Tim Cochran,Licuadora Oster,Hogar,17807.82,14939.69,4,71231.28,11472.52,No,New Hector,96
+1463,4/14/2025,April,Barbara Holt,Tenis Adidas,Ropa,20520.23,11508.85,4,82080.92,36045.52,No,Albertberg,81
+1464,5/24/2025,May,Samuel Johnson,Crema Nivea,Belleza,2458.66,1317.02,2,4917.32,2283.28,No,Barryfort,17
+1465,2/11/2025,February,Danny Hendricks,Colchón SpringAir,Hogar,5033.51,3222.47,1,5033.51,1811.04,No,Cherylchester,43
+1466,7/5/2025,July,Erika Pineda,Laptop Lenovo,Electrónica,24929.32,14190.08,4,99717.28,42956.96,No,Lake Steven,21
+1467,5/27/2025,May,Nicole Fletcher,Playera Nike,Ropa,1163.14,769.24,2,2326.28,787.8,No,North Daniel,65
+1468,6/28/2025,June,Nicole Jenkins,Puzzle 1000 piezas,Juguetes,834.11,616.51,2,1668.22,435.2,No,Contrerasberg,33
+1469,2/9/2025,February,Johnathan Gibson,Tenis Adidas,Ropa,11205.68,6185.77,5,56028.4,25099.55,No,Davidside,41
+1470,5/8/2025,May,David Paul,Chamarra Puma,Ropa,10358.61,7175.83,1,10358.61,3182.78,Sí,North Mariaville,59
+1471,5/26/2025,May,Chelsea Miller,Aspiradora Robot,Hogar,5066.5,4101.98,5,25332.5,4822.6,No,Edwardberg,79
+1472,7/3/2025,July,Elizabeth Henderson,Auriculares JBL,Electrónica,19569.7,12244.55,5,97848.5,36625.75,No,North Evelynville,54
+1473,1/31/2025,January,Helen Hunter,Shampoo L'Oréal,Belleza,8107.95,4821.41,1,8107.95,3286.54,No,Katieland,38
+1474,3/5/2025,March,Hayley Singleton,Samsung Galaxy,Electrónica,1558.92,1320.46,5,7794.6,1192.3,No,South Donaldtown,84
+1475,3/18/2025,March,Robert Sullivan,Colchón SpringAir,Hogar,2593.34,1892.89,3,7780.02,2101.35,No,South James,17
+1476,2/15/2025,February,Douglas Scott,Juego de sábanas,Hogar,21177.98,16499.48,3,63533.94,14035.5,No,Josephburgh,32
+1477,6/15/2025,June,Darryl Torres,Colchón SpringAir,Hogar,14853.74,11618.2,3,44561.22,9706.62,No,Reynoldsmouth,13
+1478,1/28/2025,January,Darrell Kelly,Gorra Under Armour,Ropa,14133.8,9852.5,2,28267.6,8562.6,No,Lake Amy,73
+1479,3/8/2025,March,Kimberly Jones,Plancha Remington,Belleza,4471.36,2295.09,1,4471.36,2176.27,No,South Lindaton,38
+1480,1/5/2025,January,Elizabeth Mitchell,Monitor LG,Electrónica,12001.93,7394.47,5,60009.65,23037.3,No,Osbornemouth,26
+1481,3/3/2025,March,Michael Campbell,Pantalón Levi's,Ropa,22977.64,18278.7,3,68932.92,14096.82,Sí,Wendymouth,28
+1482,4/20/2025,April,Lori Garrett,Crema Nivea,Belleza,19381.73,15433.06,3,58145.19,11846.01,No,East Victoriahaven,57
+1483,2/2/2025,February,Jeffrey Benton,Nintendo Switch Lite,Juguetes,2615.7,1584.11,2,5231.4,2063.18,No,Lake Johnmouth,65
+1484,1/21/2025,January,Jeremiah Johnson,Hot Wheels Pack,Juguetes,4437.65,3723.45,5,22188.25,3571.0,No,East Kevin,38
+1485,7/6/2025,July,Jose Richards,Crema Nivea,Belleza,9521.76,7207.0,3,28565.28,6944.28,No,West Sarah,10
+1486,2/28/2025,February,Frank Craig,Maquillaje MAC,Belleza,21283.85,16384.11,5,106419.25,24498.7,Sí,South Victor,87
+1487,2/10/2025,February,Kylie Juarez,Gorra Under Armour,Ropa,5600.29,3908.68,4,22401.16,6766.44,No,Ashleyside,19
+1488,4/7/2025,April,Kevin Harrington,Silla Gamer,Hogar,24561.25,13723.86,1,24561.25,10837.39,No,East Alicia,95
+1489,3/6/2025,March,Latoya Lutz,Chamarra Puma,Ropa,383.75,220.04,1,383.75,163.71,No,Lake Jeremiah,23
+1490,6/21/2025,June,Sandra Whitaker,Laptop Lenovo,Electrónica,9709.83,7344.56,2,19419.66,4730.54,No,Michaelstad,73
+1491,3/16/2025,March,Jack Crawford,Hot Wheels Pack,Juguetes,13696.0,7334.21,4,54784.0,25447.16,No,Floresside,83
+1492,4/20/2025,April,Angela Robertson,Colchón SpringAir,Hogar,11337.06,8839.71,1,11337.06,2497.35,No,Port Stephanie,50
+1493,4/2/2025,April,Emma Lynch,Playera Nike,Ropa,1947.59,1089.75,4,7790.36,3431.36,No,Cranemouth,19
+1494,4/12/2025,April,Erika Hughes,Perfume Dior,Belleza,8514.97,7193.84,4,34059.88,5284.52,No,Stoneview,65
+1495,7/2/2025,July,Laurie Johnston,Juego de sábanas,Hogar,22254.86,12351.14,1,22254.86,9903.72,No,Juliemouth,34
+1496,7/3/2025,July,Peter Wood,Nintendo Switch Lite,Juguetes,18078.75,13658.33,3,54236.25,13261.26,No,Lake Kristen,48
+1497,3/30/2025,March,Jill Rogers,Licuadora Oster,Hogar,1335.92,935.3,4,5343.68,1602.48,No,South James,56
+1498,3/17/2025,March,Luis Smith,Auriculares JBL,Electrónica,2281.95,1799.01,5,11409.75,2414.7,No,Colleenshire,22
+1499,5/27/2025,May,Tamara Murphy,iPhone 14,Electrónica,4353.72,2621.52,1,4353.72,1732.2,No,West Ronald,24
+1500,3/26/2025,March,Brooke Little,Monitor LG,Ropa,20254.82,9020.12,1,16565.46,13438.38,No,New Michaelland,96
+1501,3/7/2025,January,Bryan Lee,Laptop Lenovo,Ropa,14803.26,10173.48,2,14803.26,4739.6,Sí,Joyceville,22
+1502,6/3/2025,April,Jordan Anderson,Plancha Remington,Juguetes,20254.82,5328.28,1,22200.42,2152.2,No,East Michael,58
+1503,6/3/2025,April,Chase Moss,Plancha Remington,Ropa,16565.46,12764.91,1,5568.42,14418.45,No,Joyceville,27
+1504,3/18/2025,May,Jacob Robles,Gorra Under Armour,Hogar,13520.53,8160.92,2,33833.75,13165.84,No,Parkborough,50
+1505,2/17/2025,April,Bryan Lee,Hot Wheels Pack,Hogar,13520.53,10295.27,1,60531.12,12901.04,No,South Anthony,22
+1506,3/19/2025,May,Tina Gonzales DVM,Hot Wheels Pack,Ropa,7400.14,12220.67,4,22200.42,7161.24,Sí,Lanemouth,16
+1507,2/17/2025,February,Laura Hayden,Hot Wheels Pack,Ropa,15723.41,8160.92,5,22779.84,14418.45,Sí,Madisonshire,27
+1508,3/30/2025,February,Jordan Anderson,Pantalón Levi's,Ropa,6766.75,9020.12,2,62893.64,39199.25,No,Petershire,61
+1509,3/19/2025,February,Tina Gonzales DVM,iPhone 14,Hogar,24903.42,17063.57,4,542.43,45038.12,No,Daniellefort,50
+1510,4/9/2025,March,Tamara Flores,Chamarra Puma,Hogar,9951.23,12220.67,3,5568.42,12901.04,No,Morrisville,50
+1511,3/26/2025,March,Brittany Rice,Perfume Dior,Juguetes,18796.86,13673.88,5,67652.7,14010.96,No,Petershire,11
+1512,2/10/2025,February,Laura Hayden,Monitor LG,Hogar,180.81,10295.27,4,39804.92,134.13,No,Russellchester,65
+1513,6/14/2025,June,Tamara Flores,Pantalón Levi's,Electrónica,180.81,13162.57,4,542.43,306.78,No,North Katrinastad,59
+1514,3/26/2025,May,Joseph Dunn,Perfume Dior,Belleza,24933.41,13673.88,2,67652.7,39199.25,No,North Katrinastad,65
+1515,7/5/2025,February,Brittany Rice,Colchón SpringAir,Electrónica,180.81,1496.17,3,56390.58,39199.25,No,North Katrinastad,86
+1516,7/5/2025,March,Brittany Rice,Chamarra Puma,Juguetes,23229.95,13162.57,2,33055.6,15389.36,No,Daniellefort,29
+1517,2/12/2025,March,Joseph Dunn,Monitor LG,Hogar,21775.91,13741.16,1,56390.58,15389.36,No,Hartmanton,32
+1518,6/30/2025,May,Jeffery Berry,Chamarra Puma,Hogar,22500.39,482.71,2,13892.65,15389.36,No,West Leeland,32
+1519,6/10/2025,May,Joann Velez,Chamarra Puma,Belleza,1778.27,13741.16,5,46459.9,4085.08,No,North Luisborough,53
+1520,5/29/2025,June,Angela Hurst,Chamarra Puma,Ropa,16527.8,482.71,1,27172.5,10948.6,No,Cohenchester,53
+1521,5/21/2025,June,Marie Zimmerman,iPhone 14,Juguetes,22500.39,13741.16,2,19364.84,4085.08,No,North Katrinastad,53
+1522,4/15/2025,April,Joann Velez,iPhone 14,Juguetes,2232.77,1496.17,1,46459.9,15389.36,No,Dakotafort,40
+1523,6/28/2025,March,Anthony Bright,Barbie Princesa,Juguetes,21874.7,11514.51,4,5334.81,3042.18,Sí,Port Micheleton,90
+1524,3/18/2025,March,Melissa Leon,Perfume Dior,Electrónica,16866.78,11514.51,2,9741.18,51800.95,No,Richardland,93
+1525,1/8/2025,June,Clarence Pope,iPhone 14,Juguetes,22500.39,2968.92,5,45000.78,51800.95,Sí,Cohenchester,62
+1526,5/8/2025,May,Jeremy Scott,Monitor LG,Electrónica,21629.79,2968.92,1,13892.65,9226.4,Sí,North Luisborough,45
+1527,6/28/2025,March,Joann Velez,Puzzle 1000 piezas,Ropa,7488.02,3349.5,4,37440.1,9025.44,No,New Danielfort,41
+1528,1/17/2025,June,Melissa Leon,Puzzle 1000 piezas,Juguetes,7202.71,17646.77,2,9741.18,12327.9,No,West Alanport,53
+1529,1/8/2025,March,Peggy Fitzgerald,iPhone 14,Juguetes,21874.7,11514.51,2,36013.55,3042.18,No,Richardland,82
+1530,4/15/2025,May,Peggy Fitzgerald,Juego de sábanas,Belleza,4870.59,17646.77,5,59614.12,9226.4,No,Lake Alexismouth,45
+1531,5/25/2025,January,Melissa Leon,iPhone 14,Ropa,21629.79,899.31,5,37440.1,8517.2,No,Louisborough,82
+1532,3/5/2025,March,Nicole Hunt,Chamarra Puma,Juguetes,7488.02,899.31,5,3612.36,30048.18,No,Nicholshaven,59
+1533,1/8/2025,January,Kevin Prince,Playera Nike,Hogar,1348.54,899.31,1,70122.57,2455.62,No,East Destinychester,17
+1534,5/8/2025,May,Nicole Hunt,Barbie Princesa,Hogar,11484.89,6282.81,5,36013.55,6026.05,No,Bakerberg,82
+1535,4/13/2025,May,Traci Summers,iPhone 14,Electrónica,16729.79,946.05,5,36013.55,20685.4,No,Johnsonstad,75
+1536,4/13/2025,June,Clinton Adams,Playera Nike,Belleza,23374.19,16909.5,2,3612.36,10688.7,Sí,Johnsonstad,87
+1537,6/11/2025,May,Nicole Hunt,Playera Nike,Hogar,9301.22,3732.34,2,44507.7,10688.7,No,Johnsonstad,42
+1538,3/21/2025,March,Matthew Gonzalez,Playera Nike,Ropa,9301.22,1105.65,1,11484.89,4311.69,Sí,Gonzalezland,60
+1539,3/18/2025,June,Allison Wilson,Playera Nike,Hogar,15893.68,9476.83,5,70122.57,20685.4,No,Murphyberg,26
+1540,4/13/2025,June,Bryan Fisher,Plancha Remington,Belleza,11484.89,5164.14,1,5772.57,14225.2,No,Gonzalezland,88
+1541,5/1/2025,April,Caleb Valentine,iPhone 14,Belleza,16729.79,1105.65,3,5772.57,10688.7,No,Gonzalezland,27
+1542,4/28/2025,February,Bryan Fisher,Silla Gamer,Electrónica,18556.65,12560.33,1,15508.71,22781.04,No,Murphyberg,36
+1543,6/14/2025,March,Bryan Fisher,Playera Nike,Ropa,7775.63,12560.33,1,97630.12,1441.26,No,East Alexandra,88
+1544,3/18/2025,January,Caleb Valentine,iPhone 14,Electrónica,24407.53,10840.16,2,35626.4,3333.35,No,Murphyberg,36
+1545,3/18/2025,June,Darren White,Barbie Princesa,Hogar,13685.2,5230.1,2,15893.68,10688.7,Sí,Murphyberg,36
+1546,2/15/2025,January,Allison Wilson,iPhone 14,Juguetes,24407.53,5230.1,4,15508.71,14225.2,No,West Zacharyhaven,42
+1547,1/19/2025,April,Nancy Meyers,Barbie Princesa,Hogar,24407.53,6198.63,3,74226.6,22781.04,Sí,East Alexandra,14
+1548,1/19/2025,February,Jeffrey Roberts,Licuadora Oster,Juguetes,6743.46,4164.27,1,35626.4,14225.2,No,East Alexandra,39
+1549,4/10/2025,March,Nancy Meyers,Barbie Princesa,Ropa,10051.99,11122.99,3,6743.46,10831.88,No,West Michaelhaven,45
+1550,6/15/2025,June,Jeffrey Roberts,Licuadora Oster,Hogar,8906.6,8477.87,1,91203.85,10831.88,No,Lake Timothy,14
+1551,3/23/2025,May,Carol Sanders,Colchón SpringAir,Juguetes,24407.53,3804.77,4,50259.95,1513.36,Sí,North Patrick,45
+1552,6/14/2025,June,Darren White,Nintendo Switch Lite,Juguetes,18240.77,11122.99,5,6743.46,35588.9,Sí,North Patrick,78
+1553,5/23/2025,June,Jeffrey Roberts,Licuadora Oster,Juguetes,10839.31,10573.41,4,49604.49,7870.6,No,South Frankfurt,14
+1554,6/6/2025,June,Janet Sharp,Hot Wheels Pack,Belleza,7593.65,11122.99,1,91203.85,10178.85,No,Jesseberg,24
+1555,6/6/2025,June,Scott Ray,Crema Nivea,Electrónica,18240.77,2491.56,4,19507.28,35588.9,No,North Cassandraport,32
+1556,6/14/2025,April,Charles Simmons,Samsung Galaxy,Electrónica,7593.65,8477.87,2,13639.02,2340.53,Sí,Juantown,46
+1557,5/19/2025,June,Janet Sharp,Shampoo L'Oréal,Electrónica,4876.82,3573.37,2,38182.05,23551.64,No,Johnburgh,46
+1558,2/21/2025,June,Carol Sanders,Colchón SpringAir,Juguetes,18240.77,6642.49,2,16892.38,6517.74,No,New Joel,46
+1559,6/27/2025,April,Jeremy Wright,Maquillaje MAC,Belleza,4876.82,16605.14,3,19331.84,1173.64,No,New Joel,36
+1560,4/19/2025,January,Stephen Wallace,Nintendo Switch Lite,Juguetes,4876.82,15548.28,4,38182.05,2340.53,No,Brownstad,36
+1561,5/19/2025,April,Christopher Brady,Nintendo Switch Lite,Belleza,22327.23,9317.96,4,22327.23,26466.12,No,Juantown,46
+1562,1/17/2025,January,Leonard Robinson,Nintendo Switch Lite,Juguetes,22164.81,9317.96,1,11667.29,1173.64,No,New Joel,41
+1563,6/19/2025,January,Jeremy Wright,Nintendo Switch Lite,Hogar,708.19,5253.12,4,60823.48,6517.74,No,Port Shawn,19
+1564,6/19/2025,June,Leonard Robinson,Nintendo Switch Lite,Juguetes,12166.47,12426.73,4,11667.29,23551.64,No,Barrettside,46
+1565,2/21/2025,April,Susan Lee,Nintendo Switch Lite,Hogar,14926.76,6642.49,4,44813.0,26466.12,No,Port Shawn,46
+1566,1/17/2025,January,Susan Lee,Shampoo L'Oréal,Hogar,22327.23,12426.73,4,48665.88,26466.12,No,North Antonioberg,41
+1567,6/17/2025,January,Stephen Blankenship,Licuadora Oster,Juguetes,11203.25,7102.01,4,88659.24,4439.68,Sí,Lisaview,12
+1568,1/17/2025,June,Tiffany Carter,Barbie Princesa,Hogar,8462.6,9940.26,4,11667.29,33789.0,No,North Seanstad,41
+1569,6/21/2025,February,Stephen Blankenship,Shampoo L'Oréal,Belleza,11667.29,3397.13,4,8462.6,1586.23,No,North Seanstad,65
+1570,2/24/2025,May,Margaret Petersen DDS,Nintendo Switch Lite,Belleza,17689.84,6225.71,1,26250.9,14873.72,No,Butlerville,46
+1571,2/24/2025,June,Thomas Gonzalez,Silla Gamer,Belleza,9782.54,9242.59,3,26250.9,14873.72,No,Port Shawn,69
+1572,1/16/2025,January,Ashlee Wilson,Barbie Princesa,Ropa,5250.18,10953.23,5,66998.4,6109.62,No,Lisaview,69
+1573,6/21/2025,May,Jennifer Butler MD,Barbie Princesa,Hogar,20016.72,16298.29,4,48665.88,6109.62,No,East Michael,51
+1574,5/1/2025,April,Jamie Stevens,Juego de sábanas,Ropa,5250.18,10953.23,4,26250.9,9265.25,No,North Antonioberg,39
+1575,6/21/2025,April,Angel Camacho,Juego de sábanas,Ropa,19552.7,7181.42,4,80066.88,33789.0,No,Thomasfort,13
+1576,6/3/2025,April,Angel Lane,Monitor LG,Ropa,19552.7,3397.13,3,3894.32,1177.29,No,Lake Michael,35
+1577,2/26/2025,May,Jennifer Sanford,Shampoo L'Oréal,Hogar,3478.92,6314.21,1,19552.7,1177.29,No,Thomasfort,24
+1578,4/12/2025,April,Justin Pace,Hot Wheels Pack,Electrónica,8238.46,6314.21,3,3894.32,12232.25,No,East Michael,24
+1579,3/23/2025,April,Justin Pace,Silla Gamer,Juguetes,3478.92,6314.21,4,3894.32,2809.06,No,New Shawn,69
+1580,3/23/2025,May,Jordan Boone,Juego de sábanas,Electrónica,3478.92,2119.2,1,95978.8,5316.1,No,Lake Michael,63
+1581,4/12/2025,January,Angel Lane,Playera Nike,Hogar,3894.32,2301.63,2,11810.64,2809.06,No,North Jennifer,23
+1582,5/16/2025,April,Angel Lane,Perfume Dior,Electrónica,8238.46,1477.73,5,3984.62,6687.44,No,North Jennifer,23
+1583,4/2/2025,June,Dr. Daniel Sandoval,Perfume Dior,Ropa,11810.64,12582.35,1,19926.06,6687.44,No,Lake Michael,24
+1584,5/16/2025,April,Destiny Washington,Hot Wheels Pack,Ropa,2791.66,12582.35,2,21307.66,4458.5,No,Mistyfort,76
+1585,5/16/2025,May,Anthony Conley,Silla Gamer,Electrónica,12698.42,7865.79,2,19926.06,4112.22,No,Port Jenniferborough,58
+1586,5/14/2025,January,Destiny Washington,Hot Wheels Pack,Hogar,15926.07,13909.91,1,8374.98,1029.16,No,Port Jenniferborough,64
+1587,5/9/2025,May,Amanda Reid,Barbie Princesa,Belleza,5381.78,12582.35,4,42867.78,59.33,No,Lake Nicole,86
+1588,4/2/2025,March,Jordan Boone,Gorra Under Armour,Belleza,12698.42,14076.46,1,19926.06,4458.5,Sí,Lake Nicole,76
+1589,5/14/2025,March,Destiny Washington,Aspiradora Robot,Electrónica,19926.06,13921.51,1,80896.64,6687.44,No,Port Donnatown,86
+1590,5/14/2025,July,Ryan Salinas,Samsung Galaxy,Ropa,5381.78,4169.08,4,16145.34,59.33,No,Port Jenniferborough,76
+1591,3/13/2025,April,Katrina Brown,Aspiradora Robot,Hogar,15926.07,10486.4,4,16145.34,25210.6,No,Port Jenniferborough,51
+1592,1/6/2025,January,David Garcia,Nintendo Switch Lite,Hogar,5381.78,4169.08,3,352.76,23381.45,No,Mosleymouth,12
+1593,6/25/2025,April,Yolanda Davis,Aspiradora Robot,Hogar,18978.3,293.43,1,27439.9,15339.84,No,Lake Nicole,67
+1594,5/23/2025,June,Amanda Ford,Playera Nike,Ropa,18978.3,14076.46,1,17729.66,3564.21,No,Lake Nicole,62
+1595,1/6/2025,March,Shawn Baker,Nintendo Switch Lite,Juguetes,18978.3,4193.71,1,16853.25,3780.33,No,Popeport,80
+1596,3/27/2025,June,Molly Brown,Colchón SpringAir,Hogar,7734.91,8643.67,3,12019.98,19607.36,No,Hendersonton,71
+1597,1/10/2025,April,David Garcia,Pantalón Levi's,Hogar,18978.3,3674.04,3,27439.9,15339.84,No,New Rhonda,80
+1598,4/24/2025,July,David Garcia,Chamarra Puma,Electrónica,24514.71,4169.08,5,10077.62,15339.84,No,Nicholasbury,78
+1599,1/10/2025,April,Lauren Alexander,Plancha Remington,Belleza,7734.91,5300.11,2,12019.98,8079.33,No,West Michaelville,80
+1600,4/22/2025,June,Ana Johnson,Playera Nike,Ropa,17729.66,7829.19,5,15469.82,4777.51,No,Montgomeryshire,71
+1601,6/25/2025,June,Lauren Alexander,Laptop Lenovo,Ropa,24848.56,19401.43,3,27439.9,14725.74,No,Port Robynville,83
+1602,2/19/2025,June,Brittany Shepherd MD,Chamarra Puma,Electrónica,17729.66,5300.11,2,10077.62,5226.66,No,Ballardmouth,64
+1603,3/27/2025,January,Jordan Branch,Silla Gamer,Electrónica,15563.58,11102.6,3,28714.23,4777.51,No,Tracymouth,71
+1604,3/27/2025,January,Samantha Smith,Silla Gamer,Electrónica,10685.96,7443.34,1,21371.92,5226.66,No,Port Robynville,46
+1605,4/24/2025,June,Tina Burnett,Auriculares JBL,Ropa,11317.54,7829.19,3,21157.4,45576.44,No,Kristinland,89
+1606,6/19/2025,January,Lauren Alexander,Silla Gamer,Hogar,10077.62,8010.94,3,51744.24,14725.74,No,Tracymouth,36
+1607,4/24/2025,January,Tina Burnett,Playera Nike,Electrónica,15563.58,7829.19,1,33952.62,14725.74,No,East Courtneychester,13
+1608,1/13/2025,April,Oscar Thornton,Silla Gamer,Ropa,11317.54,19062.94,3,33089.32,4460.98,No,Kristinland,46
+1609,6/14/2025,January,Susan Johnson,LEGO Star Wars,Electrónica,1101.77,8010.94,4,21157.4,4460.98,No,Kathrynhaven,73
+1610,4/29/2025,January,Ellen Mcbride,Pantalón Levi's,Ropa,4231.48,12848.21,3,21371.92,24943.25,No,Kathrynhaven,66
+1611,3/29/2025,March,Shannon Wong,Laptop Lenovo,Ropa,1872.38,19062.94,2,5617.14,8486.55,No,New Andrew,13
+1612,1/12/2025,March,David Monroe,Chamarra Puma,Ropa,10685.96,1089.16,2,120257.95,2349.66,No,Moralesmouth,66
+1613,3/29/2025,April,David Monroe,Gorra Under Armour,Electrónica,8149.52,6842.05,4,4407.08,13199.61,No,Port Matthewchester,10
+1614,4/15/2025,March,Ashley Rios,Tenis Adidas,Belleza,8149.52,6169.74,5,120257.95,13199.61,No,New Andrew,21
+1615,3/29/2025,March,Phillip Murphy MD,Gorra Under Armour,Ropa,10389.86,10625.56,3,4407.08,1037.0,No,Port Matthewchester,73
+1616,4/4/2025,March,Sarah Wilson,Hot Wheels Pack,Juguetes,14991.11,5877.06,5,120257.95,1037.0,Sí,North Teresa,49
+1617,3/26/2025,March,Carla Adams,Hot Wheels Pack,Ropa,818.85,7377.4,2,13851.06,34638.32,No,Port Wandaland,21
+1618,3/3/2025,March,Tina Mitchell,LEGO Star Wars,Juguetes,8149.52,3577.84,2,69969.18,27837.12,No,North Teresa,98
+1619,4/27/2025,January,Daniel Lucas,LEGO Star Wars,Ropa,10389.86,14044.02,2,1637.7,5229.88,No,Dylanchester,75
+1620,5/5/2025,January,Carla Adams,Perfume Dior,Hogar,8149.52,6169.74,3,82991.65,4772.28,Sí,Port Kristinmouth,99
+1621,4/15/2025,April,Daniel Lucas,Tenis Adidas,Belleza,7142.69,7377.4,3,22947.96,457.72,No,New Andrew,25
+1622,4/15/2025,May,Carla Adams,LEGO Star Wars,Juguetes,7142.69,6842.05,3,32598.08,11123.01,No,Port Wandaland,73
+1623,4/27/2025,June,Phillip Murphy MD,Licuadora Oster,Juguetes,13851.06,3577.84,2,33657.09,13538.4,No,Grahamport,39
+1624,4/3/2025,April,Jeffrey Morgan,Puzzle 1000 piezas,Belleza,23323.06,4317.72,2,15505.8,27837.12,No,Port Alexaview,79
+1625,4/27/2025,April,Jeffrey Morgan,Perfume Dior,Hogar,13851.06,14044.02,2,33657.09,27837.12,No,South Melissabury,39
+1626,4/26/2025,May,Tyrone Ferrell,LEGO Star Wars,Juguetes,11219.03,7377.4,2,46656.04,14124.85,No,Port Kristinmouth,74
+1627,4/3/2025,February,Jeffrey Johnson,Licuadora Oster,Hogar,23323.06,13128.02,3,120620.65,10732.88,No,Terryfurt,94
+1628,2/14/2025,April,Jeffrey Johnson,Licuadora Oster,Juguetes,7142.69,5418.87,4,46656.04,54980.55,No,Grahamport,94
+1629,2/20/2025,February,Andrea Ramos,LEGO Star Wars,Ropa,23328.02,4317.72,5,85293.2,9127.76,No,Jacksonview,90
+1630,2/14/2025,March,Jessica Mccoy,Aspiradora Robot,Juguetes,24124.13,8708.49,5,19033.21,4827.55,No,South Melissabury,22
+1631,3/25/2025,April,Kimberly Webb,Barbie Princesa,Juguetes,21323.3,9894.69,4,33657.09,5686.89,No,Terryfurt,79
+1632,4/5/2025,March,Tyrone Ferrell,LEGO Star Wars,Juguetes,1245.18,14205.66,4,32090.36,54980.55,No,East Christine,94
+1633,4/26/2025,March,Daniel Vaughn,Licuadora Oster,Electrónica,11790.32,13128.02,4,77653.95,32281.5,No,Lake Adriana,21
+1634,4/4/2025,June,Tyrone Ferrell,Colchón SpringAir,Belleza,993.89,13128.02,5,85293.2,8046.94,No,Catherinefurt,20
+1635,3/28/2025,February,Jacqueline Mcguire,Playera Nike,Juguetes,11790.32,969.56,4,3735.54,826.86,No,Lake Ethan,65
+1636,4/5/2025,January,Samuel Huffman,Chamarra Puma,Belleza,21323.3,520.75,1,77653.95,826.86,No,South Kaitlinbury,96
+1637,4/5/2025,June,Angela Davis,Playera Nike,Belleza,13326.04,520.75,5,77653.95,1640.2,No,Herreramouth,20
+1638,1/7/2025,March,Mrs. Alexandria Rocha MD,Maquillaje MAC,Juguetes,15530.79,14205.66,3,84592.28,826.86,No,South Kaitlinbury,73
+1639,1/7/2025,February,Gary Hunt,Chamarra Puma,Ropa,6457.64,14205.66,4,77653.95,32281.5,No,North Shannon,65
+1640,1/7/2025,April,Shane Key,Aspiradora Robot,Belleza,6457.64,9074.49,4,301.64,36397.88,No,South Kaitlinbury,96
+1641,3/20/2025,June,Shane Key,Crema Nivea,Belleza,21148.07,1611.12,1,67784.25,25768.35,No,North Shannon,73
+1642,6/26/2025,April,Dominique Wong,Licuadora Oster,Hogar,1939.16,3250.06,1,10172.34,18558.03,No,Lake Valerie,96
+1643,3/20/2025,February,Dominique Wong,Chamarra Puma,Juguetes,22594.75,2335.54,3,67784.25,3165.72,No,Evelyntown,63
+1644,5/25/2025,February,Shane Key,Crema Nivea,Hogar,22859.82,18984.3,2,43022.64,59.49,No,North Nicoleshire,73
+1645,6/22/2025,February,Gary Hunt,Aspiradora Robot,Juguetes,21148.07,13224.13,1,67784.25,12855.84,No,Lake Valerie,53
+1646,2/10/2025,April,Gary Hunt,Hot Wheels Pack,Juguetes,15215.92,12392.65,3,301.64,22303.9,No,Lake Valerie,73
+1647,2/8/2025,June,Shane Pham,Hot Wheels Pack,Juguetes,15215.92,11241.07,5,68579.46,28311.8,No,Lake Michael,96
+1648,2/27/2025,June,Bryan Baldwin,Licuadora Oster,Belleza,3390.78,2335.54,4,84267.15,3165.72,No,Francoton,25
+1649,3/14/2025,March,Matthew Holmes,Gorra Under Armour,Ropa,18335.76,12392.65,3,10172.34,21703.82,No,Evelyntown,53
+1650,6/15/2025,February,Christopher David,Gorra Under Armour,Juguetes,22859.82,13224.13,3,68579.46,1813.23,No,Lake Michael,25
+1651,6/22/2025,June,Bryan Baldwin,Hot Wheels Pack,Juguetes,9207.8,11107.04,1,10172.34,11626.56,No,Lake Aaron,48
+1652,3/3/2025,February,Jacob Strickland,Gorra Under Armour,Ropa,16903.43,12150.15,5,9207.8,28326.21,No,New Shannon,48
+1653,2/16/2025,February,Savannah Moore,Silla Gamer,Electrónica,5612.04,14040.35,1,58899.08,28326.21,No,East Paul,48
+1654,1/15/2025,June,Jessica Lane,Maquillaje MAC,Electrónica,23482.42,11107.04,5,12869.65,4341.6,No,Sheltonburgh,68
+1655,1/15/2025,May,Tracey Kennedy,Playera Nike,Electrónica,2573.93,11241.07,4,12869.65,4678.81,No,South Nicole,72
+1656,3/7/2025,June,Vanessa Bonilla,Maquillaje MAC,Ropa,19695.75,2930.19,5,10741.35,40170.44,No,East Jason,52
+1657,5/24/2025,June,Brittany Mills,Maquillaje MAC,Juguetes,16078.44,2976.04,1,10013.68,21705.15,No,Tonyafurt,66
+1658,2/14/2025,March,Keith Jones,Playera Nike,Belleza,10013.68,12150.15,1,70447.26,28326.21,No,Lake Aaron,68
+1659,6/15/2025,June,Keith Jones,Maquillaje MAC,Hogar,8161.91,4578.72,1,70447.26,4678.81,No,Tonyafurt,63
+1660,3/7/2025,March,Vanessa Bonilla,Maquillaje MAC,Hogar,2573.93,3557.93,5,8161.91,14470.92,No,Sheltonburgh,28
+1661,2/21/2025,May,Angelica Brown,Maquillaje MAC,Hogar,2573.93,11262.46,3,10013.68,18665.97,No,Matthewview,92
+1662,6/28/2025,May,Beth Reid,Juego de sábanas,Hogar,10013.68,19885.83,5,99859.24,3346.25,Sí,Michaeltown,23
+1663,2/3/2025,April,Beth Reid,Colchón SpringAir,Hogar,10013.68,11262.46,5,98478.75,18665.97,No,Ballburgh,37
+1664,5/24/2025,April,Sara Hill,Shampoo L'Oréal,Juguetes,22491.74,19885.83,5,99859.24,2783.36,Sí,Ballburgh,72
+1665,2/3/2025,April,Adam Martin,Shampoo L'Oréal,Hogar,22491.74,4017.48,1,8161.91,42166.45,Sí,Tonyafurt,55
+1666,5/29/2025,February,Sara Hill,Silla Gamer,Juguetes,10811.96,8407.2,1,6341.29,18665.97,No,Matthewborough,68
+1667,2/14/2025,February,Christine Jones,Laptop Lenovo,Belleza,18267.35,13781.57,4,44983.48,20315.92,No,Reynoldsborough,55
+1668,5/29/2025,May,Mark Franco,Nintendo Switch Lite,Juguetes,13754.08,13781.57,4,56001.21,20315.92,Sí,Matthewborough,63
+1669,2/3/2025,May,Russell Flores,Juego de sábanas,Hogar,10808.74,11131.98,3,56001.21,1316.1,No,Williamsmouth,25
+1670,4/17/2025,February,Shawn Jones,Aspiradora Robot,Juguetes,18267.35,4017.48,1,28082.95,26558.1,Sí,Wilsonhaven,45
+1671,6/29/2025,February,Christine Jones,Shampoo L'Oréal,Belleza,1771.62,1401.56,5,39399.9,14912.76,No,Reynoldsborough,25
+1672,2/9/2025,May,Alyssa Barnes,Puzzle 1000 piezas,Ropa,10811.96,11131.98,5,43234.96,14912.76,Sí,Williamsmouth,45
+1673,4/1/2025,April,Carlos Garcia,Crema Nivea,Belleza,21852.82,1330.31,1,10811.96,1316.1,No,Brucestad,68
+1674,5/15/2025,April,Sharon Nguyen,Aspiradora Robot,Belleza,1771.62,13196.07,3,43234.96,40005.35,No,Garyland,16
+1675,5/28/2025,April,Wayne Bailey,Puzzle 1000 piezas,Juguetes,8840.48,11131.98,5,7967.65,14912.76,Sí,West Staceyville,45
+1676,6/29/2025,June,George Espinoza,Tenis Adidas,Ropa,21197.14,1401.56,5,7967.65,7717.88,No,Lesliehaven,45
+1677,6/29/2025,June,Stephanie Cross,Aspiradora Robot,Juguetes,20199.81,1330.31,1,34187.34,7717.88,No,Brucestad,92
+1678,6/20/2025,May,Frances Fowler,Tenis Adidas,Ropa,7879.98,13196.07,2,7967.65,14912.76,No,Brucestad,61
+1679,5/15/2025,April,Jillian Chambers,Barbie Princesa,Belleza,7879.98,11146.38,2,45791.91,20623.55,No,Lake Heather,92
+1680,1/12/2025,June,Jessica Foster,Tenis Adidas,Juguetes,8694.8,4684.86,3,34187.34,20623.55,No,West Staceyville,94
+1681,3/28/2025,May,Sharon Nguyen,Puzzle 1000 piezas,Belleza,18550.13,6325.72,3,110476.1,12352.77,No,Thomasberg,48
+1682,6/10/2025,January,Michelle Rose,Perfume Dior,Belleza,20199.81,12250.76,2,66329.08,15210.18,Sí,Lesliehaven,92
+1683,4/14/2025,June,Frances Fowler,Playera Nike,Ropa,22095.22,7139.83,1,34187.34,7626.05,Sí,Lake Heather,61
+1684,6/7/2025,March,Amy Wagner,Colchón SpringAir,Ropa,9567.17,15584.59,5,110476.1,21889.8,No,Collinston,48
+1685,3/31/2025,March,Tanya Terry,Colchón SpringAir,Electrónica,19127.61,11501.56,4,34187.34,15469.6,Sí,Tammytown,20
+1686,3/28/2025,March,Jessica Foster,Colchón SpringAir,Belleza,22095.22,4684.86,1,47835.85,21889.8,Sí,Charlesshire,19
+1687,3/16/2025,June,Tanya Terry,Playera Nike,Belleza,22095.22,11501.56,1,17518.56,20049.7,No,Katieberg,20
+1688,5/17/2025,March,Michelle Rose,Playera Nike,Electrónica,10789.18,11501.56,5,43156.72,869.07,Sí,Blakeborough,61
+1689,6/7/2025,May,Charles Diaz,Colchón SpringAir,Ropa,10789.18,11501.56,3,38393.43,9599.0,No,Krausefort,65
+1690,5/17/2025,June,Daniel Freeman,Playera Nike,Hogar,18670.54,12363.08,2,38393.43,869.07,Sí,Tammytown,91
+1691,3/8/2025,March,Michelle Rose,Gorra Under Armour,Juguetes,9567.17,11501.56,5,38393.43,43822.9,No,East Michael,56
+1692,5/17/2025,March,Daniel Mcclure,Colchón SpringAir,Juguetes,10789.18,6921.78,4,48331.5,2949.0,No,Tammytown,19
+1693,1/5/2025,March,Rodney Shepard,Nintendo Switch Lite,Electrónica,12797.81,17121.58,2,95148.68,9599.0,No,East Michael,19
+1694,5/16/2025,May,Pedro Davis,Gorra Under Armour,Juguetes,21127.66,17121.58,2,48331.5,19932.12,No,Lindaview,61
+1695,6/13/2025,January,Rodney Shepard,Monitor LG,Electrónica,16110.5,17121.58,2,95148.68,7477.56,No,Port Heidi,93
+1696,5/16/2025,March,Richard Bradley,Nintendo Switch Lite,Juguetes,16110.5,12134.59,2,105638.3,26662.36,No,New Erik,93
+1697,4/9/2025,March,Mr. Douglas Torres,Colchón SpringAir,Electrónica,11050.09,7749.66,1,37341.08,2550.77,No,South Joshua,85
+1698,5/19/2025,April,Pedro Davis,Playera Nike,Electrónica,14550.2,12134.59,3,64754.24,11134.44,No,West Aprilview,77
+1699,5/28/2025,February,Joanna Rowe,Monitor LG,Electrónica,2659.83,7749.66,3,14550.2,2550.77,No,North Jackchester,83
+1700,2/12/2025,February,Kristine Matthews,Nintendo Switch Lite,Electrónica,12732.69,7338.61,4,33150.27,19932.12,No,North Jackchester,53
+1701,5/28/2025,February,Kristine Matthews,Silla Gamer,Ropa,15164.65,12134.59,3,31873.5,11134.44,No,New Erik,57
+1702,2/12/2025,February,Karen May,Perfume Dior,Juguetes,19751.75,13601.43,3,33150.27,4492.53,No,Maryburgh,53
+1703,1/20/2025,February,Amy Greer,Monitor LG,Electrónica,14916.53,12134.59,4,19751.75,2550.77,Sí,South Joseph,81
+1704,5/19/2025,February,Karen May,Hot Wheels Pack,Electrónica,16188.56,2555.27,1,15164.65,5400.98,No,West Aprilview,53
+1705,5/19/2025,February,Michelle Campbell,Barbie Princesa,Juguetes,14550.2,13263.14,2,15164.65,4492.53,No,West Aprilview,52
+1706,1/20/2025,April,Karen May,Shampoo L'Oréal,Hogar,14916.53,13645.95,5,64754.24,4492.53,No,Lake Timothy,99
+1707,2/9/2025,March,Michael Richardson,Monitor LG,Electrónica,6374.7,8316.06,3,12158.34,5400.98,No,West Patricia,89
+1708,6/16/2025,June,Hannah Smith,Shampoo L'Oréal,Belleza,9109.52,16909.67,1,47401.6,21009.05,No,West Patricia,52
+1709,6/16/2025,April,Michelle Campbell,Juego de sábanas,Juguetes,16623.94,5278.51,1,20660.76,5439.42,No,Charlesfurt,95
+1710,4/20/2025,June,Rebecca Simmons,Juego de sábanas,Juguetes,9480.32,13645.95,3,44749.59,2594.05,No,Martinezchester,34
+1711,2/15/2025,February,Kyle Thomas,Juego de sábanas,Ropa,5926.67,13645.95,5,73837.65,8933.97,No,Charlesfurt,95
+1712,2/25/2025,February,Karen Martin,Barbie Princesa,Ropa,9480.32,7610.67,2,20894.48,25861.9,No,West Patricia,89
+1713,5/19/2025,June,Kristina Moyer,Gorra Under Armour,Ropa,10330.38,16909.67,4,73837.65,21009.05,No,Mathewsville,31
+1714,2/15/2025,April,Kristina Moyer,Nintendo Switch Lite,Juguetes,9480.32,1217.04,2,20894.48,3984.81,No,South Brandon,76
+1715,4/10/2025,May,Kimberly Dawson,Auriculares JBL,Juguetes,24612.55,5278.51,4,21865.51,3885.8,No,West Ronald,34
+1716,2/25/2025,February,Brenda Myers,LEGO Star Wars,Juguetes,10330.38,3459.45,3,21865.51,14722.76,No,South Jennifer,34
+1717,2/25/2025,May,Kristina Moyer,LEGO Star Wars,Juguetes,24160.08,15176.62,5,21865.51,6688.89,No,North Joshuatown,27
+1718,2/15/2025,February,Brenda Myers,LEGO Star Wars,Hogar,2188.49,15176.62,1,24105.75,3885.8,No,South Jennifer,28
+1719,2/20/2025,May,Patrick Andrews,Samsung Galaxy,Juguetes,21865.51,6291.01,2,120800.4,15355.44,No,North Joseph,57
+1720,1/28/2025,May,David King,Maquillaje MAC,Juguetes,24160.08,7136.05,3,692.25,14722.76,No,Lake Dorothy,27
+1721,5/19/2025,January,Brenda Myers,Shampoo L'Oréal,Electrónica,230.75,4296.28,3,94662.76,9377.36,No,East Crystalfurt,57
+1722,5/13/2025,May,David King,LEGO Star Wars,Electrónica,8035.25,8209.32,3,24105.75,325.52,No,Huertafort,25
+1723,5/13/2025,February,Susan Daniels,Samsung Galaxy,Belleza,13241.51,13671.98,4,61635.04,25628.0,Sí,West Stacy,73
+1724,4/25/2025,February,Brenda Myers,Nintendo Switch Lite,Electrónica,509.24,12761.69,4,42214.64,18316.38,No,Nancyside,74
+1725,1/18/2025,April,Brenda Myers,Shampoo L'Oréal,Hogar,509.24,4296.28,3,39886.8,14722.76,No,Sandybury,25
+1726,1/18/2025,April,David King,LEGO Star Wars,Belleza,8035.25,121.77,4,61635.04,9377.36,No,North Joshuatown,29
+1727,5/28/2025,April,Donna Myers,Monitor LG,Electrónica,9822.3,5487.41,3,17744.5,325.52,No,New Brian,97
+1728,1/26/2025,January,Julie Mills,Puzzle 1000 piezas,Electrónica,24368.9,121.77,2,17744.5,9377.36,No,Huertafort,97
+1729,4/25/2025,April,Ashley Shepherd,Puzzle 1000 piezas,Belleza,15830.22,12411.28,4,39289.2,325.52,No,Sandybury,74
+1730,4/8/2025,March,Julie Mills,iPhone 14,Belleza,509.24,3977.37,1,39289.2,25628.0,No,Sandybury,73
+1731,4/29/2025,February,Donna Myers,Maquillaje MAC,Electrónica,15408.76,3977.37,1,1018.48,1142.25,No,Sandybury,42
+1732,5/28/2025,January,Ashley Shepherd,Puzzle 1000 piezas,Electrónica,5119.62,12411.28,2,19734.15,13179.68,No,New Brian,92
+1733,1/6/2025,April,Melissa Parker,Puzzle 1000 piezas,Belleza,8872.25,7203.85,4,121844.5,13179.68,No,North Laurastad,42
+1734,1/19/2025,January,Belinda Allen,Puzzle 1000 piezas,Juguetes,8988.66,6950.88,1,39289.2,13909.88,Sí,New Brian,64
+1735,2/11/2025,June,Julie Mills,Puzzle 1000 piezas,Belleza,18608.36,12248.61,3,19734.15,6113.34,No,New Joseph,64
+1736,1/19/2025,June,Robert Jenkins,Auriculares JBL,Electrónica,18608.36,17064.62,5,27740.82,6769.68,No,Cunninghamstad,23
+1737,2/11/2025,June,Tyler Webb,Playera Nike,Juguetes,1968.53,1423.5,3,75505.45,6113.34,No,North Laurastad,64
+1738,6/5/2025,April,Tyler Mullins,Samsung Galaxy,Juguetes,3655.21,10054.56,3,5119.62,4201.28,No,Lake Adam,92
+1739,1/25/2025,January,Tyler Webb,Licuadora Oster,Juguetes,9117.55,17064.62,3,74187.48,16020.8,No,South Jessica,64
+1740,5/19/2025,January,Tyler Webb,Puzzle 1000 piezas,Ropa,9117.55,15130.89,3,14620.84,8277.36,No,East Keithside,56
+1741,4/9/2025,April,Deborah Barnett,Auriculares JBL,Electrónica,9363.13,7588.66,1,74433.44,8277.36,No,South Jessica,18
+1742,3/24/2025,May,Andrea Ochoa,Samsung Galaxy,Electrónica,11233.53,1423.5,1,27740.82,1635.09,No,Rickyshire,96
+1743,4/9/2025,May,Robert Jenkins,Playera Nike,Juguetes,11233.53,7588.66,5,99637.96,8862.12,No,Rickyshire,33
+1744,5/19/2025,March,Tyler Webb,Licuadora Oster,Ropa,24909.49,1423.5,1,33700.59,8277.36,No,Perezbury,96
+1745,5/30/2025,March,Catherine Smith,Playera Nike,Hogar,16274.06,6781.95,1,41384.79,8862.12,No,East Keithside,100
+1746,3/5/2025,January,Melissa Hill,Nintendo Switch Lite,Juguetes,1968.53,1423.5,1,5905.59,4201.28,No,West John,27
+1747,5/30/2025,March,Emma Snyder,Playera Nike,Juguetes,16274.06,2604.89,1,4399.14,1528.89,No,East Keithside,80
+1748,5/5/2025,June,Robin Newman,Nintendo Switch Lite,Hogar,22117.74,6363.12,4,99637.96,10904.3,No,Elizabethfurt,100
+1749,1/12/2025,June,Lori Jackson,Silla Gamer,Juguetes,24909.49,6781.95,1,16274.06,4078.22,No,Tammymouth,27
+1750,5/25/2025,July,Joshua Malone,Auriculares JBL,Juguetes,13794.93,15173.98,1,36345.28,42199.6,No,Ronaldfurt,71
+1751,5/25/2025,May,James Mendoza,Nintendo Switch Lite,Juguetes,19252.2,8299.4,1,88470.96,8862.12,No,Tammymouth,100
+1752,7/1/2025,April,Emma Snyder,Maquillaje MAC,Electrónica,11699.25,2180.38,4,96088.8,16486.59,No,Gregorybury,50
+1753,7/1/2025,July,Sheri Reyes,Auriculares JBL,Ropa,12768.02,15173.98,1,96088.8,5189.13,No,New Mariaville,80
+1754,4/17/2025,April,Mark Green,LEGO Star Wars,Belleza,13794.93,10476.78,1,36345.28,4078.22,No,Tammymouth,71
+1755,7/1/2025,April,Jason Carson,Pantalón Levi's,Belleza,19217.76,2180.38,1,15663.06,5189.13,No,Port Beckyberg,17
+1756,4/19/2025,July,Troy Morales,Maquillaje MAC,Electrónica,22117.74,11567.84,5,19697.2,13693.65,No,New Nancy,71
+1757,2/19/2025,February,Kerry Conrad,Shampoo L'Oréal,Electrónica,15663.06,11199.87,2,11730.27,43704.9,No,New Tarafurt,31
+1758,5/19/2025,February,Mark Green,Laptop Lenovo,Electrónica,3939.44,2180.38,3,15663.06,5307.3,No,Stevensville,80
+1759,7/1/2025,June,Leslie Edwards,Pantalón Levi's,Belleza,3910.09,7395.28,3,96088.8,43704.9,No,South Mollyview,48
+1760,4/17/2025,May,Troy Morales,iPhone 14,Electrónica,20136.74,17819.11,5,96088.8,14611.72,No,New Mariaville,57
+1761,1/22/2025,April,Kerry Conrad,Monitor LG,Belleza,2122.45,7395.28,5,10612.25,15721.95,No,Lake Markburgh,98
+1762,6/29/2025,June,Heather Jackson,Tenis Adidas,Belleza,22383.66,7909.65,1,6800.35,4463.19,No,Port Mariefort,36
+1763,3/26/2025,January,Heather Jackson,Barbie Princesa,Belleza,1360.07,2877.98,5,6800.35,14611.72,No,North John,75
+1764,1/25/2025,March,Kerry Conrad,Maquillaje MAC,Juguetes,2122.45,14728.64,5,73526.28,7301.8,No,Christineberg,98
+1765,1/22/2025,January,John Gaines,Barbie Princesa,Electrónica,1360.07,10227.73,1,22092.36,1139.83,No,Lyonsfort,57
+1766,1/22/2025,February,Kristen Lester,iPhone 14,Ropa,15490.9,10227.73,4,22092.36,1139.83,No,West Johnside,75
+1767,3/4/2025,June,Mr. Scott Cox,Hot Wheels Pack,Juguetes,11046.18,7395.28,2,53854.4,14611.72,No,North Eric,74
+1768,5/6/2025,May,Tammy Brown,iPhone 14,Ropa,18056.1,3402.57,4,9654.7,1150.05,No,Lyonsfort,86
+1769,3/4/2025,February,Tammy Brown,Gorra Under Armour,Belleza,18056.1,1763.65,3,21988.98,1139.83,No,Port Joshuaport,56
+1770,5/27/2025,April,Kristen Lester,Chamarra Puma,Ropa,5457.1,1130.06,4,94493.15,40663.2,No,Gabriellamouth,86
+1771,1/25/2025,April,Gail Lozano,Puzzle 1000 piezas,Belleza,21988.98,1130.06,4,94493.15,1150.05,No,Port Mariefort,29
+1772,4/23/2025,May,Craig Perez,Hot Wheels Pack,Belleza,18898.63,2165.5,5,9911.16,4620.21,No,Cainstad,89
+1773,4/14/2025,April,Nicole Rogers,Barbie Princesa,Juguetes,8475.7,14822.32,5,10741.65,8903.65,No,East Kimberly,29
+1774,4/14/2025,May,Tina Carson,Perfume Dior,Ropa,1930.94,6694.97,5,14048.84,3123.4,No,West Natalieton,84
+1775,5/27/2025,May,Gail Lozano,Plancha Remington,Ropa,14963.05,10765.99,5,20412.15,5386.84,No,East Kimberly,89
+1776,5/27/2025,May,Justin Daniels,Plancha Remington,Belleza,4345.75,6694.97,5,21728.75,8903.65,No,Lake Emilyhaven,84
+1777,1/6/2025,May,Gail Lozano,Playera Nike,Belleza,14963.05,737.13,1,14048.84,7574.43,No,New Taylorberg,89
+1778,2/9/2025,January,Tina Carson,Colchón SpringAir,Electrónica,14963.05,2165.5,5,14048.84,6080.6,No,Angelaport,29
+1779,3/25/2025,March,Teresa Harrington,Laptop Lenovo,Ropa,18898.63,6694.97,1,20412.15,28142.05,No,West Scottmouth,58
+1780,3/4/2025,January,Justin Daniels,Chamarra Puma,Electrónica,3580.55,7916.74,1,37931.76,8903.65,No,New Jeremiah,58
+1781,3/10/2025,February,Justin Daniels,Shampoo L'Oréal,Belleza,8475.7,12045.39,3,21728.75,3999.52,No,West Scottmouth,84
+1782,2/11/2025,January,Daniel Johnson,Colchón SpringAir,Hogar,9482.94,12837.72,5,21728.75,30454.6,No,West Natalieton,58
+1783,3/21/2025,January,Brian Brown,Chamarra Puma,Ropa,9482.94,12837.72,4,50787.39,28142.05,No,Lake Emilyhaven,84
+1784,5/14/2025,February,Margaret Fitzgerald,Maquillaje MAC,Hogar,22404.44,4973.11,4,50787.39,9970.62,No,Bryantville,53
+1785,5/31/2025,February,Daniel Johnson,Nintendo Switch Lite,Hogar,7262.0,3129.63,4,886.11,148.98,No,Kempburgh,58
+1786,3/21/2025,June,Carolyn Taylor,Aspiradora Robot,Hogar,22404.44,4973.11,3,23982.93,17689.86,No,West Scottmouth,83
+1787,6/24/2025,February,Daniel Johnson,Chamarra Puma,Ropa,9482.94,2141.06,3,23982.93,3999.52,No,South Michaelview,28
+1788,4/29/2025,June,Linda Brown,Crema Nivea,Hogar,7262.0,4287.16,3,16284.81,28142.05,No,Kempburgh,95
+1789,4/29/2025,June,Jennifer Martin,Silla Gamer,Belleza,16929.13,5446.13,2,50787.39,30794.96,No,Kevinshire,70
+1790,4/27/2025,February,Suzanne Thompson,Pantalón Levi's,Hogar,13996.36,158.62,4,41989.08,1357.36,No,New Lisa,34
+1791,5/6/2025,July,David Wright,Crema Nivea,Belleza,15984.82,8099.74,3,458.04,30794.96,No,Michaelville,93
+1792,6/19/2025,March,Mrs. Melissa Dalton,Crema Nivea,Belleza,2819.74,4973.11,3,63939.28,140.8,No,Martinport,28
+1793,7/3/2025,April,Brady Crawford,Maquillaje MAC,Juguetes,15984.82,10110.47,3,67213.32,22676.22,No,South Michaelview,99
+1794,5/6/2025,May,Brady Crawford,Barbie Princesa,Juguetes,2819.74,17066.56,4,458.04,3423.33,No,West Kristen,70
+1795,6/18/2025,May,Valerie Smith,Crema Nivea,Ropa,229.02,11974.38,2,20680.92,99.63,No,New Lisa,99
+1796,4/24/2025,April,Brian Chase,Pantalón Levi's,Juguetes,13425.29,231.12,2,98914.32,4485.99,No,East Jessica,27
+1797,3/21/2025,May,David Wright,Juego de sábanas,Electrónica,330.75,231.12,4,1352.1,4485.99,No,East Melissaville,32
+1798,3/21/2025,March,Debbie Byrd,Crema Nivea,Juguetes,450.7,5398.31,4,458.04,99.63,No,New Lisa,27
+1799,2/26/2025,April,Christopher Ramirez,LEGO Star Wars,Ropa,450.7,4555.76,4,17893.44,30648.08,No,Willisberg,68
+1800,5/3/2025,February,Debbie Byrd,LEGO Star Wars,Ropa,23354.67,231.12,1,16376.72,45521.16,No,South Timothybury,34
+1801,2/26/2025,April,Amanda Roberts,Juego de sábanas,Electrónica,6893.64,2581.88,4,17893.44,99.63,No,Debrafurt,83
+1802,6/2/2025,June,Daniel Gould,Chamarra Puma,Ropa,24728.58,12159.21,3,30808.34,516.51,No,Stevenbury,10
+1803,3/22/2025,May,Christopher Ramirez,Tenis Adidas,Ropa,10454.56,2581.88,1,14103.15,6357.51,No,East Melissaville,91
+1804,3/22/2025,February,Jeffrey Thomas,Plancha Remington,Belleza,450.7,7236.98,3,30584.61,15938.04,No,East Melissaville,69
+1805,2/26/2025,May,Amanda Roberts,Colchón SpringAir,Electrónica,450.7,8883.51,4,14103.15,4217.51,No,Jeffersonfurt,77
+1806,5/3/2025,January,Amy Myers,LEGO Star Wars,Juguetes,4701.05,2355.65,3,14103.15,4226.16,No,Willisberg,10
+1807,3/19/2025,January,Daniel Gould,Juego de sábanas,Hogar,12271.82,9996.76,3,114696.95,9913.02,No,Willisberg,69
+1808,5/8/2025,February,Christopher Ramirez,Chamarra Puma,Ropa,12271.82,7236.98,4,17893.44,4217.51,No,Scottmouth,49
+1809,3/19/2025,April,Debbie Lewis,Juego de sábanas,Ropa,6435.98,9996.76,4,30808.34,6422.4,No,North Shannonstad,35
+1810,1/7/2025,January,Albert Reyes,Plancha Remington,Hogar,6435.98,9996.76,1,41818.24,7378.35,No,North Shannonstad,18
+1811,1/7/2025,January,Lisa Watson,Hot Wheels Pack,Hogar,3831.32,12073.8,1,49087.28,15803.5,No,Patrickstad,35
+1812,4/19/2025,April,Lindsey Brown,Juego de sábanas,Juguetes,12271.82,7283.37,5,17040.51,7378.35,No,South Phyllisbury,15
+1813,1/30/2025,January,Victoria Richardson,Juego de sábanas,Juguetes,12271.82,4080.89,1,52220.35,9100.24,No,South Phyllisbury,97
+1814,1/13/2025,March,Carl Forbes,Juego de sábanas,Juguetes,16373.0,12370.6,4,17539.58,9100.24,No,New Matthew,97
+1815,2/12/2025,July,Rebecca Johnson,Shampoo L'Oréal,Juguetes,10444.07,4080.89,2,14497.12,15803.5,No,Nicholasview,97
+1816,1/24/2025,June,Lisa Watson,Juego de sábanas,Belleza,24822.13,3224.78,2,4793.16,5447.67,No,Stewartchester,18
+1817,7/3/2025,May,Ms. Barbara Schneider,Nintendo Switch Lite,Juguetes,24822.13,10532.22,2,52220.35,36352.72,No,Wilcoxhaven,49
+1818,6/24/2025,February,Tammy Cantrell,Crema Nivea,Juguetes,16373.0,10179.41,2,936.05,12387.18,Sí,West Jerryport,97
+1819,1/30/2025,March,Carl Forbes,LEGO Star Wars,Belleza,18223.67,12091.91,2,99288.52,272.18,No,Lake Peter,15
+1820,2/22/2025,February,Carl Forbes,Nintendo Switch Lite,Juguetes,8040.7,663.87,2,4793.16,7691.45,No,West Jerryport,92
+1821,2/3/2025,March,Craig Morales,Nintendo Switch Lite,Belleza,16373.0,3418.85,4,936.05,7691.45,No,Caldwellburgh,28
+1822,6/29/2025,May,Tammy Cantrell,Nintendo Switch Lite,Electrónica,19174.73,3418.85,1,4793.16,928.33,No,Lake Peter,94
+1823,1/10/2025,March,Craig Morales,Nintendo Switch Lite,Hogar,12440.96,6200.16,1,19174.73,7025.1,No,East Jessicaland,32
+1824,1/10/2025,March,Stacey Flores,Nintendo Switch Lite,Juguetes,5935.05,6745.58,1,19174.73,2516.2,No,Smithfurt,28
+1825,6/29/2025,February,Chelsea Nguyen,Crema Nivea,Juguetes,936.05,5703.04,4,936.05,7012.98,No,New Heatherfurt,28
+1826,1/25/2025,April,James Cummings,Puzzle 1000 piezas,Juguetes,12440.96,5703.04,1,19077.6,2516.2,Sí,East Jessicaland,50
+1827,1/25/2025,February,Theresa Hayes,Crema Nivea,Electrónica,20163.83,663.87,5,6877.82,20987.45,Sí,Katherinefort,81
+1828,2/12/2025,June,Theresa Hayes,Pantalón Levi's,Hogar,20163.83,16537.55,5,5935.05,18131.4,No,Port Christopher,50
+1829,6/29/2025,June,Lauren Chang,Juego de sábanas,Belleza,3438.91,6200.16,3,4804.7,2573.65,No,New Heatherfurt,28
+1830,6/20/2025,February,Lisa Lewis,Colchón SpringAir,Ropa,20163.83,5823.73,5,19077.6,7947.2,No,New Heatherfurt,58
+1831,6/16/2025,February,Lisa Lewis,Nintendo Switch Lite,Juguetes,1084.73,9881.07,5,6877.82,18131.4,No,Jimenezberg,50
+1832,3/29/2025,June,Mrs. Courtney Cochran DVM,Nintendo Switch Lite,Ropa,3438.91,2011.76,3,48759.48,2903.1,Sí,New Heatherfurt,11
+1833,4/5/2025,February,Mrs. Courtney Cochran DVM,LEGO Star Wars,Juguetes,24055.73,570.0,5,2476.62,2573.65,No,Marybury,20
+1834,6/14/2025,April,Sandra Schneider,Chamarra Puma,Juguetes,3438.91,4333.64,5,4804.7,14896.14,No,Marybury,73
+1835,6/29/2025,February,Sandra Schneider,Shampoo L'Oréal,Belleza,18028.3,15124.75,3,96222.92,12457.23,No,Marybury,58
+1836,6/16/2025,June,Kevin Russo,Shampoo L'Oréal,Ropa,24055.73,570.0,3,48759.48,1902.26,No,Danielhaven,81
+1837,6/16/2025,June,Sandra Schneider,Chamarra Puma,Juguetes,20090.13,15124.75,1,96222.92,10184.76,No,Port Christopher,72
+1838,1/13/2025,July,Joshua Clements,Crema Nivea,Belleza,9976.14,3337.89,2,8578.04,10184.76,Sí,Hernandezberg,57
+1839,5/20/2025,June,Margaret Gross,iPhone 14,Belleza,22930.79,15124.75,3,37597.83,4253.38,No,West Carolyn,80
+1840,3/29/2025,July,Sandra Schneider,Puzzle 1000 piezas,Juguetes,22930.79,9137.69,2,63463.75,1902.26,No,West Nicholasside,58
+1841,5/20/2025,July,Theodore Williams,Puzzle 1000 piezas,Ropa,24439.24,12366.25,2,20737.14,489.3,No,West Nicholasside,72
+1842,7/5/2025,February,Dana Gardner,Laptop Lenovo,Electrónica,1238.31,10876.79,5,36056.6,1902.26,Sí,Bonnieside,88
+1843,1/22/2025,May,Dana Gardner,Chamarra Puma,Ropa,22930.79,8241.88,5,63463.75,617.08,Sí,Brooksborough,32
+1844,3/8/2025,January,Dana Gardner,Barbie Princesa,Juguetes,24439.24,12366.25,5,63463.75,4253.38,Sí,West Carolyn,79
+1845,2/23/2025,June,Dana Gardner,Barbie Princesa,Hogar,17132.64,13650.49,5,1966.88,48291.96,No,West Carolyn,65
+1846,4/18/2025,May,Nancy Phillips,Puzzle 1000 piezas,Juguetes,17132.64,12366.25,1,23905.06,19445.3,Sí,Michaelville,19
+1847,2/23/2025,February,Theodore Williams,Laptop Lenovo,Juguetes,11952.53,7688.27,4,11939.96,6625.0,No,Michaelville,55
+1848,2/16/2025,May,Dana Gardner,Laptop Lenovo,Hogar,24439.24,1727.99,1,97756.96,19445.3,No,West Marcborough,88
+1849,2/23/2025,February,Natasha Roach,Chamarra Puma,Hogar,24439.24,13650.49,3,8270.32,5775.4,Sí,West Nicholasside,48
+1850,6/17/2025,June,Max Barrett,Juego de sábanas,Hogar,6087.76,4822.28,4,65786.0,3482.15,Sí,Carneytown,79
+1851,2/17/2025,June,Michele Davis,Shampoo L'Oréal,Ropa,11939.96,20546.44,5,11939.96,6625.0,No,Carneytown,36
+1852,5/23/2025,February,Christopher Solis,Laptop Lenovo,Belleza,11939.96,6164.56,2,49460.76,5061.92,No,New Lisa,58
+1853,1/5/2025,February,Richard Stewart,Nintendo Switch Lite,Ropa,10983.5,10383.83,4,11939.96,21625.53,No,Bradshawshire,54
+1854,4/5/2025,February,Eric Russell,Juego de sábanas,Hogar,18914.67,10383.83,2,18914.67,6803.1,No,Bradshawshire,39
+1855,2/17/2025,June,Deborah Davidson,Juego de sábanas,Ropa,18831.14,9278.41,3,38653.94,18872.64,No,North Shelby,79
+1856,2/17/2025,May,Kevin Hutchinson,Maquillaje MAC,Juguetes,16486.92,10383.83,4,11939.96,18872.64,Sí,North Shelby,84
+1857,3/17/2025,February,Deborah Davidson,Juego de sábanas,Ropa,16486.92,1974.54,2,49460.76,18872.64,No,East Rodneychester,20
+1858,2/18/2025,February,Kevin Hutchinson,LEGO Star Wars,Ropa,2378.86,7431.18,5,9515.44,6114.08,No,Lake Larryside,88
+1859,4/21/2025,February,Deborah Davidson,Pantalón Levi's,Electrónica,18914.67,4822.28,1,9515.44,3969.4,No,East Lisa,79
+1860,4/27/2025,March,Erika Clayton,Chamarra Puma,Belleza,24226.12,7404.45,1,32950.5,2683.58,No,East Lisa,50
+1861,5/9/2025,March,Susan Torres,Laptop Lenovo,Hogar,2331.51,7404.45,2,7367.0,15330.82,No,Collierhaven,51
+1862,5/9/2025,May,Gary Bell,iPhone 14,Juguetes,3733.78,7431.18,4,11657.55,6114.08,No,Scottview,81
+1863,3/27/2025,March,Joseph Reed,LEGO Star Wars,Hogar,2273.7,7404.45,4,11368.5,6114.08,No,East Angelaside,81
+1864,5/9/2025,April,Samuel Cole,Chamarra Puma,Electrónica,2273.7,11661.56,4,25469.28,1617.28,No,Davidstad,81
+1865,3/27/2025,April,Kathryn Ponce,Playera Nike,Electrónica,9562.0,1479.82,5,13894.76,2683.58,No,Jamesfurt,51
+1866,5/13/2025,May,Samuel Cole,Crema Nivea,Electrónica,6367.32,1618.01,1,26151.0,19318.15,No,Scottview,89
+1867,4/21/2025,January,Joseph Reed,Crema Nivea,Juguetes,11061.55,6761.45,4,55307.75,2683.58,No,West Brenda,51
+1868,5/9/2025,February,Susan Torres,LEGO Star Wars,Juguetes,23308.47,4683.42,5,11657.55,6914.48,No,Collierhaven,47
+1869,3/27/2025,January,Matthew Hammond,Samsung Galaxy,Ropa,11061.55,3733.2,2,55307.75,19318.15,No,Alexandrabury,81
+1870,4/25/2025,January,Timothy Miller,LEGO Star Wars,Ropa,11061.55,13284.2,5,26151.0,4945.14,No,Scottview,47
+1871,2/23/2025,February,Randall Allen,LEGO Star Wars,Ropa,19571.16,7197.92,5,10696.68,6914.48,No,Lake Susanhaven,80
+1872,1/15/2025,January,Joyce Rodriguez,Hot Wheels Pack,Juguetes,23308.47,851.91,4,25469.28,6914.48,No,Josephside,60
+1873,2/23/2025,May,Joyce Rodriguez,Nintendo Switch Lite,Ropa,16474.28,2160.7,3,58713.48,817.7,No,Alexandrabury,18
+1874,2/25/2025,May,Paul Kelly,Crema Nivea,Electrónica,3565.56,6761.45,4,70740.24,22659.87,Sí,New Angelberg,20
+1875,1/25/2025,February,Lisa Lee,Nintendo Switch Lite,Belleza,13994.04,2160.7,4,27988.08,50121.35,Sí,Morganmouth,20
+1876,5/1/2025,May,Mark Green,Nintendo Switch Lite,Juguetes,16474.28,12017.87,2,17291.89,7257.8,No,Lisaview,60
+1877,1/15/2025,May,Tammy Porter,Hot Wheels Pack,Juguetes,11281.76,2479.53,1,82371.4,7733.61,No,Priceshire,92
+1878,5/1/2025,January,Paul Kelly,iPhone 14,Juguetes,1015.45,2160.7,1,5980.26,7733.61,No,Williamsmouth,60
+1879,5/1/2025,February,Justin Ramirez,Barbie Princesa,Belleza,1015.45,10284.12,5,82371.4,7257.8,No,Williamsmouth,20
+1880,2/27/2025,May,Christina Walsh,Hot Wheels Pack,Juguetes,16474.28,9558.28,1,27988.08,28002.45,Sí,South Walter,60
+1881,1/10/2025,May,Patricia Koch DDS,Nintendo Switch Lite,Electrónica,13075.76,15711.05,5,5077.25,8435.3,No,East Matthew,33
+1882,5/30/2025,April,Lisa Lee,iPhone 14,Ropa,2990.13,591.17,2,82371.4,30950.8,Sí,Charlesshire,99
+1883,5/1/2025,January,David Chaney,Barbie Princesa,Juguetes,17291.89,2479.53,2,27988.08,858.6,Sí,South Walter,38
+1884,5/29/2025,January,Christina Walsh,LEGO Star Wars,Juguetes,13075.76,10365.14,1,13075.76,14500.88,No,South Walter,33
+1885,1/10/2025,June,Christina Walsh,Barbie Princesa,Juguetes,17291.89,2479.53,2,24651.06,1021.2,No,New Nicolefurt,72
+1886,5/29/2025,May,Stephanie Blair,Puzzle 1000 piezas,Juguetes,2990.13,8131.88,5,1772.64,8377.83,Sí,New Michelletown,30
+1887,5/29/2025,May,Kathryn Fleming,Silla Gamer,Hogar,1772.64,3234.34,5,116275.35,858.6,No,Port Robertshire,33
+1888,3/8/2025,May,Stacy Medina,Juego de sábanas,Juguetes,8217.02,3234.34,1,116275.35,8377.83,No,South Walter,30
+1889,5/1/2025,March,Patricia Koch DDS,Nintendo Switch Lite,Electrónica,7898.33,17654.58,5,7898.33,7552.88,No,East Eric,64
+1890,4/5/2025,July,Ryan Lee,Juego de sábanas,Juguetes,17366.48,10684.07,5,48863.7,7552.88,No,Charlesshire,33
+1891,1/25/2025,June,Stacy Medina,Juego de sábanas,Belleza,7898.33,6926.42,3,23793.75,21402.5,No,Harrisonburgh,64
+1892,6/24/2025,April,Ryan Lee,Juego de sábanas,Juguetes,17366.48,10095.04,3,41796.8,9522.36,No,South Debbie,82
+1893,6/24/2025,February,Nancy Martinez,Nintendo Switch Lite,Hogar,7373.04,6926.42,5,13187.82,3484.8,No,North Brittanyhaven,82
+1894,7/5/2025,May,Glenn Crawford,Nintendo Switch Lite,Juguetes,9772.74,10684.07,2,13187.82,14231.6,No,North Jayland,73
+1895,3/6/2025,April,Brian Evans,Nintendo Switch Lite,Juguetes,9772.74,7440.43,5,13187.82,3289.65,No,Moorefort,98
+1896,5/26/2025,July,David Mcneil,Puzzle 1000 piezas,Electrónica,4758.75,6926.42,5,34732.96,3289.65,No,North Brittanyhaven,82
+1897,4/10/2025,April,Robert Arnold,iPhone 14,Hogar,19413.23,6384.2,5,48863.7,6347.75,No,Lake Marissashire,72
+1898,3/16/2025,February,Ryan Lee,Auriculares JBL,Ropa,13788.18,6384.2,4,34732.96,14886.2,No,Lake Marissashire,79
+1899,4/27/2025,May,Chad Parker,LEGO Star Wars,Juguetes,3499.71,2322.75,5,26707.58,3756.5,No,New Angelaview,55
+1900,4/10/2025,February,Cindy Hudson DDS,Puzzle 1000 piezas,Belleza,13788.18,4395.8,2,26707.58,3756.5,No,Crawfordfort,68
+1901,4/27/2025,February,Cindy Hudson DDS,LEGO Star Wars,Belleza,20583.01,9466.5,4,30051.8,5416.63,No,West Jose,17
+1902,2/16/2025,February,Cindy Hudson DDS,Maquillaje MAC,Electrónica,13353.79,18656.39,2,8465.88,40483.25,No,Kochberg,21
+1903,4/10/2025,April,Lisa Holland,LEGO Star Wars,Electrónica,7512.95,2625.73,4,71805.6,5416.63,No,West Jose,21
+1904,6/3/2025,June,Deanna Hill,iPhone 14,Electrónica,4232.94,6384.2,2,71805.6,7774.58,No,West Jose,21
+1905,4/10/2025,June,Scott Mendez,Puzzle 1000 piezas,Electrónica,14361.12,124.57,4,8465.88,4515.0,No,Kochberg,93
+1906,1/8/2025,February,Joy Nelson,Gorra Under Armour,Ropa,14361.12,4731.33,5,71805.6,7774.58,No,Ramirezville,100
+1907,6/3/2025,February,Rebecca Jimenez,Auriculares JBL,Belleza,24073.02,7729.36,1,12633.92,4057.36,No,Port Marieton,17
+1908,2/11/2025,March,Frank Scott,Auriculares JBL,Belleza,3640.07,894.62,3,26707.58,39564.0,No,Hallmouth,72
+1909,2/16/2025,June,Rebecca Jimenez,Auriculares JBL,Ropa,3640.07,124.57,1,24073.02,5416.63,No,Hallmouth,30
+1910,5/29/2025,May,Sara Smith,Pantalón Levi's,Hogar,12938.78,17647.43,5,38816.34,3171.26,No,Angelahaven,96
+1911,3/6/2025,April,Mr. Joseph Gonzales,Puzzle 1000 piezas,Ropa,21873.14,17647.43,5,4975.92,28737.52,No,Port Marieton,49
+1912,6/19/2025,January,Paul Chung Jr.,Tenis Adidas,Ropa,16646.27,894.62,2,161.58,37.01,No,West Sarahview,68
+1913,3/12/2025,June,Wendy Shaw,Aspiradora Robot,Ropa,116.83,894.62,5,16646.27,39564.0,No,West Jenniferstad,42
+1914,4/21/2025,May,Wendy Shaw,Tenis Adidas,Juguetes,19912.38,97.59,1,21873.14,4542.45,No,Bethstad,42
+1915,6/19/2025,June,Shelley Moore,Playera Nike,Ropa,21873.14,12728.0,2,16646.27,4542.45,No,West Jenniferstad,26
+1916,1/21/2025,January,Wendy Shaw,Samsung Galaxy,Electrónica,5732.15,6694.31,1,103628.8,4225.71,No,Kerrmouth,49
+1917,4/19/2025,March,Diana Moore,Playera Nike,Hogar,16646.27,10110.83,2,34762.74,11569.22,Sí,Kerrmouth,30
+1918,4/19/2025,March,Joseph Chang,Aspiradora Robot,Ropa,16646.27,6694.31,1,26619.32,14628.28,No,Jensenborough,27
+1919,3/26/2025,April,Mark Smith,Silla Gamer,Hogar,14780.39,17647.43,1,16421.58,4225.71,No,West Jenniferstad,27
+1920,3/26/2025,June,Erin Hernandez,Licuadora Oster,Electrónica,15440.29,12255.33,3,34762.74,4166.25,No,Montesmouth,23
+1921,3/11/2025,April,Julia Simpson,Samsung Galaxy,Ropa,5732.15,9478.38,2,34762.74,17154.0,Sí,Jensenborough,27
+1922,3/26/2025,April,Brittany Lopez,Samsung Galaxy,Hogar,15440.29,6694.31,3,18721.31,33363.35,No,North Christopherburgh,53
+1923,4/9/2025,March,Julia Simpson,Puzzle 1000 piezas,Hogar,16151.05,9376.84,1,63637.53,7424.13,No,Floydstad,40
+1924,2/8/2025,March,Peter Gilbert,Aspiradora Robot,Belleza,14780.39,9376.84,4,37009.16,7424.13,No,South Marcus,11
+1925,4/30/2025,February,Julia Simpson,Aspiradora Robot,Hogar,13309.66,2713.45,2,16931.85,7424.13,No,Hernandezville,27
+1926,3/22/2025,February,Joseph Chang,Licuadora Oster,Belleza,3386.37,18367.86,5,53235.1,4726.5,No,Jennachester,27
+1927,3/22/2025,February,Molly Clark PhD,Licuadora Oster,Ropa,16151.05,5307.19,1,16931.85,17154.0,No,North Dennismouth,27
+1928,3/26/2025,March,Tamara Dunlap,Plancha Remington,Hogar,7816.68,568.95,3,15633.36,33363.35,Sí,Teresaborough,29
+1929,4/27/2025,April,Brianna Roberts,Plancha Remington,Hogar,2907.32,11297.18,3,23865.88,17154.0,No,Martinmouth,90
+1930,6/5/2025,April,Kayla Powers,Puzzle 1000 piezas,Hogar,9829.21,2713.45,1,33370.76,3364.6,No,Ricardomouth,40
+1931,4/22/2025,January,Kayla Powers,Aspiradora Robot,Electrónica,16685.38,568.95,2,4366.76,5018.98,No,Ricardomouth,11
+1932,4/27/2025,March,Joshua Jackson,Plancha Remington,Hogar,4179.43,568.95,1,53235.1,2732.49,No,Lake Andrew,11
+1933,4/22/2025,June,Molly Clark PhD,Pantalón Levi's,Electrónica,7816.68,12185.64,1,15633.36,8175.88,No,Jennachester,87
+1934,6/5/2025,April,Austin Summers,Licuadora Oster,Electrónica,6187.55,7096.72,3,20897.15,17103.92,No,Jennachester,43
+1935,1/7/2025,January,Suzanne Ewing,Plancha Remington,Ropa,16685.38,12021.11,4,45737.68,17103.92,No,Jennachester,24
+1936,3/5/2025,June,Daniel Rocha,Samsung Galaxy,Hogar,4179.43,5096.19,1,33370.76,1091.36,No,Farrellborough,65
+1937,3/5/2025,May,Denise Fisher,Juego de sábanas,Electrónica,11434.42,12021.11,1,9829.21,10065.33,No,West Melissa,70
+1938,3/17/2025,March,Eric Long,Samsung Galaxy,Electrónica,16685.38,7158.44,1,23013.64,32.7,No,Jonesport,93
+1939,3/22/2025,March,Suzanne Ewing,Silla Gamer,Hogar,3073.08,12948.31,2,24338.61,10065.33,No,Shannonchester,43
+1940,3/5/2025,May,Denise Fisher,Juego de sábanas,Ropa,4179.43,1203.79,1,5448.81,812.33,No,Mannstad,19
+1941,5/18/2025,May,Bryan Mclaughlin,Samsung Galaxy,Electrónica,163.96,12021.11,1,45737.68,1837.44,No,Birdburgh,24
+1942,3/5/2025,April,Bryan Mclaughlin,Samsung Galaxy,Hogar,3073.08,6974.68,3,163.96,10065.33,No,Garciaberg,48
+1943,5/18/2025,May,Sarah Welch,Pantalón Levi's,Ropa,163.96,8238.87,1,24338.61,32.7,No,West Melissa,70
+1944,5/22/2025,April,David Harper,Samsung Galaxy,Juguetes,3849.1,99.58,3,46607.08,1837.44,No,Lake Gregorychester,48
+1945,3/17/2025,May,Amy Rodriguez,Aspiradora Robot,Belleza,23013.64,99.58,3,24338.61,13651.6,No,Alyssahaven,93
+1946,4/18/2025,April,Douglas Jenkins,Samsung Galaxy,Electrónica,3849.1,99.58,2,23013.64,10065.33,No,Mannstad,93
+1947,3/17/2025,March,Christopher Scott,iPhone 14,Belleza,12685.15,15303.87,4,24338.61,1837.44,No,Mannstad,76
+1948,5/18/2025,April,Jacob Bentley,Crema Nivea,Hogar,3073.08,99.58,3,27743.96,13794.6,No,Deborahland,77
+1949,2/28/2025,May,Jacob Bentley,Aspiradora Robot,Electrónica,11651.77,9171.69,3,46607.08,3246.47,No,Juarezville,27
+1950,5/19/2025,April,Brandon Mitchell,Samsung Galaxy,Ropa,136.4,6434.69,3,3849.1,13651.6,No,Smithhaven,27
+1951,4/14/2025,January,Sarah Welch,Perfume Dior,Electrónica,22442.46,6434.69,2,50740.6,30920.64,No,West Jordanchester,21
+1952,5/19/2025,January,Amanda Davis,iPhone 14,Electrónica,16594.85,6434.69,3,8019.64,668.44,No,Johnsonbury,50
+1953,4/18/2025,June,Jermaine Cortez,Perfume Dior,Electrónica,136.4,9056.6,1,72358.2,39764.0,No,Deborahland,20
+1954,3/16/2025,January,Kyle Bartlett,Perfume Dior,Belleza,20520.23,13812.52,3,71231.28,14053.84,No,Albertberg,50
+1955,1/22/2025,January,Jermaine Cortez,Perfume Dior,Juguetes,22442.46,4773.17,5,101045.8,30920.64,Sí,Deborahland,17
+1956,1/29/2025,June,Crystal Evans,Auriculares JBL,Juguetes,2458.66,3222.47,4,71231.28,11472.52,No,Heathermouth,25
+1957,7/5/2025,February,Amanda Davis,iPhone 14,Electrónica,8019.64,2213.24,3,99717.28,42956.96,No,Albertberg,25
+1958,2/16/2025,June,Barbara Holt,Licuadora Oster,Juguetes,24929.32,14190.08,3,101045.8,42956.96,No,Albertberg,65
+1959,4/14/2025,May,Kyle Bartlett,Crema Nivea,Juguetes,24119.4,616.51,4,72358.2,1811.04,No,Contrerasberg,25
+1960,5/27/2025,January,Tim Cochran,Puzzle 1000 piezas,Belleza,20209.16,14190.08,2,4917.32,11472.52,No,New Hector,33
+1961,5/24/2025,April,Jermaine Cortez,iPhone 14,Belleza,1163.14,3222.47,4,5033.51,25099.55,Sí,Lake Steven,17
+1962,2/9/2025,July,David Paul,Chamarra Puma,Hogar,834.11,616.51,2,71231.28,1811.04,No,Contrerasberg,65
+1963,2/9/2025,May,Danny Hendricks,Playera Nike,Ropa,1163.14,11508.85,2,2326.28,36625.75,No,North Evelynville,81
+1964,2/11/2025,February,Samuel Johnson,Puzzle 1000 piezas,Ropa,834.11,1317.02,1,99717.28,435.2,No,Cherylchester,41
+1965,1/31/2025,February,Chelsea Miller,Aspiradora Robot,Hogar,5033.51,3222.47,2,7794.6,25099.55,No,North Mariaville,54
+1966,1/31/2025,July,Robert Sullivan,Tenis Adidas,Belleza,5066.5,616.51,5,56028.4,25099.55,No,Katieland,33
+1967,7/3/2025,January,Douglas Scott,Auriculares JBL,Hogar,10358.61,769.24,1,63533.94,36625.75,No,North Mariaville,59
+1968,3/18/2025,January,Elizabeth Henderson,Samsung Galaxy,Juguetes,14853.74,7175.83,5,7780.02,3182.78,No,Contrerasberg,84
+1969,1/28/2025,January,Chelsea Miller,Auriculares JBL,Hogar,8107.95,12244.55,3,56028.4,1192.3,No,Katieland,84
+1970,1/28/2025,May,Darryl Torres,Plancha Remington,Belleza,5066.5,16499.48,1,8107.95,14035.5,No,South Donaldtown,54
+1971,3/5/2025,June,Darryl Torres,Shampoo L'Oréal,Hogar,2593.34,16499.48,5,7780.02,36625.75,No,Lake Amy,38
+1972,3/8/2025,January,Helen Hunter,Colchón SpringAir,Hogar,14853.74,1892.89,3,44561.22,14096.82,No,Katieland,32
+1973,1/5/2025,March,Lori Garrett,Juego de sábanas,Ropa,21177.98,15433.06,1,28267.6,2176.27,No,Katieland,32
+1974,3/5/2025,February,Hayley Singleton,Monitor LG,Belleza,14133.8,1320.46,3,5231.4,2063.18,No,East Victoriahaven,13
+1975,1/21/2025,April,Douglas Scott,Pantalón Levi's,Belleza,14133.8,16499.48,5,4471.36,2063.18,No,Wendymouth,65
+1976,3/8/2025,April,Michael Campbell,Juego de sábanas,Ropa,12001.93,1584.11,1,4471.36,8562.6,No,Josephburgh,38
+1977,3/8/2025,March,Elizabeth Mitchell,Nintendo Switch Lite,Hogar,4471.36,16384.11,5,58145.19,2176.27,No,Reynoldsmouth,38
+1978,4/20/2025,February,Michael Campbell,Crema Nivea,Belleza,19381.73,2295.09,5,28565.28,3571.0,Sí,West Sarah,65
+1979,2/2/2025,April,Elizabeth Mitchell,Crema Nivea,Hogar,4471.36,16384.11,4,68932.92,24498.7,No,East Victoriahaven,87
+1980,3/3/2025,March,Jeffrey Benton,Hot Wheels Pack,Electrónica,9521.76,7394.47,5,22401.16,14096.82,No,Ashleyside,38
+1981,3/3/2025,February,Michael Campbell,Maquillaje MAC,Juguetes,22977.64,13723.86,2,22188.25,6766.44,No,South Victor,19
+1982,4/7/2025,February,Jeffrey Benton,Crema Nivea,Juguetes,19381.73,13723.86,3,5231.4,3571.0,No,Floresside,83
+1983,4/20/2025,February,Kevin Harrington,Hot Wheels Pack,Juguetes,13696.0,3908.68,1,24561.25,10837.39,No,West Sarah,50
+1984,2/28/2025,April,Kevin Harrington,Colchón SpringAir,Hogar,13696.0,3723.45,4,54784.0,2497.35,No,East Kevin,87
+1985,3/6/2025,March,Frank Craig,Playera Nike,Belleza,9709.83,8839.71,5,54784.0,25447.16,No,Cranemouth,23
+1986,2/10/2025,April,Kylie Juarez,Playera Nike,Hogar,24561.25,7334.21,4,383.75,163.71,No,Juliemouth,95
+1987,6/21/2025,April,Kylie Juarez,Perfume Dior,Belleza,18078.75,220.04,3,54784.0,2497.35,No,Floresside,50
+1988,7/3/2025,March,Erika Hughes,Juego de sábanas,Juguetes,11337.06,7334.21,2,383.75,3431.36,No,South James,73
+1989,7/3/2025,July,Peter Wood,Nintendo Switch Lite,Electrónica,2281.95,8839.71,3,7790.36,1602.48,No,Port Stephanie,65
+1990,3/17/2025,April,Jill Rogers,Juego de sábanas,Juguetes,1335.92,7344.56,2,54784.0,4730.54,No,Port Stephanie,19
+1991,3/16/2025,July,Angela Robertson,Perfume Dior,Hogar,2281.95,1089.75,1,34059.88,1602.48,No,Juliemouth,48
+1992,3/7/2025,April,Laurie Johnston,Colchón SpringAir,Ropa,20254.82,13658.33,4,11337.06,4739.6,No,South James,96
+1993,7/2/2025,March,Luis Smith,Juego de sábanas,Hogar,14803.26,13658.33,4,16565.46,1602.48,No,Juliemouth,96
+1994,3/17/2025,April,Jordan Anderson,Licuadora Oster,Electrónica,8514.97,1799.01,4,22200.42,1602.48,No,West Ronald,96
+1995,6/3/2025,July,Jordan Anderson,Plancha Remington,Juguetes,20254.82,12764.91,2,22254.86,9903.72,No,Colleenshire,22
+1996,5/27/2025,March,Chase Moss,Hot Wheels Pack,Ropa,16565.46,8160.92,1,4353.72,13165.84,No,Lake Kristen,22
+1997,5/27/2025,March,Bryan Lee,Plancha Remington,Hogar,7400.14,2621.52,2,14803.26,12901.04,No,Colleenshire,22
+1998,3/19/2025,May,Laura Hayden,iPhone 14,Hogar,13520.53,12764.91,5,22779.84,14418.45,No,Joyceville,24
+1999,3/19/2025,May,Tina Gonzales DVM,Monitor LG,Ropa,16565.46,9020.12,5,62893.64,14418.45,No,West Ronald,58
+2000,3/30/2025,February,Laura Hayden,Hot Wheels Pack,Hogar,24903.42,9020.12,4,16565.46,14418.45,No,Daniellefort,22
+2001,3/19/2025,May,Bryan Lee,iPhone 14,Ropa,15723.41,10173.48,1,14803.26,13165.84,No,Lanemouth,27
+2002,3/30/2025,April,Laura Hayden,Hot Wheels Pack,Ropa,13520.53,13673.88,1,60531.12,14418.45,No,East Michael,27
+2003,2/17/2025,February,Laura Hayden,Hot Wheels Pack,Hogar,16565.46,12220.67,4,5568.42,13165.84,Sí,South Anthony,50
+2004,3/19/2025,February,Jacob Robles,iPhone 14,Juguetes,180.81,9020.12,4,542.43,45038.12,Sí,Petershire,11
+2005,2/10/2025,March,Jordan Anderson,Pantalón Levi's,Hogar,15723.41,12220.67,4,22200.42,14010.96,No,Lanemouth,65
+2006,3/30/2025,February,Laura Hayden,Hot Wheels Pack,Belleza,180.81,13673.88,3,62893.64,306.78,No,North Katrinastad,59
+2007,7/5/2025,February,Joseph Dunn,Pantalón Levi's,Belleza,9951.23,13673.88,4,39804.92,39199.25,No,North Katrinastad,27
+2008,7/5/2025,March,Brittany Rice,Pantalón Levi's,Hogar,23229.95,9020.12,2,39804.92,15389.36,No,Daniellefort,50
+2009,6/30/2025,June,Brittany Rice,Monitor LG,Juguetes,23229.95,10295.27,2,542.43,45038.12,No,Daniellefort,29
+2010,4/9/2025,February,Tamara Flores,Perfume Dior,Hogar,24933.41,13741.16,3,33055.6,15389.36,No,North Luisborough,11
+2011,7/5/2025,June,Brittany Rice,Pantalón Levi's,Belleza,23229.95,13673.88,1,67652.7,15389.36,No,West Leeland,29
+2012,7/5/2025,March,Joann Velez,Chamarra Puma,Juguetes,1778.27,13162.57,5,542.43,306.78,No,North Luisborough,32
+2013,5/29/2025,May,Joann Velez,Chamarra Puma,Juguetes,23229.95,13741.16,2,27172.5,4085.08,No,Daniellefort,65
+2014,5/21/2025,May,Angela Hurst,Barbie Princesa,Belleza,24933.41,482.71,5,13892.65,15389.36,No,Port Micheleton,53
+2015,6/30/2025,June,Joann Velez,Chamarra Puma,Electrónica,22500.39,482.71,5,33055.6,4085.08,No,Richardland,53
+2016,3/18/2025,June,Jeffery Berry,Perfume Dior,Juguetes,16866.78,13162.57,4,33055.6,4085.08,No,Richardland,40
+2017,4/15/2025,May,Jeffery Berry,Chamarra Puma,Electrónica,21775.91,482.71,2,46459.9,9226.4,No,North Luisborough,53
+2018,4/15/2025,June,Joann Velez,iPhone 14,Juguetes,22500.39,482.71,5,13892.65,4085.08,No,West Leeland,40
+2019,5/8/2025,June,Anthony Bright,iPhone 14,Juguetes,16527.8,11514.51,4,13892.65,9226.4,Sí,New Danielfort,53
+2020,5/29/2025,March,Anthony Bright,iPhone 14,Electrónica,16527.8,2968.92,1,46459.9,10948.6,No,Port Micheleton,53
+2021,1/8/2025,June,Joann Velez,iPhone 14,Juguetes,21629.79,2968.92,2,46459.9,12327.9,No,Port Micheleton,45
+2022,5/25/2025,April,Peggy Fitzgerald,iPhone 14,Electrónica,7202.71,3349.5,2,13892.65,9226.4,No,Louisborough,93
+2023,1/17/2025,June,Anthony Bright,Puzzle 1000 piezas,Electrónica,21629.79,17646.77,1,5334.81,51800.95,No,Louisborough,53
+2024,1/8/2025,June,Jeremy Scott,iPhone 14,Ropa,4870.59,2968.92,2,9741.18,51800.95,No,Richardland,53
+2025,1/8/2025,June,Nicole Hunt,iPhone 14,Ropa,1348.54,899.31,5,36013.55,51800.95,Sí,Nicholshaven,45
+2026,3/5/2025,March,Melissa Leon,iPhone 14,Hogar,7488.02,11514.51,1,59614.12,20685.4,No,East Destinychester,82
+2027,1/17/2025,May,Traci Summers,iPhone 14,Belleza,7202.71,899.31,5,37440.1,12327.9,No,Johnsonstad,41
+2028,5/8/2025,May,Melissa Leon,Juego de sábanas,Juguetes,21629.79,6282.81,2,37440.1,20685.4,Sí,East Destinychester,87
+2029,3/21/2025,March,Nicole Hunt,Chamarra Puma,Hogar,21874.7,16909.5,1,36013.55,2455.62,Sí,Gonzalezland,82
+2030,6/11/2025,June,Nicole Hunt,Juego de sábanas,Ropa,1348.54,899.31,2,36013.55,20685.4,Sí,Johnsonstad,59
+2031,1/8/2025,June,Matthew Gonzalez,Plancha Remington,Juguetes,1348.54,946.05,1,70122.57,20685.4,No,Johnsonstad,59
+2032,3/5/2025,June,Traci Summers,Plancha Remington,Electrónica,9301.22,946.05,2,3612.36,10688.7,No,Gonzalezland,88
+2033,3/21/2025,May,Nicole Hunt,Barbie Princesa,Belleza,9301.22,16909.5,2,5772.57,2455.62,Sí,Gonzalezland,27
+2034,5/8/2025,May,Bryan Fisher,iPhone 14,Electrónica,9301.22,1105.65,5,11484.89,22781.04,Sí,Murphyberg,42
+2035,3/18/2025,February,Allison Wilson,Playera Nike,Belleza,16729.79,946.05,1,5772.57,22781.04,No,Gonzalezland,87
+2036,3/18/2025,June,Caleb Valentine,Silla Gamer,Belleza,15893.68,12560.33,2,15508.71,10688.7,No,Gonzalezland,36
+2037,2/15/2025,June,Caleb Valentine,iPhone 14,Juguetes,9301.22,1105.65,1,15893.68,20685.4,No,Murphyberg,60
+2038,3/18/2025,April,Darren White,Playera Nike,Ropa,15893.68,1105.65,4,11484.89,10688.7,No,West Zacharyhaven,36
+2039,4/13/2025,March,Bryan Fisher,iPhone 14,Belleza,7775.63,12560.33,3,5772.57,14225.2,No,West Zacharyhaven,27
+2040,3/18/2025,February,Nancy Meyers,iPhone 14,Belleza,7775.63,11122.99,4,35626.4,22781.04,No,West Michaelhaven,36
+2041,4/10/2025,February,Allison Wilson,Playera Nike,Electrónica,13685.2,8477.87,3,74226.6,10688.7,Sí,Murphyberg,42
+2042,3/18/2025,February,Carol Sanders,Colchón SpringAir,Hogar,24407.53,3804.77,4,6743.46,14225.2,No,Lake Timothy,14
+2043,4/10/2025,May,Bryan Fisher,iPhone 14,Juguetes,13685.2,12560.33,1,15508.71,1441.26,Sí,West Zacharyhaven,45
+2044,4/10/2025,May,Jeffrey Roberts,Licuadora Oster,Juguetes,24407.53,6198.63,4,49604.49,10831.88,Sí,Lake Timothy,36
+2045,6/15/2025,March,Janet Sharp,iPhone 14,Juguetes,10051.99,4164.27,1,15508.71,10688.7,Sí,West Zacharyhaven,78
+2046,3/23/2025,April,Jeffrey Roberts,Licuadora Oster,Juguetes,24407.53,6198.63,5,74226.6,10831.88,Sí,North Cassandraport,24
+2047,6/14/2025,February,Jeffrey Roberts,Hot Wheels Pack,Ropa,18240.77,8477.87,4,6743.46,35588.9,Sí,West Michaelhaven,24
+2048,6/15/2025,June,Jeffrey Roberts,Samsung Galaxy,Hogar,4876.82,11122.99,1,19507.28,10831.88,No,Juantown,46
+2049,6/14/2025,June,Charles Simmons,Licuadora Oster,Juguetes,18240.77,6642.49,2,19507.28,23551.64,Sí,Jesseberg,45
+2050,6/27/2025,June,Janet Sharp,Licuadora Oster,Juguetes,10839.31,11122.99,1,19507.28,2340.53,No,North Patrick,14
+2051,5/23/2025,April,Carol Sanders,Crema Nivea,Juguetes,24407.53,2491.56,5,6743.46,2340.53,No,Johnburgh,46
+2052,6/14/2025,June,Stephen Wallace,Maquillaje MAC,Juguetes,18240.77,15548.28,4,19507.28,23551.64,No,Jesseberg,14
+2053,5/19/2025,January,Carol Sanders,Maquillaje MAC,Juguetes,22327.23,6642.49,2,13639.02,7870.6,No,North Cassandraport,46
+2054,6/6/2025,January,Carol Sanders,Nintendo Switch Lite,Juguetes,22164.81,3573.37,1,13639.02,6517.74,No,Juantown,24
+2055,5/19/2025,June,Jeremy Wright,Samsung Galaxy,Juguetes,4876.82,2491.56,4,11667.29,35588.9,No,New Joel,46
+2056,6/14/2025,April,Leonard Robinson,Maquillaje MAC,Juguetes,4876.82,5253.12,4,60823.48,26466.12,No,Juantown,46
+2057,2/21/2025,June,Janet Sharp,Nintendo Switch Lite,Juguetes,12166.47,16605.14,2,60823.48,26466.12,No,North Antonioberg,46
+2058,1/17/2025,April,Christopher Brady,Licuadora Oster,Belleza,11203.25,6642.49,4,16892.38,26466.12,No,New Joel,36
+2059,5/19/2025,April,Stephen Blankenship,Licuadora Oster,Belleza,8462.6,16605.14,4,22327.23,6517.74,No,Port Shawn,46
+2060,1/17/2025,June,Christopher Brady,Licuadora Oster,Juguetes,22164.81,12426.73,4,11667.29,4439.68,No,New Joel,46
+2061,2/21/2025,June,Leonard Robinson,Nintendo Switch Lite,Hogar,12166.47,9317.96,4,11667.29,26466.12,No,Juantown,41
+2062,1/17/2025,June,Jeremy Wright,Nintendo Switch Lite,Belleza,8462.6,5253.12,4,48665.88,33789.0,No,North Seanstad,46
+2063,6/19/2025,June,Stephen Blankenship,Shampoo L'Oréal,Ropa,9782.54,5253.12,4,26250.9,33789.0,No,Port Shawn,46
+2064,2/24/2025,January,Thomas Gonzalez,Nintendo Switch Lite,Ropa,9782.54,16298.29,4,26250.9,1586.23,No,Lisaview,46
+2065,5/1/2025,May,Thomas Gonzalez,Juego de sábanas,Juguetes,14926.76,12426.73,1,48665.88,26466.12,No,North Seanstad,41
+2066,2/24/2025,January,Stephen Blankenship,Shampoo L'Oréal,Belleza,9782.54,9242.59,4,11667.29,9265.25,No,Lisaview,41
+2067,6/21/2025,April,Angel Camacho,Barbie Princesa,Ropa,11203.25,16298.29,4,26250.9,33789.0,No,North Seanstad,46
+2068,2/26/2025,April,Ashlee Wilson,Juego de sábanas,Hogar,19552.7,16298.29,3,48665.88,9265.25,No,Thomasfort,39
+2069,6/21/2025,May,Angel Camacho,Nintendo Switch Lite,Ropa,9782.54,16298.29,3,66998.4,1177.29,No,East Michael,13
+2070,6/3/2025,June,Margaret Petersen DDS,Juego de sábanas,Hogar,5250.18,6225.71,3,26250.9,2809.06,No,New Shawn,51
+2071,3/23/2025,April,Jamie Stevens,Juego de sábanas,Ropa,8238.46,16298.29,4,3894.32,1177.29,No,East Michael,69
+2072,3/23/2025,May,Jamie Stevens,Barbie Princesa,Electrónica,3478.92,6314.21,4,3894.32,1177.29,No,New Shawn,69
+2073,5/1/2025,April,Justin Pace,Juego de sábanas,Electrónica,8238.46,10953.23,4,3894.32,6687.44,No,New Shawn,51
+2074,4/12/2025,April,Justin Pace,Playera Nike,Electrónica,19552.7,6314.21,1,3894.32,6687.44,No,East Michael,23
+2075,6/3/2025,April,Justin Pace,Playera Nike,Ropa,2791.66,6314.21,3,95978.8,4458.5,No,Thomasfort,23
+2076,3/23/2025,April,Jennifer Sanford,Hot Wheels Pack,Ropa,12698.42,6314.21,2,21307.66,6687.44,No,North Jennifer,35
+2077,5/16/2025,June,Jordan Boone,Perfume Dior,Electrónica,11810.64,6314.21,3,3894.32,6687.44,No,Thomasfort,58
+2078,3/23/2025,April,Justin Pace,Playera Nike,Electrónica,15926.07,2301.63,1,19926.06,6687.44,No,Port Jenniferborough,64
+2079,3/23/2025,April,Destiny Washington,Silla Gamer,Hogar,3894.32,2301.63,4,19926.06,4112.22,No,North Jennifer,58
+2080,3/23/2025,January,Dr. Daniel Sandoval,Barbie Princesa,Electrónica,3894.32,2301.63,2,3984.62,4112.22,No,Lake Michael,76
+2081,4/2/2025,January,Angel Lane,Playera Nike,Hogar,5381.78,13921.51,4,21307.66,4458.5,No,Lake Nicole,76
+2082,5/14/2025,May,Angel Lane,Perfume Dior,Electrónica,15926.07,7865.79,1,19926.06,59.33,No,Port Donnatown,24
+2083,5/14/2025,January,Jordan Boone,Samsung Galaxy,Ropa,5381.78,13909.91,3,19926.06,4112.22,No,Lake Michael,58
+2084,1/6/2025,April,Amanda Reid,Aspiradora Robot,Hogar,12698.42,4169.08,1,352.76,4458.5,No,Lake Nicole,51
+2085,5/16/2025,March,Jordan Boone,Silla Gamer,Ropa,5381.78,13909.91,3,352.76,59.33,No,Port Jenniferborough,64
+2086,4/2/2025,March,Ryan Salinas,Playera Nike,Ropa,19926.06,14076.46,3,80896.64,25210.6,No,Popeport,86
+2087,5/9/2025,April,Yolanda Davis,Barbie Princesa,Ropa,18978.3,10486.4,1,17729.66,59.33,No,Lake Nicole,71
+2088,3/27/2025,March,Ryan Salinas,Playera Nike,Hogar,18978.3,14076.46,1,16145.34,15339.84,No,Lake Nicole,67
+2089,1/10/2025,July,David Garcia,Samsung Galaxy,Hogar,18978.3,10486.4,4,12019.98,15339.84,No,Lake Nicole,86
+2090,6/25/2025,April,David Garcia,Playera Nike,Hogar,7734.91,5300.11,1,16853.25,25210.6,No,West Michaelville,78
+2091,1/6/2025,April,Amanda Ford,Colchón SpringAir,Hogar,18978.3,3674.04,1,12019.98,4777.51,No,Popeport,80
+2092,4/22/2025,March,Lauren Alexander,Nintendo Switch Lite,Belleza,18978.3,14076.46,1,15469.82,14725.74,No,Nicholasbury,67
+2093,5/23/2025,April,Lauren Alexander,Plancha Remington,Hogar,18978.3,8643.67,1,15469.82,14725.74,No,Port Robynville,64
+2094,6/25/2025,July,Ana Johnson,Playera Nike,Belleza,7734.91,14076.46,3,10077.62,19607.36,No,Ballardmouth,62
+2095,1/10/2025,January,Molly Brown,Chamarra Puma,Hogar,17729.66,4193.71,3,12019.98,3780.33,No,Nicholasbury,83
+2096,6/25/2025,June,Lauren Alexander,Plancha Remington,Electrónica,11317.54,7443.34,3,10077.62,4777.51,No,West Michaelville,83
+2097,4/24/2025,January,Lauren Alexander,Silla Gamer,Electrónica,18978.3,3674.04,2,10077.62,4777.51,No,Nicholasbury,46
+2098,6/19/2025,January,Samantha Smith,Silla Gamer,Electrónica,15563.58,7443.34,2,21371.92,14725.74,No,West Michaelville,83
+2099,1/13/2025,January,Oscar Thornton,Playera Nike,Ropa,17729.66,11102.6,3,21157.4,4777.51,No,Port Robynville,36
+2100,1/13/2025,June,Jordan Branch,Chamarra Puma,Ropa,24848.56,7829.19,4,27439.9,4777.51,No,Tracymouth,36
+2101,3/27/2025,June,Brittany Shepherd MD,LEGO Star Wars,Electrónica,15563.58,8010.94,3,21371.92,4460.98,No,Kathrynhaven,83
+2102,4/29/2025,January,Brittany Shepherd MD,Silla Gamer,Ropa,1872.38,12848.21,3,33089.32,4460.98,No,Kristinland,46
+2103,3/27/2025,January,David Monroe,Playera Nike,Ropa,10685.96,1089.16,1,33089.32,14725.74,No,Port Robynville,73
+2104,6/14/2025,January,Susan Johnson,Silla Gamer,Ropa,1872.38,7829.19,3,21157.4,13199.61,No,Kathrynhaven,36
+2105,4/29/2025,January,Tina Burnett,Silla Gamer,Ropa,1872.38,7829.19,4,21157.4,13199.61,No,East Courtneychester,13
+2106,1/12/2025,March,David Monroe,Gorra Under Armour,Ropa,15563.58,12848.21,3,33089.32,13199.61,No,Port Matthewchester,73
+2107,6/14/2025,March,Susan Johnson,LEGO Star Wars,Electrónica,11317.54,10625.56,1,120257.95,13199.61,No,Kathrynhaven,73
+2108,3/26/2025,April,Shannon Wong,Silla Gamer,Ropa,818.85,7377.4,3,120257.95,13199.61,Sí,New Andrew,73
+2109,4/15/2025,April,David Monroe,Chamarra Puma,Ropa,14991.11,12848.21,4,13851.06,1037.0,No,North Teresa,21
+2110,3/29/2025,March,Phillip Murphy MD,Chamarra Puma,Juguetes,14991.11,5877.06,2,13851.06,13199.61,No,Port Matthewchester,66
+2111,3/26/2025,April,Daniel Lucas,Laptop Lenovo,Juguetes,10389.86,1089.16,2,120257.95,13199.61,No,Dylanchester,21
+2112,5/5/2025,April,Sarah Wilson,Gorra Under Armour,Ropa,8149.52,1089.16,2,22947.96,34638.32,No,Port Matthewchester,49
+2113,4/27/2025,April,Carla Adams,Tenis Adidas,Juguetes,8149.52,6842.05,3,32598.08,4772.28,Sí,Dylanchester,98
+2114,4/15/2025,March,Carla Adams,Tenis Adidas,Hogar,10389.86,5877.06,3,22947.96,1037.0,No,Port Matthewchester,73
+2115,5/5/2025,March,Carla Adams,Tenis Adidas,Juguetes,8149.52,6169.74,5,4407.08,5229.88,No,Port Wandaland,73
+2116,4/15/2025,June,Daniel Lucas,Hot Wheels Pack,Hogar,818.85,4317.72,2,32598.08,27837.12,No,North Teresa,39
+2117,5/5/2025,January,Carla Adams,LEGO Star Wars,Juguetes,13851.06,14044.02,2,33657.09,27837.12,No,New Andrew,25
+2118,4/15/2025,April,Carla Adams,Perfume Dior,Juguetes,7142.69,3577.84,2,1637.7,5229.88,No,Terryfurt,79
+2119,4/15/2025,April,Daniel Lucas,LEGO Star Wars,Belleza,10389.86,14044.02,2,82991.65,54980.55,No,Dylanchester,99
+2120,4/26/2025,February,Carla Adams,Licuadora Oster,Juguetes,8149.52,5418.87,2,22947.96,10732.88,No,Port Kristinmouth,90
+2121,4/26/2025,February,Jeffrey Johnson,Licuadora Oster,Juguetes,7142.69,5418.87,2,15505.8,11123.01,No,South Melissabury,74
+2122,4/15/2025,February,Jessica Mccoy,Licuadora Oster,Ropa,23328.02,13128.02,2,15505.8,13538.4,No,Grahamport,39
+2123,2/14/2025,April,Kimberly Webb,Barbie Princesa,Belleza,1245.18,7377.4,2,19033.21,54980.55,No,Terryfurt,79
+2124,4/3/2025,March,Jessica Mccoy,Aspiradora Robot,Hogar,7142.69,13128.02,5,46656.04,27837.12,No,Terryfurt,90
+2125,4/26/2025,March,Kimberly Webb,Licuadora Oster,Juguetes,1245.18,5418.87,3,46656.04,9127.76,No,Lake Adriana,20
+2126,2/14/2025,February,Jeffrey Johnson,Licuadora Oster,Ropa,1245.18,5418.87,4,120620.65,8046.94,No,Lake Ethan,94
+2127,4/4/2025,April,Samuel Huffman,Colchón SpringAir,Belleza,7142.69,13128.02,5,77653.95,4827.55,No,South Kaitlinbury,79
+2128,4/5/2025,March,Jessica Mccoy,Licuadora Oster,Juguetes,21323.3,14205.66,4,77653.95,4827.55,No,South Kaitlinbury,20
+2129,1/7/2025,March,Daniel Vaughn,Barbie Princesa,Belleza,21323.3,14205.66,5,32090.36,826.86,No,Catherinefurt,20
+2130,4/5/2025,February,Tyrone Ferrell,Maquillaje MAC,Belleza,6457.64,14205.66,5,3735.54,32281.5,No,South Kaitlinbury,21
+2131,4/5/2025,January,Mrs. Alexandria Rocha MD,Licuadora Oster,Belleza,13326.04,520.75,4,3735.54,36397.88,No,Lake Ethan,96
+2132,4/5/2025,March,Daniel Vaughn,Maquillaje MAC,Juguetes,993.89,14205.66,4,67784.25,826.86,No,North Shannon,20
+2133,4/26/2025,March,Gary Hunt,Playera Nike,Ropa,13326.04,9074.49,5,85293.2,826.86,No,Catherinefurt,65
+2134,3/20/2025,January,Gary Hunt,Playera Nike,Belleza,21323.3,969.56,3,77653.95,1640.2,No,North Shannon,73
+2135,4/5/2025,February,Jacqueline Mcguire,Chamarra Puma,Ropa,1939.16,2335.54,1,67784.25,25768.35,No,North Nicoleshire,73
+2136,4/5/2025,March,Samuel Huffman,Crema Nivea,Belleza,13326.04,3250.06,4,67784.25,826.86,No,Lake Valerie,65
+2137,3/20/2025,February,Shane Key,Playera Nike,Hogar,21148.07,14205.66,1,301.64,32281.5,No,Lake Valerie,73
+2138,6/26/2025,February,Dominique Wong,Hot Wheels Pack,Juguetes,15215.92,18984.3,1,43022.64,826.86,No,Evelyntown,73
+2139,2/10/2025,February,Shane Pham,Aspiradora Robot,Juguetes,21148.07,13224.13,5,67784.25,25768.35,No,Lake Valerie,73
+2140,6/22/2025,March,Shane Key,Aspiradora Robot,Belleza,22859.82,11241.07,3,67784.25,22303.9,No,Lake Valerie,73
+2141,3/20/2025,March,Shane Key,Crema Nivea,Juguetes,15215.92,1611.12,1,10172.34,18558.03,No,North Nicoleshire,73
+2142,6/15/2025,February,Bryan Baldwin,Chamarra Puma,Juguetes,22859.82,2335.54,3,84267.15,22303.9,No,Lake Michael,25
+2143,5/25/2025,June,Bryan Baldwin,Hot Wheels Pack,Juguetes,3390.78,12150.15,3,10172.34,11626.56,No,Evelyntown,53
+2144,6/22/2025,February,Christopher David,Gorra Under Armour,Juguetes,22859.82,18984.3,3,9207.8,28311.8,No,Lake Michael,73
+2145,6/15/2025,February,Christopher David,Hot Wheels Pack,Ropa,18335.76,13224.13,3,12869.65,28326.21,No,Evelyntown,53
+2146,3/14/2025,May,Jacob Strickland,Playera Nike,Electrónica,9207.8,2335.54,5,301.64,28326.21,No,Lake Michael,96
+2147,3/14/2025,June,Vanessa Bonilla,Hot Wheels Pack,Juguetes,2573.93,11107.04,4,68579.46,28311.8,No,East Paul,68
+2148,6/22/2025,June,Jessica Lane,Gorra Under Armour,Electrónica,22859.82,14040.35,3,10741.35,4341.6,No,New Shannon,48
+2149,3/7/2025,June,Jacob Strickland,Gorra Under Armour,Juguetes,16903.43,11107.04,4,58899.08,11626.56,No,Lake Aaron,66
+2150,2/16/2025,May,Keith Jones,Playera Nike,Electrónica,2573.93,11107.04,1,10172.34,21705.15,No,Sheltonburgh,48
+2151,6/22/2025,February,Brittany Mills,Hot Wheels Pack,Ropa,9207.8,14040.35,1,70447.26,28326.21,No,New Shannon,68
+2152,2/14/2025,June,Vanessa Bonilla,Maquillaje MAC,Hogar,2573.93,12150.15,1,8161.91,28326.21,No,Sheltonburgh,92
+2153,3/7/2025,June,Vanessa Bonilla,Maquillaje MAC,Hogar,10013.68,11107.04,1,70447.26,18665.97,No,Michaeltown,28
+2154,3/7/2025,June,Vanessa Bonilla,Playera Nike,Ropa,8161.91,4578.72,3,70447.26,4678.81,No,Tonyafurt,68
+2155,2/14/2025,May,Vanessa Bonilla,Playera Nike,Hogar,2573.93,2930.19,3,70447.26,4678.81,No,Tonyafurt,37
+2156,2/21/2025,April,Keith Jones,Shampoo L'Oréal,Hogar,19695.75,3557.93,5,99859.24,42166.45,No,Michaeltown,52
+2157,3/7/2025,May,Keith Jones,Silla Gamer,Hogar,2573.93,4578.72,5,8161.91,18665.97,No,Sheltonburgh,28
+2158,5/24/2025,May,Keith Jones,Juego de sábanas,Hogar,2573.93,11262.46,1,70447.26,20315.92,No,Matthewview,28
+2159,5/29/2025,May,Adam Martin,Silla Gamer,Hogar,18267.35,19885.83,4,8161.91,20315.92,No,Matthewview,37
+2160,2/3/2025,April,Beth Reid,Maquillaje MAC,Hogar,10811.96,3557.93,5,8161.91,42166.45,Sí,Matthewview,72
+2161,2/3/2025,April,Beth Reid,Silla Gamer,Juguetes,10811.96,19885.83,1,44983.48,42166.45,Sí,Wilsonhaven,37
+2162,4/17/2025,May,Christine Jones,Shampoo L'Oréal,Hogar,22491.74,11131.98,5,44983.48,1316.1,Sí,Matthewborough,63
+2163,2/9/2025,May,Christine Jones,Colchón SpringAir,Juguetes,10013.68,11131.98,5,99859.24,20315.92,No,Reynoldsborough,25
+2164,2/9/2025,May,Christine Jones,Silla Gamer,Juguetes,1771.62,11131.98,5,8161.91,2783.36,No,Tonyafurt,25
+2165,4/17/2025,February,Christine Jones,Aspiradora Robot,Juguetes,10811.96,13781.57,5,8161.91,26558.1,Sí,Matthewborough,25
+2166,4/1/2025,May,Wayne Bailey,Shampoo L'Oréal,Juguetes,1771.62,13196.07,5,56001.21,1316.1,No,Brucestad,63
+2167,4/17/2025,June,Wayne Bailey,Laptop Lenovo,Juguetes,21852.82,13781.57,5,7967.65,20315.92,No,West Staceyville,16
+2168,2/9/2025,May,Mark Franco,Aspiradora Robot,Juguetes,1771.62,11131.98,5,28082.95,1316.1,Sí,Lesliehaven,16
+2169,5/28/2025,May,Christine Jones,Tenis Adidas,Ropa,21197.14,1401.56,1,7967.65,14912.76,No,Reynoldsborough,45
+2170,4/1/2025,June,Stephanie Cross,Barbie Princesa,Juguetes,10811.96,13196.07,2,7967.65,7717.88,No,Wilsonhaven,68
+2171,1/12/2025,June,Wayne Bailey,Puzzle 1000 piezas,Belleza,21852.82,11131.98,2,34187.34,7717.88,Sí,Reynoldsborough,61
+2172,2/9/2025,June,Frances Fowler,Aspiradora Robot,Ropa,21852.82,13196.07,2,10811.96,12352.77,Sí,Lake Heather,92
+2173,6/10/2025,May,George Espinoza,Puzzle 1000 piezas,Belleza,18550.13,1401.56,1,110476.1,12352.77,No,West Staceyville,92
+2174,1/12/2025,May,Frances Fowler,Tenis Adidas,Belleza,22095.22,13196.07,3,43234.96,7717.88,Sí,Garyland,48
+2175,1/12/2025,June,Jessica Foster,Puzzle 1000 piezas,Ropa,22095.22,1330.31,3,110476.1,14912.76,No,Collinston,92
+2176,6/29/2025,June,Michelle Rose,Colchón SpringAir,Ropa,8694.8,12250.76,1,34187.34,12352.77,Sí,West Staceyville,48
+2177,3/28/2025,June,Amy Wagner,Perfume Dior,Juguetes,8694.8,13196.07,2,34187.34,21889.8,No,Lesliehaven,61
+2178,3/28/2025,June,Jillian Chambers,Colchón SpringAir,Ropa,9567.17,4684.86,3,47835.85,21889.8,No,Brucestad,92
+2179,6/10/2025,March,Sharon Nguyen,Colchón SpringAir,Juguetes,22095.22,11501.56,1,47835.85,7626.05,No,Lake Heather,48
+2180,6/7/2025,March,Charles Diaz,Playera Nike,Belleza,19127.61,4684.86,1,38393.43,7626.05,No,Thomasberg,20
+2181,6/7/2025,March,Michelle Rose,Perfume Dior,Belleza,20199.81,11501.56,1,38393.43,12352.77,Sí,Tammytown,61
+2182,6/7/2025,March,Charles Diaz,Playera Nike,Electrónica,18670.54,12250.76,2,38393.43,21889.8,Sí,Katieberg,91
+2183,3/31/2025,March,Michelle Rose,Playera Nike,Ropa,19127.61,15584.59,1,38393.43,43822.9,No,Tammytown,61
+2184,1/5/2025,March,Daniel Freeman,Colchón SpringAir,Ropa,10789.18,11501.56,1,38393.43,869.07,Sí,Tammytown,19
+2185,3/31/2025,June,Jessica Foster,Nintendo Switch Lite,Juguetes,9567.17,11501.56,1,47835.85,9599.0,Sí,Charlesshire,19
+2186,3/8/2025,May,Jessica Foster,Nintendo Switch Lite,Electrónica,16110.5,12363.08,2,48331.5,19932.12,Sí,Lindaview,61
+2187,5/16/2025,June,Charles Diaz,Gorra Under Armour,Belleza,10789.18,17121.58,3,38393.43,20049.7,No,Lindaview,61
+2188,5/17/2025,January,Pedro Davis,Gorra Under Armour,Electrónica,9567.17,17121.58,2,95148.68,19932.12,No,Tammytown,61
+2189,5/19/2025,January,Daniel Mcclure,Nintendo Switch Lite,Electrónica,10789.18,12363.08,3,37341.08,19932.12,No,Tammytown,93
+2190,5/19/2025,May,Richard Bradley,Nintendo Switch Lite,Juguetes,21127.66,12363.08,2,38393.43,2550.77,No,Tammytown,19
+2191,6/13/2025,March,Kristine Matthews,Gorra Under Armour,Juguetes,16110.5,6921.78,3,37341.08,7477.56,No,East Michael,53
+2192,5/17/2025,February,Daniel Mcclure,Silla Gamer,Juguetes,10789.18,17121.58,2,48331.5,11134.44,No,West Aprilview,19
+2193,4/9/2025,February,Pedro Davis,Playera Nike,Juguetes,15164.65,17121.58,2,105638.3,2550.77,No,Lindaview,85
+2194,4/9/2025,February,Karen May,Monitor LG,Electrónica,15164.65,12134.59,2,31873.5,7477.56,No,Maryburgh,57
+2195,6/13/2025,March,Kristine Matthews,Nintendo Switch Lite,Electrónica,16110.5,12134.59,3,64754.24,2550.77,No,West Aprilview,57
+2196,2/12/2025,February,Pedro Davis,Nintendo Switch Lite,Juguetes,19751.75,12134.59,2,105638.3,4492.53,No,North Jackchester,93
+2197,5/28/2025,February,Karen May,Nintendo Switch Lite,Hogar,14550.2,12134.59,2,33150.27,4492.53,No,North Jackchester,57
+2198,5/28/2025,February,Joanna Rowe,Monitor LG,Ropa,2659.83,12134.59,3,64754.24,5400.98,No,West Aprilview,77
+2199,2/12/2025,June,Amy Greer,Silla Gamer,Juguetes,9109.52,7749.66,2,33150.27,21009.05,No,South Joseph,52
+2200,2/12/2025,April,Kristine Matthews,Juego de sábanas,Hogar,16623.94,8316.06,3,31873.5,5400.98,No,North Jackchester,52
+2201,5/19/2025,February,Karen May,Barbie Princesa,Hogar,19751.75,13645.95,3,47401.6,11134.44,No,New Erik,53
+2202,6/16/2025,June,Michael Richardson,Barbie Princesa,Juguetes,14550.2,13645.95,1,47401.6,2594.05,No,Charlesfurt,95
+2203,4/20/2025,February,Rebecca Simmons,Juego de sábanas,Belleza,16623.94,13645.95,5,20660.76,5400.98,No,Charlesfurt,95
+2204,5/19/2025,February,Rebecca Simmons,Barbie Princesa,Juguetes,16623.94,13645.95,3,73837.65,5400.98,No,West Aprilview,89
+2205,4/20/2025,June,Rebecca Simmons,Shampoo L'Oréal,Belleza,16623.94,13645.95,4,20894.48,3984.81,No,West Aprilview,34
+2206,1/20/2025,March,Karen Martin,Juego de sábanas,Hogar,9480.32,13645.95,2,20660.76,3885.8,No,Martinezchester,31
+2207,5/19/2025,May,Kyle Thomas,Juego de sábanas,Ropa,24612.55,7610.67,3,47401.6,25861.9,No,South Brandon,34
+2208,2/25/2025,June,Karen Martin,Juego de sábanas,Juguetes,9109.52,1217.04,2,21865.51,6688.89,No,Mathewsville,95
+2209,2/25/2025,May,Kristina Moyer,LEGO Star Wars,Juguetes,16623.94,5278.51,2,21865.51,8933.97,No,West Ronald,28
+2210,2/25/2025,May,Rebecca Simmons,Juego de sábanas,Juguetes,9480.32,13645.95,2,21865.51,6688.89,No,South Jennifer,31
+2211,5/19/2025,February,Kristina Moyer,Gorra Under Armour,Ropa,24612.55,7610.67,4,692.25,6688.89,No,Mathewsville,27
+2212,1/28/2025,January,Brenda Myers,LEGO Star Wars,Juguetes,230.75,6291.01,3,21865.51,3885.8,No,South Jennifer,34
+2213,2/25/2025,June,Kristina Moyer,Gorra Under Armour,Electrónica,9480.32,15176.62,3,21865.51,21009.05,No,West Ronald,27
+2214,5/13/2025,May,Susan Daniels,Nintendo Switch Lite,Juguetes,9480.32,6291.01,2,94662.76,25628.0,No,South Jennifer,27
+2215,5/13/2025,May,Kimberly Dawson,Auriculares JBL,Electrónica,13241.51,6291.01,3,24105.75,3885.8,No,North Joshuatown,74
+2216,5/13/2025,February,Brenda Myers,Samsung Galaxy,Juguetes,13241.51,12761.69,3,61635.04,14722.76,Sí,South Jennifer,34
+2217,2/25/2025,February,Brenda Myers,LEGO Star Wars,Electrónica,230.75,13671.98,4,692.25,18316.38,No,East Crystalfurt,57
+2218,2/15/2025,May,Brenda Myers,LEGO Star Wars,Electrónica,24160.08,12761.69,4,24105.75,14722.76,No,North Joshuatown,27
+2219,1/28/2025,February,Susan Daniels,Shampoo L'Oréal,Juguetes,8035.25,121.77,3,61635.04,325.52,No,North Joshuatown,25
+2220,4/25/2025,February,David King,LEGO Star Wars,Electrónica,24368.9,12761.69,4,39289.2,18316.38,No,East Crystalfurt,25
+2221,1/18/2025,April,Julie Mills,Puzzle 1000 piezas,Electrónica,509.24,4296.28,3,42214.64,325.52,No,Sandybury,74
+2222,1/26/2025,April,Susan Daniels,Puzzle 1000 piezas,Electrónica,13241.51,121.77,4,17744.5,25628.0,Sí,Sandybury,73
+2223,4/29/2025,April,Julie Mills,LEGO Star Wars,Electrónica,24368.9,121.77,3,61635.04,9377.36,No,New Brian,97
+2224,1/18/2025,February,Julie Mills,Puzzle 1000 piezas,Belleza,8872.25,4296.28,4,42214.64,9377.36,No,North Laurastad,29
+2225,1/6/2025,April,Julie Mills,Shampoo L'Oréal,Belleza,8035.25,121.77,2,39289.2,325.52,No,Sandybury,92
+2226,4/29/2025,April,David King,LEGO Star Wars,Belleza,509.24,3977.37,1,19734.15,1142.25,No,Sandybury,74
+2227,1/19/2025,April,Julie Mills,Puzzle 1000 piezas,Electrónica,18608.36,12248.61,4,27740.82,9377.36,No,North Laurastad,73
+2228,2/11/2025,June,Julie Mills,Maquillaje MAC,Belleza,15408.76,12248.61,3,17744.5,6113.34,No,New Joseph,73
+2229,1/6/2025,June,Julie Mills,Puzzle 1000 piezas,Belleza,3655.21,12248.61,3,75505.45,1142.25,No,Sandybury,73
+2230,4/29/2025,June,Belinda Allen,Puzzle 1000 piezas,Belleza,1968.53,7203.85,1,39289.2,6769.68,Sí,Sandybury,64
+2231,2/11/2025,January,Tyler Mullins,Samsung Galaxy,Ropa,3655.21,17064.62,3,75505.45,6113.34,No,East Keithside,42
+2232,1/25/2025,January,Deborah Barnett,Puzzle 1000 piezas,Electrónica,3655.21,7203.85,1,74433.44,8277.36,No,New Brian,64
+2233,3/24/2025,June,Melissa Parker,Auriculares JBL,Electrónica,1968.53,7203.85,3,14620.84,13909.88,No,Cunninghamstad,23
+2234,2/11/2025,May,Tyler Webb,Puzzle 1000 piezas,Ropa,18608.36,1423.5,3,74187.48,4201.28,No,Rickyshire,18
+2235,5/19/2025,May,Tyler Webb,Playera Nike,Electrónica,9363.13,1423.5,3,5119.62,8277.36,No,South Jessica,96
+2236,5/19/2025,March,Tyler Webb,Samsung Galaxy,Ropa,24909.49,17064.62,1,14620.84,6113.34,No,South Jessica,96
+2237,5/19/2025,April,Tyler Webb,Playera Nike,Hogar,3655.21,1423.5,5,74187.48,4201.28,No,West John,100
+2238,5/19/2025,January,Robert Jenkins,Puzzle 1000 piezas,Juguetes,9117.55,7588.66,5,33700.59,8277.36,No,South Jessica,33
+2239,5/5/2025,May,Tyler Webb,Nintendo Switch Lite,Ropa,9117.55,2604.89,5,5905.59,1635.09,No,Rickyshire,96
+2240,5/19/2025,May,Emma Snyder,Playera Nike,Juguetes,9363.13,7588.66,1,99637.96,8277.36,No,Tammymouth,96
+2241,5/5/2025,March,Robin Newman,Auriculares JBL,Ropa,16274.06,15173.98,1,4399.14,4078.22,No,Rickyshire,27
+2242,3/24/2025,May,Robin Newman,Samsung Galaxy,Hogar,24909.49,6781.95,1,99637.96,8862.12,No,West John,100
+2243,1/12/2025,May,James Mendoza,Auriculares JBL,Juguetes,11699.25,1423.5,1,4399.14,8862.12,No,Gregorybury,100
+2244,7/1/2025,July,Sheri Reyes,Playera Nike,Juguetes,19252.2,8299.4,4,99637.96,8862.12,No,Perezbury,50
+2245,1/12/2025,March,Emma Snyder,Playera Nike,Juguetes,16274.06,2180.38,1,16274.06,42199.6,No,Elizabethfurt,71
+2246,5/25/2025,May,Emma Snyder,Nintendo Switch Lite,Juguetes,19252.2,15173.98,1,36345.28,8862.12,No,Port Beckyberg,71
+2247,5/30/2025,June,Robin Newman,Nintendo Switch Lite,Electrónica,11699.25,11567.84,1,19697.2,10904.3,No,Tammymouth,71
+2248,7/1/2025,May,Mark Green,Nintendo Switch Lite,Belleza,24909.49,11567.84,2,11730.27,43704.9,No,Tammymouth,100
+2249,7/1/2025,May,Kerry Conrad,Pantalón Levi's,Juguetes,12768.02,15173.98,1,96088.8,5189.13,No,Tammymouth,50
+2250,4/17/2025,July,Troy Morales,Nintendo Switch Lite,Belleza,3910.09,10476.78,1,15663.06,8862.12,No,New Mariaville,71
+2251,4/17/2025,February,Troy Morales,Maquillaje MAC,Electrónica,12768.02,2180.38,4,36345.28,5189.13,No,Gregorybury,80
+2252,5/19/2025,April,Jason Carson,Laptop Lenovo,Electrónica,3910.09,11199.87,4,11730.27,43704.9,No,Lake Markburgh,48
+2253,7/1/2025,May,Jason Carson,Auriculares JBL,Electrónica,19217.76,2180.38,1,96088.8,13693.65,No,Lake Markburgh,80
+2254,1/22/2025,July,Leslie Edwards,Laptop Lenovo,Electrónica,22117.74,2180.38,1,11730.27,5189.13,No,Port Mariefort,75
+2255,5/19/2025,March,Mark Green,Laptop Lenovo,Electrónica,22117.74,7395.28,3,11730.27,5189.13,No,Stevensville,17
+2256,5/19/2025,January,Kerry Conrad,Pantalón Levi's,Electrónica,20136.74,11199.87,1,96088.8,43704.9,No,South Mollyview,48
+2257,1/25/2025,April,Heather Jackson,Shampoo L'Oréal,Electrónica,20136.74,2180.38,4,10612.25,14611.72,No,New Tarafurt,31
+2258,1/22/2025,June,John Gaines,Barbie Princesa,Belleza,22383.66,2180.38,1,6800.35,1139.83,No,North Eric,80
+2259,3/26/2025,May,Kristen Lester,iPhone 14,Belleza,18056.1,7395.28,3,22092.36,1139.83,No,Christineberg,98
+2260,1/25/2025,January,Tammy Brown,iPhone 14,Belleza,1360.07,17819.11,5,22092.36,14611.72,No,Port Joshuaport,98
+2261,3/26/2025,March,Heather Jackson,Monitor LG,Juguetes,22383.66,10227.73,4,22092.36,1139.83,No,Port Mariefort,75
+2262,3/26/2025,February,Heather Jackson,Maquillaje MAC,Juguetes,18056.1,14728.64,1,6800.35,1150.05,No,Port Mariefort,74
+2263,1/22/2025,February,Tammy Brown,Hot Wheels Pack,Juguetes,11046.18,10227.73,4,6800.35,1150.05,No,North Eric,98
+2264,1/22/2025,January,Mr. Scott Cox,Hot Wheels Pack,Juguetes,18898.63,1130.06,5,9911.16,1139.83,No,Port Joshuaport,89
+2265,3/4/2025,February,Mr. Scott Cox,Chamarra Puma,Ropa,21988.98,7395.28,3,9654.7,1150.05,No,Port Joshuaport,74
+2266,4/14/2025,April,Gail Lozano,Perfume Dior,Belleza,21988.98,6694.97,2,94493.15,8903.65,No,East Kimberly,74
+2267,4/14/2025,May,Mr. Scott Cox,Barbie Princesa,Juguetes,14963.05,1130.06,5,9654.7,1139.83,No,Port Mariefort,89
+2268,4/14/2025,May,Craig Perez,Plancha Remington,Belleza,14963.05,6694.97,4,21728.75,1139.83,No,Cainstad,89
+2269,3/4/2025,May,Gail Lozano,Perfume Dior,Belleza,14963.05,14822.32,4,14048.84,8903.65,No,Angelaport,84
+2270,4/14/2025,March,Craig Perez,Plancha Remington,Belleza,14963.05,2165.5,5,20412.15,8903.65,No,Gabriellamouth,84
+2271,4/14/2025,January,Gail Lozano,Plancha Remington,Ropa,4345.75,14822.32,5,37931.76,1150.05,No,New Taylorberg,29
+2272,4/14/2025,May,Justin Daniels,Colchón SpringAir,Electrónica,3580.55,6694.97,5,21728.75,7574.43,No,New Jeremiah,84
+2273,2/11/2025,May,Justin Daniels,Colchón SpringAir,Electrónica,14963.05,12837.72,5,14048.84,28142.05,No,East Kimberly,58
+2274,3/25/2025,May,Tina Carson,Chamarra Puma,Electrónica,14963.05,10765.99,5,14048.84,3999.52,No,West Scottmouth,84
+2275,5/27/2025,March,Daniel Johnson,Plancha Remington,Hogar,3580.55,12837.72,5,50787.39,7574.43,No,West Scottmouth,58
+2276,1/6/2025,February,Daniel Johnson,Nintendo Switch Lite,Hogar,18898.63,2165.5,5,50787.39,9970.62,No,Angelaport,84
+2277,5/14/2025,January,Carolyn Taylor,Nintendo Switch Lite,Belleza,7262.0,12837.72,1,14048.84,30454.6,No,West Scottmouth,84
+2278,2/11/2025,January,Daniel Johnson,Chamarra Puma,Ropa,22404.44,7916.74,3,21728.75,9970.62,No,Angelaport,84
+2279,2/11/2025,February,Teresa Harrington,Chamarra Puma,Ropa,18898.63,4973.11,1,50787.39,30454.6,No,West Natalieton,95
+2280,2/11/2025,January,Daniel Johnson,Chamarra Puma,Ropa,9482.94,4287.16,4,37931.76,3999.52,No,West Scottmouth,58
+2281,5/14/2025,February,Carolyn Taylor,Aspiradora Robot,Belleza,7262.0,4287.16,4,886.11,9970.62,No,South Michaelview,84
+2282,5/14/2025,February,David Wright,Pantalón Levi's,Hogar,7262.0,12837.72,4,23982.93,148.98,No,Kempburgh,83
+2283,3/21/2025,February,Mrs. Melissa Dalton,Chamarra Puma,Ropa,2819.74,158.62,3,16284.81,3999.52,No,Michaelville,95
+2284,5/31/2025,March,Linda Brown,Silla Gamer,Belleza,16929.13,4973.11,3,23982.93,30794.96,No,Kempburgh,83
+2285,7/3/2025,June,Daniel Johnson,Barbie Princesa,Belleza,2819.74,4973.11,3,50787.39,3999.52,No,Kevinshire,99
+2286,6/18/2025,February,David Wright,Maquillaje MAC,Juguetes,22404.44,17066.56,3,458.04,99.63,No,South Michaelview,83
+2287,6/19/2025,June,Brady Crawford,Pantalón Levi's,Juguetes,15984.82,11974.38,3,63939.28,4485.99,No,Michaelville,34
+2288,6/18/2025,June,Brian Chase,Crema Nivea,Ropa,2819.74,231.12,3,67213.32,4485.99,No,East Jessica,28
+2289,3/21/2025,April,Valerie Smith,Pantalón Levi's,Electrónica,15984.82,5398.31,4,1352.1,22676.22,No,Kevinshire,28
+2290,5/6/2025,May,Suzanne Thompson,Crema Nivea,Juguetes,2819.74,17066.56,3,67213.32,99.63,No,East Melissaville,68
+2291,6/18/2025,April,Brian Chase,Maquillaje MAC,Ropa,450.7,231.12,2,458.04,45521.16,No,West Kristen,28
+2292,5/6/2025,March,Amanda Roberts,Juego de sábanas,Juguetes,6893.64,4555.76,4,20680.92,30648.08,No,New Lisa,28
+2293,5/3/2025,May,Debbie Byrd,Juego de sábanas,Ropa,450.7,17066.56,1,17893.44,4485.99,No,New Lisa,32
+2294,6/18/2025,April,Valerie Smith,Juego de sábanas,Ropa,2819.74,17066.56,1,1352.1,99.63,No,West Kristen,83
+2295,3/22/2025,June,Valerie Smith,Pantalón Levi's,Juguetes,450.7,5398.31,4,16376.72,99.63,No,Debrafurt,83
+2296,6/2/2025,March,Debbie Byrd,Pantalón Levi's,Ropa,24728.58,231.12,4,14103.15,99.63,No,East Melissaville,91
+2297,6/2/2025,March,Amanda Roberts,Juego de sábanas,Ropa,330.75,8883.51,4,14103.15,4217.51,No,Jeffersonfurt,27
+2298,3/22/2025,February,Debbie Byrd,Plancha Remington,Electrónica,450.7,231.12,4,14103.15,15938.04,No,Debrafurt,68
+2299,6/2/2025,February,Debbie Byrd,Juego de sábanas,Ropa,24728.58,4555.76,4,14103.15,4217.51,No,East Melissaville,34
+2300,2/26/2025,January,Christopher Ramirez,Juego de sábanas,Hogar,450.7,12159.21,4,14103.15,6357.51,No,Willisberg,69
+2301,3/22/2025,May,Daniel Gould,Colchón SpringAir,Electrónica,6435.98,7236.98,1,14103.15,9913.02,No,East Melissaville,83
+2302,2/26/2025,January,Amy Myers,Juego de sábanas,Hogar,10454.56,9996.76,3,17893.44,15803.5,No,North Shannonstad,49
+2303,4/19/2025,January,Debbie Lewis,Juego de sábanas,Ropa,6435.98,9996.76,1,30584.61,7378.35,No,Willisberg,49
+2304,1/7/2025,April,Christopher Ramirez,Juego de sábanas,Ropa,3831.32,7236.98,4,41818.24,4217.51,No,East Melissaville,97
+2305,4/19/2025,March,Amy Myers,Juego de sábanas,Electrónica,6435.98,2355.65,4,14103.15,9100.24,No,Willisberg,15
+2306,1/7/2025,February,Victoria Richardson,Juego de sábanas,Ropa,10444.07,4080.89,4,49087.28,4226.16,No,New Matthew,69
+2307,1/30/2025,January,Albert Reyes,Juego de sábanas,Ropa,12271.82,4080.89,4,52220.35,5447.67,No,Patrickstad,35
+2308,3/19/2025,April,Lisa Watson,Juego de sábanas,Juguetes,24822.13,4080.89,1,41818.24,6422.4,No,North Shannonstad,15
+2309,1/7/2025,January,Tammy Cantrell,Juego de sábanas,Juguetes,12271.82,4080.89,1,41818.24,15803.5,No,West Jerryport,35
+2310,1/30/2025,May,Carl Forbes,Juego de sábanas,Juguetes,6435.98,10179.41,1,4793.16,5447.67,No,South Phyllisbury,97
+2311,1/24/2025,January,Ms. Barbara Schneider,LEGO Star Wars,Juguetes,24822.13,12370.6,4,52220.35,9100.24,No,West Jerryport,97
+2312,2/22/2025,March,Lisa Watson,Juego de sábanas,Juguetes,8040.7,663.87,4,52220.35,272.18,No,Nicholasview,97
+2313,1/30/2025,June,Carl Forbes,Nintendo Switch Lite,Electrónica,24822.13,3418.85,2,936.05,7691.45,No,Nicholasview,18
+2314,1/30/2025,May,Tammy Cantrell,Nintendo Switch Lite,Juguetes,8040.7,12091.91,4,936.05,928.33,No,Nicholasview,49
+2315,2/22/2025,March,Tammy Cantrell,Nintendo Switch Lite,Juguetes,18223.67,3418.85,1,99288.52,272.18,No,Caldwellburgh,32
+2316,6/24/2025,February,Lisa Watson,Crema Nivea,Juguetes,8040.7,663.87,1,4793.16,7691.45,No,East Jessicaland,18
+2317,6/29/2025,March,Tammy Cantrell,Nintendo Switch Lite,Juguetes,5935.05,10179.41,2,4793.16,7691.45,No,Caldwellburgh,28
+2318,2/22/2025,May,Chelsea Nguyen,Crema Nivea,Juguetes,12440.96,6200.16,2,19077.6,7025.1,Sí,East Jessicaland,92
+2319,1/30/2025,May,Carl Forbes,Crema Nivea,Juguetes,8040.7,16537.55,1,19174.73,20987.45,No,East Jessicaland,28
+2320,6/29/2025,March,Tammy Cantrell,Nintendo Switch Lite,Belleza,12440.96,3418.85,4,19174.73,18131.4,No,East Jessicaland,92
+2321,1/25/2025,June,Chelsea Nguyen,Nintendo Switch Lite,Ropa,12440.96,6200.16,1,5935.05,7025.1,No,East Jessicaland,28
+2322,6/20/2025,February,James Cummings,Colchón SpringAir,Juguetes,1084.73,6745.58,1,4793.16,7012.98,No,Lake Peter,94
+2323,6/29/2025,February,Lisa Lewis,Crema Nivea,Ropa,20163.83,5703.04,3,4804.7,7947.2,Sí,New Heatherfurt,11
+2324,4/5/2025,June,Stacey Flores,Crema Nivea,Belleza,1084.73,2011.76,5,6877.82,2516.2,No,Port Christopher,50
+2325,3/29/2025,February,Lisa Lewis,Colchón SpringAir,Juguetes,12440.96,6200.16,5,19077.6,2573.65,No,Port Christopher,28
+2326,6/14/2025,June,Mrs. Courtney Cochran DVM,LEGO Star Wars,Juguetes,20163.83,9881.07,5,4804.7,18131.4,No,Marybury,73
+2327,6/29/2025,February,Sandra Schneider,Crema Nivea,Ropa,3438.91,15124.75,3,4804.7,12457.23,No,New Heatherfurt,81
+2328,6/16/2025,February,Lisa Lewis,Chamarra Puma,Juguetes,3438.91,5823.73,5,4804.7,2573.65,No,Marybury,50
+2329,6/16/2025,February,Sandra Schneider,Chamarra Puma,Ropa,3438.91,6200.16,5,4804.7,2573.65,No,New Heatherfurt,58
+2330,6/20/2025,February,Joshua Clements,Chamarra Puma,Juguetes,1084.73,9881.07,5,48759.48,1902.26,No,Port Christopher,73
+2331,4/5/2025,July,Kevin Russo,Shampoo L'Oréal,Ropa,3438.91,4333.64,3,2476.62,18131.4,No,Hernandezberg,58
+2332,3/29/2025,July,Sandra Schneider,Shampoo L'Oréal,Juguetes,3438.91,3337.89,1,20737.14,12457.23,No,West Nicholasside,73
+2333,7/5/2025,June,Kevin Russo,Crema Nivea,Juguetes,20090.13,570.0,1,96222.92,1902.26,Sí,Port Christopher,72
+2334,3/29/2025,July,Joshua Clements,Crema Nivea,Juguetes,22930.79,15124.75,3,48759.48,12457.23,No,Brooksborough,72
+2335,7/5/2025,July,Dana Gardner,Puzzle 1000 piezas,Electrónica,1238.31,10876.79,3,63463.75,10184.76,Sí,Port Christopher,72
+2336,5/20/2025,June,Dana Gardner,Laptop Lenovo,Hogar,22930.79,10876.79,5,63463.75,1902.26,Sí,Danielhaven,32
+2337,6/16/2025,May,Margaret Gross,Barbie Princesa,Hogar,17132.64,15124.75,1,96222.92,4253.38,Sí,West Carolyn,79
+2338,2/23/2025,January,Dana Gardner,Puzzle 1000 piezas,Juguetes,11952.53,8241.88,5,23905.06,10184.76,Sí,Bonnieside,58
+2339,4/18/2025,May,Dana Gardner,Puzzle 1000 piezas,Ropa,24439.24,12366.25,1,63463.75,6625.0,Sí,Michaelville,88
+2340,2/23/2025,May,Dana Gardner,Laptop Lenovo,Juguetes,22930.79,12366.25,5,36056.6,4253.38,No,Bonnieside,58
+2341,6/17/2025,July,Dana Gardner,Puzzle 1000 piezas,Electrónica,24439.24,12366.25,5,1966.88,19445.3,Sí,Michaelville,79
+2342,2/23/2025,May,Nancy Phillips,Juego de sábanas,Electrónica,6087.76,4822.28,5,23905.06,6625.0,Sí,Carneytown,79
+2343,2/16/2025,May,Natasha Roach,Barbie Princesa,Juguetes,6087.76,8241.88,4,49460.76,19445.3,No,Michaelville,79
+2344,4/18/2025,February,Nancy Phillips,Laptop Lenovo,Juguetes,10983.5,6164.56,4,1966.88,5775.4,Sí,West Carolyn,19
+2345,1/5/2025,May,Natasha Roach,Juego de sábanas,Hogar,11952.53,6164.56,2,11939.96,5775.4,Sí,Carneytown,39
+2346,2/23/2025,February,Richard Stewart,Puzzle 1000 piezas,Hogar,11939.96,6164.56,4,97756.96,5775.4,No,Bradshawshire,55
+2347,6/17/2025,February,Max Barrett,Shampoo L'Oréal,Belleza,18831.14,9278.41,4,49460.76,3482.15,No,North Shelby,58
+2348,6/17/2025,June,Michele Davis,Juego de sábanas,Belleza,16486.92,1727.99,2,38653.94,6803.1,No,North Shelby,88
+2349,2/23/2025,May,Kevin Hutchinson,Maquillaje MAC,Ropa,10983.5,9278.41,4,49460.76,18872.64,No,Bradshawshire,79
+2350,2/17/2025,February,Deborah Davidson,Maquillaje MAC,Ropa,11939.96,4822.28,4,11939.96,18872.64,No,North Shelby,88
+2351,2/17/2025,June,Kevin Hutchinson,LEGO Star Wars,Ropa,18914.67,7404.45,1,9515.44,18872.64,No,East Rodneychester,84
+2352,5/23/2025,February,Deborah Davidson,Juego de sábanas,Hogar,10983.5,10383.83,2,7367.0,3969.4,No,Bradshawshire,39
+2353,5/9/2025,June,Deborah Davidson,Juego de sábanas,Juguetes,24226.12,10383.83,2,32950.5,3969.4,No,Scottview,20
+2354,2/18/2025,February,Kevin Hutchinson,iPhone 14,Ropa,2273.7,10383.83,2,9515.44,6803.1,No,Bradshawshire,88
+2355,5/9/2025,June,Susan Torres,Juego de sábanas,Juguetes,2378.86,10383.83,4,7367.0,1617.28,No,Scottview,20
+2356,2/17/2025,May,Kevin Hutchinson,Playera Nike,Hogar,2378.86,7404.45,4,9515.44,6114.08,No,East Rodneychester,51
+2357,2/18/2025,February,Samuel Cole,Chamarra Puma,Hogar,2273.7,7404.45,1,9515.44,3969.4,No,East Rodneychester,81
+2358,5/9/2025,April,Joseph Reed,Laptop Lenovo,Juguetes,9562.0,1479.82,4,13894.76,6114.08,No,Scottview,51
+2359,3/27/2025,February,Samuel Cole,Playera Nike,Electrónica,24226.12,7404.45,4,11657.55,2683.58,No,Collierhaven,51
+2360,4/27/2025,April,Samuel Cole,iPhone 14,Juguetes,9562.0,3733.2,4,32950.5,2683.58,No,Alexandrabury,81
+2361,5/9/2025,May,Samuel Cole,LEGO Star Wars,Electrónica,23308.47,7404.45,4,26151.0,19318.15,No,Collierhaven,47
+2362,5/13/2025,February,Joseph Reed,LEGO Star Wars,Electrónica,2273.7,7404.45,2,26151.0,6114.08,No,Scottview,47
+2363,3/27/2025,February,Samuel Cole,LEGO Star Wars,Electrónica,2273.7,11661.56,4,11657.55,6914.48,No,Jamesfurt,81
+2364,4/21/2025,January,Timothy Miller,LEGO Star Wars,Electrónica,11061.55,1618.01,5,55307.75,6914.48,No,Jamesfurt,18
+2365,4/21/2025,February,Joyce Rodriguez,LEGO Star Wars,Juguetes,16474.28,6761.45,2,13894.76,2683.58,No,Alexandrabury,47
+2366,4/21/2025,January,Joseph Reed,Nintendo Switch Lite,Ropa,11061.55,4683.42,3,11657.55,6914.48,No,Josephside,47
+2367,4/25/2025,May,Timothy Miller,Samsung Galaxy,Juguetes,19571.16,4683.42,4,26151.0,4945.14,No,Alexandrabury,20
+2368,2/23/2025,February,Timothy Miller,Nintendo Switch Lite,Belleza,19571.16,13284.2,4,17291.89,50121.35,No,Morganmouth,18
+2369,1/15/2025,February,Mark Green,Nintendo Switch Lite,Ropa,16474.28,3733.2,4,70740.24,4945.14,No,Alexandrabury,60
+2370,4/25/2025,January,Tammy Porter,LEGO Star Wars,Electrónica,3565.56,12017.87,5,26151.0,817.7,No,Williamsmouth,80
+2371,2/25/2025,February,Randall Allen,Hot Wheels Pack,Ropa,16474.28,2160.7,4,25469.28,6914.48,Sí,Williamsmouth,60
+2372,2/25/2025,May,Joyce Rodriguez,Barbie Princesa,Electrónica,3565.56,6761.45,1,27988.08,7257.8,No,Lisaview,20
+2373,5/1/2025,February,Paul Kelly,Nintendo Switch Lite,Juguetes,16474.28,2479.53,5,82371.4,28002.45,No,Lisaview,60
+2374,2/25/2025,May,Patricia Koch DDS,iPhone 14,Electrónica,2990.13,12017.87,2,82371.4,7257.8,Sí,Charlesshire,33
+2375,5/30/2025,January,Paul Kelly,Barbie Princesa,Electrónica,13075.76,2479.53,1,5980.26,7733.61,No,Morganmouth,92
+2376,5/29/2025,June,Mark Green,Barbie Princesa,Juguetes,16474.28,12017.87,5,27988.08,7733.61,No,Priceshire,60
+2377,2/27/2025,January,Christina Walsh,Nintendo Switch Lite,Belleza,1015.45,10284.12,1,13075.76,7733.61,Sí,East Matthew,33
+2378,1/10/2025,May,Christina Walsh,Nintendo Switch Lite,Juguetes,13075.76,3234.34,1,82371.4,14500.88,No,East Matthew,30
+2379,5/29/2025,May,Stacy Medina,Silla Gamer,Electrónica,2990.13,8131.88,2,27988.08,28002.45,No,New Nicolefurt,60
+2380,5/1/2025,May,Christina Walsh,Nintendo Switch Lite,Electrónica,17291.89,10365.14,2,13075.76,8377.83,Sí,New Nicolefurt,60
+2381,5/1/2025,January,Christina Walsh,Barbie Princesa,Juguetes,13075.76,591.17,2,116275.35,8377.83,No,Charlesshire,72
+2382,3/8/2025,January,Stacy Medina,LEGO Star Wars,Juguetes,1772.64,10365.14,5,116275.35,7552.88,No,New Nicolefurt,33
+2383,5/1/2025,June,Ryan Lee,LEGO Star Wars,Juguetes,13075.76,10365.14,5,27988.08,1021.2,No,Port Robertshire,30
+2384,4/5/2025,February,Stacy Medina,Silla Gamer,Juguetes,7898.33,2479.53,2,7898.33,8377.83,No,South Walter,72
+2385,6/24/2025,April,Patricia Koch DDS,Juego de sábanas,Juguetes,7373.04,2479.53,5,23793.75,858.6,No,Port Robertshire,73
+2386,5/1/2025,May,Stacy Medina,Puzzle 1000 piezas,Juguetes,1772.64,10684.07,5,23793.75,8377.83,No,North Brittanyhaven,98
+2387,3/8/2025,March,Stacy Medina,Silla Gamer,Juguetes,9772.74,6926.42,5,13187.82,3289.65,No,Port Robertshire,82
+2388,3/6/2025,February,Ryan Lee,Nintendo Switch Lite,Hogar,9772.74,3234.34,5,13187.82,9522.36,No,Harrisonburgh,73
+2389,4/5/2025,May,Ryan Lee,iPhone 14,Juguetes,17366.48,10095.04,2,13187.82,3289.65,No,South Debbie,82
+2390,4/5/2025,June,Stacy Medina,iPhone 14,Ropa,4758.75,6926.42,5,48863.7,21402.5,No,New Angelaview,82
+2391,7/5/2025,April,Ryan Lee,iPhone 14,Juguetes,13788.18,10095.04,5,34732.96,9522.36,No,Lake Marissashire,82
+2392,7/5/2025,February,David Mcneil,Auriculares JBL,Hogar,9772.74,10684.07,5,26707.58,9522.36,No,North Brittanyhaven,79
+2393,3/6/2025,February,Cindy Hudson DDS,Nintendo Switch Lite,Juguetes,7373.04,2322.75,4,48863.7,3756.5,No,Lake Marissashire,73
+2394,4/27/2025,February,Glenn Crawford,Puzzle 1000 piezas,Electrónica,3499.71,9466.5,5,26707.58,5416.63,No,New Angelaview,21
+2395,4/27/2025,July,Cindy Hudson DDS,Puzzle 1000 piezas,Belleza,13788.18,6384.2,4,30051.8,6347.75,No,Lake Marissashire,79
+2396,4/10/2025,June,Robert Arnold,LEGO Star Wars,Electrónica,7512.95,6384.2,5,48863.7,7774.58,No,West Jose,82
+2397,2/16/2025,February,Deanna Hill,Puzzle 1000 piezas,Belleza,13788.18,18656.39,5,26707.58,40483.25,No,West Jose,21
+2398,4/10/2025,May,Ryan Lee,Puzzle 1000 piezas,Electrónica,24073.02,2625.73,5,26707.58,7774.58,No,Lake Marissashire,17
+2399,4/27/2025,February,Frank Scott,LEGO Star Wars,Belleza,3640.07,2625.73,2,26707.58,3756.5,No,West Jose,68
+2400,2/11/2025,June,Lisa Holland,LEGO Star Wars,Belleza,7512.95,4395.8,1,26707.58,3756.5,No,West Jose,21
+2401,2/11/2025,May,Sara Smith,Auriculares JBL,Electrónica,3640.07,124.57,1,26707.58,39564.0,No,Kochberg,17
+2402,1/8/2025,April,Joy Nelson,Auriculares JBL,Electrónica,24073.02,894.62,5,8465.88,28737.52,No,Port Marieton,30
+2403,4/10/2025,June,Deanna Hill,Auriculares JBL,Electrónica,16646.27,894.62,4,24073.02,39564.0,No,Hallmouth,30
+2404,5/29/2025,March,Rebecca Jimenez,Auriculares JBL,Ropa,3640.07,7729.36,5,8465.88,3171.26,No,West Jenniferstad,93
+2405,2/16/2025,May,Frank Scott,Tenis Adidas,Belleza,19912.38,124.57,1,12633.92,3171.26,No,Ramirezville,100
+2406,2/11/2025,May,Sara Smith,Gorra Under Armour,Ropa,3640.07,97.59,1,71805.6,39564.0,No,Angelahaven,42
+2407,6/3/2025,January,Wendy Shaw,Tenis Adidas,Belleza,5732.15,124.57,5,12633.92,39564.0,No,Hallmouth,96
+2408,5/29/2025,January,Wendy Shaw,Auriculares JBL,Ropa,21873.14,10110.83,2,16646.27,39564.0,No,Angelahaven,42
+2409,3/12/2025,June,Mr. Joseph Gonzales,Playera Nike,Ropa,16646.27,6694.31,2,21873.14,4225.71,Sí,Jensenborough,30
+2410,6/19/2025,April,Joseph Chang,Silla Gamer,Hogar,5732.15,894.62,2,26619.32,28737.52,No,Port Marieton,68
+2411,3/12/2025,April,Mr. Joseph Gonzales,Puzzle 1000 piezas,Electrónica,5732.15,17647.43,2,34762.74,11569.22,No,Kerrmouth,27
+2412,3/26/2025,March,Shelley Moore,Aspiradora Robot,Hogar,5732.15,17647.43,2,21873.14,4542.45,No,West Jenniferstad,27
+2413,1/21/2025,April,Julia Simpson,Samsung Galaxy,Electrónica,5732.15,12255.33,1,21873.14,4542.45,No,Kerrmouth,42
+2414,3/26/2025,April,Wendy Shaw,Playera Nike,Hogar,5732.15,6694.31,1,26619.32,4225.71,No,Bethstad,30
+2415,4/19/2025,June,Brittany Lopez,Silla Gamer,Electrónica,14780.39,6694.31,1,103628.8,17154.0,No,North Christopherburgh,40
+2416,1/21/2025,June,Wendy Shaw,Puzzle 1000 piezas,Hogar,15440.29,17647.43,2,16931.85,7424.13,Sí,Kerrmouth,27
+2417,3/26/2025,March,Joseph Chang,Aspiradora Robot,Ropa,14780.39,9376.84,1,26619.32,4225.71,No,South Marcus,27
+2418,4/19/2025,March,Julia Simpson,Aspiradora Robot,Hogar,15440.29,9376.84,5,37009.16,14628.28,No,West Jenniferstad,27
+2419,3/26/2025,April,Erin Hernandez,Licuadora Oster,Hogar,14780.39,12255.33,3,53235.1,7424.13,No,West Jenniferstad,29
+2420,3/26/2025,April,Julia Simpson,Plancha Remington,Hogar,13309.66,18367.86,1,34762.74,33363.35,No,North Christopherburgh,11
+2421,4/30/2025,March,Peter Gilbert,Aspiradora Robot,Hogar,13309.66,18367.86,3,16931.85,4726.5,No,Martinmouth,53
+2422,4/22/2025,February,Brittany Lopez,Puzzle 1000 piezas,Hogar,16151.05,9376.84,1,23865.88,17154.0,Sí,Martinmouth,27
+2423,3/22/2025,March,Joshua Jackson,Aspiradora Robot,Hogar,13309.66,9376.84,5,15633.36,7424.13,No,North Dennismouth,11
+2424,4/27/2025,June,Peter Gilbert,Puzzle 1000 piezas,Belleza,16151.05,2713.45,5,33370.76,2732.49,No,North Dennismouth,29
+2425,4/30/2025,February,Joseph Chang,Pantalón Levi's,Hogar,13309.66,568.95,1,20897.15,5018.98,No,Jennachester,87
+2426,3/22/2025,February,Kayla Powers,Puzzle 1000 piezas,Hogar,16151.05,12185.64,3,20897.15,17154.0,No,Jennachester,11
+2427,4/27/2025,June,Kayla Powers,Aspiradora Robot,Hogar,6187.55,12185.64,3,53235.1,8175.88,No,Lake Andrew,40
+2428,6/5/2025,May,Tamara Dunlap,Pantalón Levi's,Electrónica,2907.32,568.95,3,4366.76,1091.36,No,Jennachester,87
+2429,6/5/2025,March,Denise Fisher,Pantalón Levi's,Electrónica,16685.38,5096.19,3,33370.76,8175.88,No,Martinmouth,40
+2430,3/17/2025,April,Suzanne Ewing,Puzzle 1000 piezas,Hogar,4179.43,568.95,1,9829.21,2732.49,No,Jennachester,24
+2431,3/5/2025,June,Denise Fisher,Plancha Remington,Electrónica,16685.38,568.95,4,33370.76,2732.49,No,Farrellborough,93
+2432,3/5/2025,May,Suzanne Ewing,Licuadora Oster,Electrónica,4179.43,12948.31,2,5448.81,1091.36,No,Jennachester,93
+2433,3/5/2025,June,Denise Fisher,Samsung Galaxy,Ropa,16685.38,1203.79,3,23013.64,8175.88,No,Farrellborough,65
+2434,3/22/2025,June,Bryan Mclaughlin,Silla Gamer,Hogar,4179.43,7096.72,2,9829.21,10065.33,No,Farrellborough,48
+2435,3/17/2025,May,Suzanne Ewing,Plancha Remington,Electrónica,16685.38,12948.31,1,33370.76,10065.33,No,Mannstad,24
+2436,3/17/2025,May,Eric Long,Silla Gamer,Ropa,4179.43,5096.19,3,33370.76,13651.6,No,West Melissa,70
+2437,3/5/2025,May,Denise Fisher,Silla Gamer,Electrónica,4179.43,1203.79,2,163.96,10065.33,No,Alyssahaven,24
+2438,3/5/2025,April,Suzanne Ewing,Juego de sábanas,Ropa,163.96,12021.11,3,24338.61,812.33,No,Birdburgh,70
+2439,4/18/2025,April,Christopher Scott,Samsung Galaxy,Belleza,3849.1,1203.79,1,5448.81,812.33,No,Shannonchester,77
+2440,5/22/2025,May,David Harper,Pantalón Levi's,Juguetes,3073.08,8238.87,3,5448.81,3246.47,No,Garciaberg,27
+2441,5/19/2025,May,David Harper,iPhone 14,Ropa,11651.77,99.58,1,163.96,13651.6,No,Mannstad,24
+2442,3/17/2025,April,Christopher Scott,Samsung Galaxy,Belleza,3849.1,15303.87,1,3849.1,10065.33,No,Deborahland,70
+2443,5/22/2025,May,Amy Rodriguez,Perfume Dior,Electrónica,3849.1,6434.69,3,24338.61,3246.47,No,West Melissa,27
+2444,2/28/2025,May,Christopher Scott,Samsung Galaxy,Juguetes,3849.1,9056.6,2,3849.1,39764.0,No,Deborahland,27
+2445,2/28/2025,January,Amy Rodriguez,Perfume Dior,Belleza,23013.64,99.58,3,24338.61,13794.6,No,Juarezville,27
+2446,5/19/2025,March,Christopher Scott,Perfume Dior,Electrónica,136.4,15303.87,2,24338.61,13651.6,Sí,Smithhaven,50
+2447,1/29/2025,January,Crystal Evans,Samsung Galaxy,Belleza,2458.66,4773.17,3,24338.61,1837.44,No,Albertberg,20
+2448,4/18/2025,February,Jermaine Cortez,Perfume Dior,Electrónica,8019.64,13812.52,3,8019.64,3246.47,No,Albertberg,25
+2449,1/29/2025,April,Brandon Mitchell,Perfume Dior,Belleza,20520.23,4773.17,3,8019.64,11472.52,No,Albertberg,21
+2450,7/5/2025,June,Jermaine Cortez,Auriculares JBL,Electrónica,20520.23,3222.47,3,71231.28,30920.64,No,West Jordanchester,25
+2451,2/16/2025,January,Jermaine Cortez,Perfume Dior,Electrónica,22442.46,6434.69,5,72358.2,1811.04,No,Contrerasberg,65
